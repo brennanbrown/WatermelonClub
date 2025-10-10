@@ -1,165 +1,54 @@
 ---
 layout: base
-title: Know Your Rights - Legal Support for Palestine Solidarity Activists
-description: Legal rights, protest information, and support resources for Canadian students organizing for Palestine.
+title: Know Your Rights - Legal Support
+description: Legal rights, protest information, support resources for Canadian students.
 ---
 
 # ⚖️ Know Your Rights
-
-**Legal information and support for students organizing for Palestinian solidarity in Canada.**
 
 ---
 
 ## Legal Support Organizations
 
-### Palestine-Specific Legal Support
+**[Palestine Legal](https://palestinelegal.org/)** (US-based, excellent resources) - Know Your Rights materials, direct legal support for students, [10 Reasons for Students to Call](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine), virtual workshops available, contact proactively if facing issues.
 
-**[Palestine Legal](https://palestinelegal.org/)** (US-based, excellent resources)
-- Know Your Rights materials
-- Direct legal support for students
-- **[10 Reasons for Students to Call Palestine Legal](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)**
-- Virtual workshops available
-- Contact proactively if facing issues
+**[Just Peace Advocates - Palestine Legal Resource Canada](https://www.justpeaceadvocates.ca/)** - Canadian initiative, bolsters Palestine solidarity movement, challenges legal bullying and harassment, serves activists across Canada.
 
-**[Just Peace Advocates - Palestine Legal Resource Canada (PLRC)](https://www.justpeaceadvocates.ca/)**
-- Canadian initiative
-- Bolsters Palestine solidarity movement
-- Challenges legal bullying and harassment
-- Serves activists across Canada
+**[Legal Centre for Palestine](https://www.lcpal.ca/)** - Canadian-based, legal advice and support for activists.
 
-**[Legal Centre for Palestine (LCP)](https://www.lcpal.ca/)**
-- Canadian-based center
-- Legal advice and support for activists
-- Essential support for solidarity work
+**[Canadian Civil Liberties Association (CCLA)](https://ccla.org/)** - Protects civil liberties, [Know Your Rights: Protesting](https://ccla.org/know-your-rights-protesting/).
 
-### General Legal Resources
+**[Canadian Legal Information Institute (CanLII)](https://www.canlii.org/en)** - Free access to court judgments, tribunal decisions, statutes and regulations.
 
-**[Canadian Civil Liberties Association (CCLA)](https://ccla.org/)**
-- Protects civil liberties
-- [Know Your Rights: Protesting](https://ccla.org/know-your-rights-protesting/)
+**[LegalTree.ca](https://www.legaltree.ca/)** - Collaborative legal resource, secondary sources on Canadian law.
 
-**[Canadian Legal Information Institute (CanLII)](https://www.canlii.org/en)**
-- Free access to court judgments
-- Tribunal decisions
-- Statutes and regulations from all Canadian jurisdictions
-
-**[LegalTree.ca](https://www.legaltree.ca/)**
-- Collaborative legal resource
-- Secondary sources on Canadian law
-- Content from legal community
-
-**[Canada Legal Help](https://canadalegalhelp.com/)**
-- Free legal information
-- Database by subject area
-- Research articles and news
+**[Canada Legal Help](https://canadalegalhelp.com/)** - Free legal information, database by subject area.
 
 ---
 
 ## Student Rights on Campus
 
-### Your Rights as a Student
+**Free Expression:** Students have freedom of expression (protected under Charter). This includes organizing, tabling, protests, wearing symbols (keffiyeh, watermelon, etc.). Universities are supposed to protect academic freedom.
 
-**Free Expression on Campus:**
-- Students have **freedom of expression** (protected under Charter)
-- This includes organizing, tabling, protests, wearing symbols (keffiyeh, watermelon, etc.)
-- Universities are supposed to protect academic freedom
+**Administration CAN:** Require permits for events (must be content-neutral), set reasonable time/place/manner restrictions, require advance notice, enforce safety regulations.
 
-**What Administration CAN Do:**
-- Require permits for events (must be content-neutral)
-- Set reasonable time/place/manner restrictions
-- Require advance notice
-- Enforce safety regulations
+**Administration CANNOT:** Punish you for political viewpoint, selectively enforce rules based on content, restrict speech because others disagree, retaliate for organizing.
 
-**What Administration CANNOT Do:**
-- Punish you for political viewpoint
-- Selectively enforce rules based on content
-- Restrict speech because others disagree
-- Retaliate for organizing
+**If You're Facing Discipline:**
 
-### If You're Facing Discipline
+1. Contact [Palestine Legal](https://palestinelegal.org/) (they've supported thousands of students, free consultations). 2. Document everything (save emails/letters/notices, screenshot social media, write down conversations with date/time/who, keep copies of flyers/permits). 3. Don't go to meetings alone (bring witness, take notes, ask for everything in writing). 4. Know your rights (due process, right to see evidence, right to respond, right to appeal). 5. Get support (student union, faculty allies, other student groups, legal organizations).
 
-**Immediate Steps:**
-
-1. **Contact Palestine Legal:** [palestinelegal.org](https://palestinelegal.org/)
-   - They've supported thousands of students
-   - Free consultations
-   - Can provide legal support or referrals
-
-2. **Document Everything:**
-   - Save all emails, letters, notices
-   - Screenshot social media
-   - Write down conversations (date, time, who said what)
-   - Keep copies of event flyers, permits
-
-3. **Don't Go to Meetings Alone:**
-   - Bring a witness (friend, lawyer if possible)
-   - Take notes
-   - Ask for everything in writing
-
-4. **Know Your Rights:**
-   - You have right to **due process**
-   - Right to see evidence against you
-   - Right to respond
-   - Right to appeal
-
-5. **Get Support:**
-   - Student union
-   - Faculty allies
-   - Other student groups
-   - Legal organizations above
-
-**Red Flags - Contact Legal Support If:**
-- You're accused of antisemitism for criticizing Israel
-- Disciplinary action seems selective
-- Process lacks due process
-- Threats of suspension/expulsion
-- Investigation seems biased
+**Red Flags - Contact Legal Support:** Accused of antisemitism for criticizing Israel, disciplinary action seems selective, process lacks due process, threats of suspension/expulsion, investigation seems biased.
 
 ---
 
 ## Protest Rights in Canada
 
-### Your Charter Rights
+**[Canadian Charter of Rights and Freedoms](https://laws-lois.justice.gc.ca/eng/Const/page-12.html):** Section 2(b) - Freedom of Expression (right to hold and express opinions, right to peaceful assembly and protest). Section 2(c) - Freedom of Peaceful Assembly (right to gather and demonstrate). Section 2(d) - Freedom of Association (right to organize with others). Section 9 - Freedom from Arbitrary Detention (cannot be arrested without reason). Section 10 - Rights on Arrest or Detention (right to know why arrested, right to legal counsel, right to habeas corpus).
 
-**[Canadian Charter of Rights and Freedoms](https://laws-lois.justice.gc.ca/eng/Const/page-12.html)**
+**Before a Protest - Preparation:** Know the laws in your city, understand permit requirements, have legal observer present, know your rights (carry card), have legal support number in phone, tell someone where you're going, bring ID (not required to show unless arrested), don't bring anything you can't afford to lose.
 
-**Section 2(b): Freedom of Expression**
-- Right to hold and express opinions
-- Right to peaceful assembly and protest
-
-**Section 2(c): Freedom of Peaceful Assembly**
-- Right to gather and demonstrate
-
-**Section 2(d): Freedom of Association**
-- Right to organize with others
-
-**Section 9: Freedom from Arbitrary Detention**
-- Cannot be arrested without reason
-
-**Section 10: Rights on Arrest or Detention**
-- Right to know why arrested
-- Right to legal counsel
-- Right to habeas corpus
-
-### Before a Protest
-
-**Preparation:**
-
-☐ Know the laws in your city  
-☐ Understand permit requirements  
-☐ Have legal observer present  
-☐ Know your rights (carry card)  
-☐ Have legal support number in phone  
-☐ Tell someone where you're going  
-☐ Bring ID (not required to show unless arrested)  
-☐ Don't bring anything you can't afford to lose  
-
-**Safety Planning:**
-- Buddy system
-- Communication plan
-- Exit routes
-- Meeting point if separated
-- What to do if arrested
+**Safety Planning:** Buddy system, communication plan, exit routes, meeting point if separated, what to do if arrested.
 
 ### During a Protest
 
