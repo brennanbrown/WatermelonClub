@@ -1,59 +1,30 @@
 ---
 layout: base
-title: Mental Health & Burnout Prevention for Organizers
-description: Mental health resources and burnout prevention strategies for Palestine solidarity activists.
+title: Mental Health & Burnout Prevention
+description: Mental health resources, burnout prevention strategies.
 ---
 
 # 🧠 Mental Health & Burnout Prevention
-
-**Taking care of yourself so you can sustain this work for the long haul.**
 
 ---
 
 ## Why This Matters
 
-**Organizing for Palestine is emotionally intense because:**
-- Witnessing ongoing violence and suffering
-- Facing hostility and opposition
-- Feeling urgency and responsibility
-- Experiencing vicarious trauma
-- Dealing with media censorship and erasure
-- Navigating personal relationships and social costs
+Organizing for Palestine is emotionally intense: Witnessing ongoing violence and suffering, facing hostility and opposition, feeling urgency and responsibility, experiencing vicarious trauma, dealing with media censorship and erasure, navigating personal relationships and social costs.
 
-**You cannot pour from an empty cup.**
-
-Taking care of your mental health is not selfish—it's strategic. Burned out organizers can't organize. This is a marathon, not a sprint.
+You cannot pour from an empty cup. Taking care of your mental health is not selfish—it's strategic. Burned out organizers can't organize. This is a marathon, not a sprint.
 
 ---
 
-## 🚨 Recognizing Burnout
+## Recognizing Burnout
 
-### Signs of Burnout
+**Physical:** Constant exhaustion (even after rest), frequent illness (lowered immune system), headaches/body aches, sleep problems (insomnia or sleeping too much), changes in appetite.
 
-**Physical:**
-- Constant exhaustion, even after rest
-- Frequent illness (lowered immune system)
-- Headaches, body aches
-- Sleep problems (insomnia or sleeping too much)
-- Changes in appetite
+**Emotional:** Feeling numb or detached, loss of motivation or sense of purpose, cynicism or hopelessness, irritability/short temper, anxiety or depression, feeling overwhelmed constantly.
 
-**Emotional:**
-- Feeling numb or detached
-- Loss of motivation or sense of purpose
-- Cynicism or hopelessness
-- Irritability, short temper
-- Anxiety or depression
-- Feeling overwhelmed constantly
+**Behavioral:** Withdrawing from responsibilities, procrastinating on organizing tasks, isolating from friends and comrades, increased substance use, difficulty concentrating, missing meetings or events.
 
-**Behavioral:**
-- Withdrawing from responsibilities
-- Procrastinating on organizing tasks
-- Isolating from friends and comrades
-- Increased substance use
-- Difficulty concentrating
-- Missing meetings or events
-
-**If you recognize these signs in yourself or a comrade, it's time to make changes.**
+If you recognize these signs in yourself or a comrade, it's time to make changes.
 
 ---
 
