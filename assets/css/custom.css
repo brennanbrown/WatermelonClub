@@ -475,7 +475,8 @@ a[href^="http"]:hover::after {
     
     .main-nav .has-dropdown .dropdown {
         display: none;
-        background: transparent;
+        background: var(--card-bg);
+        padding: 10px 0;
     }
     
     .main-nav .has-dropdown.active .dropdown {
