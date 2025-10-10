@@ -1,76 +1,50 @@
 # 🍉 Watermelon Club - Palestine Solidarity Resources
 
-Fun, accessible Palestine solidarity resources for Canadian students. Learn, organize, take action. Start your own Watermelon Club today!
+Palestine solidarity resources for Canadian students. Learn, organize, take action.
 
 **Live Site:** [watermelonclub.org](https://watermelonclub.org)
 
 ---
 
-## 📋 About This Project
+## About
 
-**Watermelon Club** makes Palestine solidarity organizing fun, accessible, and sustainable for students.
+Watermelon Club makes Palestine solidarity organizing accessible and sustainable for students.
 
-This site serves as a centralized hub for:
-- **Educational Resources** - Palestine 101, resources library, media literacy
-- **Start Your Own Watermelon Club** - Weekly actions, role templates, strategic campaigns
-- **Take Action Resources** - Email templates, donation links, BDS campaigns
-- **Support & Safety** - Legal rights, digital security, mental health
-- **Palestinian Voices** - Journalists, activists, and organizations to follow
+**What's here:**
+- Educational resources (Palestine 101, media literacy)
+- Campus organizing toolkit (weekly actions, role templates, campaigns)
+- Take action resources (email templates, donations, BDS)
+- Support & safety (legal rights, digital security, mental health)
+- Palestinian voices to follow
 
-**Maintained By:** Watermelon Club 🍉 (Calgary, AB)
-
----
-
-## 🏛️ Technical Stack
-
-- **Static Site Generator:** Jekyll 4.3+
-- **Hosting:** Netlify
-- **CSS Framework:** Water.css with extensive Watermelon theme customization
-- **Fonts:** Google Fonts (Fredoka for headings, Inter for body)
-- **JavaScript:** Vanilla JS (collapsible sections, navigation, theme toggle)
-- **Dark Mode:** CSS variables with localStorage persistence
-- **Version Control:** Git/GitHub
+**Maintained by:** Watermelon Club 🍉 (Calgary, AB)
 
 ---
 
-## 🚀 Getting Started
+## Tech Stack
 
-### Prerequisites
+- Jekyll 4.3+
+- Netlify hosting
+- Water.css + custom Watermelon theme
+- Fredoka + Inter fonts
+- Vanilla JS (collapsibles, nav, theme toggle)
+- Dark mode via CSS variables + localStorage
+- Git/GitHub
 
-- Ruby (2.7+)
-- Bundler
-- Jekyll
+---
 
-### Local Development
+## Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/StudentsForPalestine.git
-   cd StudentsForPalestine
-   ```
+**Prerequisites:** Ruby 2.7+, Bundler, Jekyll
 
-2. **Install dependencies**
-   ```bash
-   bundle install
-   ```
+**Local dev:**
 
-3. **Run local server**
-   ```bash
-   bundle exec jekyll serve
-   ```
+1. Clone: `git clone https://github.com/yourusername/StudentsForPalestine.git && cd StudentsForPalestine`
+2. Install: `bundle install`
+3. Run: `bundle exec jekyll serve`
+4. Visit: `http://localhost:4000`
 
-4. **View in browser**
-   ```
-   http://localhost:4000
-   ```
-
-### Building for Production
-
-```bash
-bundle exec jekyll build
-```
-
-Output will be in the `_site` directory.
+**Production build:** `bundle exec jekyll build` (outputs to `_site/`)
 
 ---
 
@@ -122,275 +96,118 @@ watermelonclub/
 
 ---
 
-## 🎨 Design Features
+## Design Features
 
-### Watermelon Theme 🍉
-- **Light Mode:** White/mint backgrounds with watermelon green (#4ECDC4) and coral (#FF6B6B)
-- **Dark Mode:** Dark gray backgrounds with bright teal (#5FE3D8) and softer coral (#FF8787)
-- **Typography:** Fredoka (playful headings) + Inter (readable body)
-- **Animations:** Subtle hover effects, smooth transitions, playful interactions
-- **Favicon:** Watermelon emoji 🍉
+**Watermelon Theme:** Light mode (white/mint with watermelon green #4ECDC4 and coral #FF6B6B), Dark mode (dark gray with bright teal #5FE3D8 and softer coral #FF8787), Fredoka headings + Inter body, watermelon emoji favicon 🍉.
 
-### Dark/Light Mode Toggle
-- Respects system preference (prefers-color-scheme)
-- Manual toggle button (☀️/🌙) in navigation
-- Saves preference to localStorage
-- Smooth transitions between themes
-- All colors use CSS variables for easy theming
+**Dark/Light Toggle:** Respects system preference, manual toggle (☀️/🌙) in nav, saves to localStorage, smooth transitions, CSS variables.
 
-### Collapsible Sections
-All H2 and H3 headings automatically become collapsible sections. URL hashes auto-expand relevant sections.
+**Collapsible Sections:** All H2/H3 auto-collapse. URL hashes auto-expand.
 
-### Responsive Navigation
-- **Desktop:** Hover dropdowns, compact spacing
-- **Tablet:** Optimized spacing (769px-1024px)
-- **Mobile:** Hamburger menu with animated icon
-- Sticky header that stays visible
+**Responsive Nav:** Desktop (hover dropdowns), Tablet (optimized 769px-1024px), Mobile (hamburger menu), sticky header.
 
-### Accessibility
-- Semantic HTML
-- ARIA labels
-- Keyboard navigation
-- Skip to content link
-- Focus states
-- Reduced motion support
-- High contrast in both themes
+**Accessibility:** Semantic HTML, ARIA labels, keyboard nav, skip link, focus states, reduced motion support, high contrast.
 
-### SEO Optimized
-- Complete meta tags (Open Graph, Twitter Cards)
-- JSON-LD structured data
-- Semantic heading structure
-- Descriptive alt text
-- Sitemap generation
-- Watermelon Club branding
+**SEO:** Meta tags (Open Graph, Twitter Cards), JSON-LD, semantic headings, alt text, sitemap.
 
 ---
 
-## 📝 Content Organization
+## Content Structure
 
-### Main Sections
+**Homepage** (`/`) - Urgent actions, quick entry, featured resources
 
-1. **Homepage** (`/`)
-   - Current urgent actions
-   - Quick entry pathways
-   - Featured resources
+**Start Here** (`/start-here`) - 5 min (email MP, donate), 1 hour (join group, actions), Organize (divestment, leadership)
 
-2. **Start Here** (`/start-here`)
-   - **5 Minutes:** Quick actions (email MP, donate, share)
-   - **1 Hour:** Sustained engagement (join group, weekly actions)
-   - **Organize:** Deep commitment (divestment, leadership)
+**Campus Organizing** (`/campus-organizing`) - Weekly actions (tabling, vigils, screenings), role templates, strategic campaigns
 
-3. **Start Your Own Watermelon Club** (`/campus-organizing`)
-   - Hub page encouraging students to start campus chapters
-   - Weekly action templates (tabling, vigils, screenings, social media)
-   - Role templates (5 coordinator positions)
-   - Strategic campaigns (divestment, speakers, media)
-   - Connection to growing Watermelon Club network
+**Take Action** (`/take-action`) - Email/phone templates, vetted donations, BDS campaigns
 
-4. **Take Action** (`/take-action`)
-   - Email templates for MPs
-   - Phone scripts
-   - Vetted donation organizations
-   - BDS campaigns
-   - Media accountability
+**Education** (`/education`) - Palestine 101, myth-busting, history, international law, Canadian context
 
-5. **Education** (`/education`)
-   - Palestine 101 basics
-   - Myth-busting
-   - Historical context & timeline
-   - International law
-   - Resources by format
-   - Canadian context
+**Support** (`/support`) - Legal rights, digital security, mental health
 
-6. **Support & Safety** (`/support`)
-   - Know Your Rights (legal)
-   - Digital security
-   - Mental health & burnout
-   - Dealing with opposition
-
-7. **People to Follow** (`/people-to-follow`)
-   - Palestinian journalists
-   - Human rights organizations
-   - Canadian organizations
-   - News outlets
-   - How to amplify voices
+**People to Follow** (`/people-to-follow`) - Palestinian journalists, human rights orgs, Canadian orgs, news outlets
 
 ---
 
-## 🔗 External Resources Integrated
+## Key Partners
 
-All URLs from research document (`docs/URLs.md`) have been integrated:
+- Humanti Project (email templates)
+- Palestine Portal (toolkits)
+- Protect Palestine (campus resources)
+- Palestine Legal (legal support)
+- CJPME (Canadian advocacy/factsheets)
+- Canadian BDS Coalition (BDS campaigns)
+- Coalition of Canadian Palestinian Organizations (25+ orgs)
 
-### Key Partners
-- **Humanti Project** - Email templates (October 2025)
-- **Palestine Portal** - Comprehensive toolkits
-- **Protect Palestine** - Campus organizer resources
-- **Palestine Legal** - Legal support for students
-- **CJPME** - Canadian advocacy and factsheets
-- **Canadian BDS Coalition** - BDS campaigns
-- **Coalition of Canadian Palestinian Organizations** - 25+ orgs
-
-### Resource Types
-- ✅ Email templates for MPs
-- ✅ Campus organizing toolkits
-- ✅ BDS resources and targets
-- ✅ Legal support organizations
-- ✅ Educational materials
-- ✅ Humanitarian organizations (Canadian-focused)
-- ✅ Palestinian journalists and voices
-- ✅ News sources
-- ✅ Academic resources
+**Integrated:** Email templates, organizing toolkits, BDS resources, legal support, educational materials, humanitarian orgs, Palestinian voices, news sources, academic resources.
 
 ---
 
-## 🛠️ Customization
+## Customization
 
-### Updating Styles
+**Styles:** Edit `/assets/css/custom.css` (colors via CSS variables, layout, components) or `/assets/css/watermelon-animations.css` (animations, buttons).
 
-Edit `/assets/css/custom.css` to modify:
-- Color scheme (CSS variables for both light and dark themes)
-- Layout adjustments
-- Component styles
+**New pages:** Create .md file, add YAML frontmatter (`layout: base`, `title`, `description`), add to nav in `_layouts/base.html`.
 
-Edit `/assets/css/watermelon-animations.css` for:
-- Animation effects
-- Button styles
-- Fun interactive elements
-
-### Adding New Pages
-
-1. Create markdown file in appropriate directory
-2. Add YAML frontmatter:
-   ```yaml
-   ---
-   layout: base
-   title: Page Title
-   description: Meta description for SEO
-   ---
-   ```
-3. Add to navigation in `_layouts/base.html`
-
-### Updating Navigation
-
-Edit the `<nav>` section in `_layouts/base.html` to add/remove/reorganize menu items.
+**Nav:** Edit `<nav>` in `_layouts/base.html`.
 
 ---
 
-## 📊 Analytics & Monitoring
+## Maintenance
 
-Consider adding (not currently implemented):
-- Privacy-respecting analytics (e.g., Plausible, Fathom)
-- Uptime monitoring
-- Broken link checker (monthly)
-- Security headers validation
+**Weekly:** Update urgent actions, check news links, monitor stats.
 
----
+**Monthly:** Link audit, update donations, add resources.
 
-## 🔄 Maintenance Schedule
+**Quarterly:** Content review, update stats, user feedback.
 
-### Weekly
-- Update "Urgent Actions" section
-- Check for broken links in news sections
-- Monitor for outdated statistics
+**Annually:** Major audit, archive old content, structural updates.
 
-### Monthly
-- Full external link audit
-- Update donation organization info
-- Add new resources
-- Update case studies
-
-### Quarterly
-- Comprehensive content review
-- Update all statistics
-- Revise based on user feedback
-- Check accessibility compliance
-
-### Annually
-- Major content audit
-- Archive outdated content
-- Structural updates
-- Design refresh if needed
+**Consider adding:** Privacy-respecting analytics (Plausible/Fathom), uptime monitoring, broken link checker, security headers.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions! Here's how you can help:
+**Content:** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca) with new resources, broken links, suggestions, or campus organizing stories.
 
-### Content Contributions
-- Submit new resources via email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-- Report broken links
-- Suggest new sections or improvements
-- Share campus organizing success stories
+**Code:** Fork repo, create feature branch, make changes, test locally, submit PR.
 
-### Code Contributions
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test locally
-5. Submit a pull request
-
-### Guidelines
-- Maintain Canadian focus
-- Center Palestinian voices
-- Provide sources for factual claims
-- Follow existing formatting
-- Test on mobile devices
-- Ensure accessibility
+**Guidelines:** Maintain Canadian focus, center Palestinian voices, provide sources, follow formatting, test mobile, ensure accessibility.
 
 ---
 
-## 📜 License & Usage
+## License & Usage
 
-This project is dedicated to Palestinian liberation and justice. Content may be freely used, adapted, and shared for non-commercial solidarity purposes.
+Dedicated to Palestinian liberation. Content freely usable for non-commercial solidarity purposes.
 
-### Attributions
-- Please credit Watermelon Club when using substantial portions
-- Link back to watermelonclub.org
-- Maintain attribution to Palestinian sources
+**Attribution:** Credit Watermelon Club, link to watermelonclub.org, maintain attribution to Palestinian sources.
 
-### Restrictions
-- Do not use for commercial purposes
-- Do not alter to spread misinformation
-- Maintain integrity of Palestinian voices and perspectives
+**Restrictions:** No commercial use, no misinformation, maintain integrity of Palestinian voices.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Watermelon Club 🍉**
-
-- **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-- **Website:** [watermelonclub.org](https://watermelonclub.org)
-- **Location:** Mohkínstsis (Calgary, Alberta, Canada)
-- *Instagram coming soon*
+- Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
+- Website: [watermelonclub.org](https://watermelonclub.org)
+- Location: Mohkínstsis (Calgary, AB, Canada)
+- Instagram coming soon
 
 *A [Berry House](https://berryhouse.ca) project*
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-### Organizations
-- Humanti Project
-- Canadians for Justice and Peace in the Middle East (CJPME)
-- Palestine Legal
-- Coalition of Canadian Palestinian Organizations
-- Canadian BDS Coalition
-- All organizations and individuals listed in resources
-
-### Inspiration
-This project was built on the detailed research and specifications compiled from dozens of Palestinian solidarity organizations, with particular thanks to the Palestinian-led BDS movement and the countless organizers who came before.
+Built on research from dozens of Palestinian solidarity organizations. Thanks to Humanti Project, CJPME, Palestine Legal, Coalition of Canadian Palestinian Organizations, Canadian BDS Coalition, and countless organizers who came before.
 
 ---
 
-## 🇵🇸 From the River to the Sea
+**From the river to the sea, Palestine will be free. 🇵🇸**
 
-**Palestine will be free.**
+Questions/corrections: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
-For questions, corrections, or contributions, please contact [mail@berryhouse.ca](mailto:mail@berryhouse.ca).
-
----
-
-**Last Updated:** October 2025
-**Version:** 2.0 - Watermelon Club Rebrand 🍉
+**Last Updated:** October 2025 | **Version:** 2.0 🍉
