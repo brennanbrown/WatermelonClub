@@ -36,7 +36,11 @@ description: Legal rights, protest information, support resources for Canadian s
 
 **If You're Facing Discipline:**
 
-1. Contact [Palestine Legal](https://palestinelegal.org/) (they've supported thousands of students, free consultations). 2. Document everything (save emails/letters/notices, screenshot social media, write down conversations with date/time/who, keep copies of flyers/permits). 3. Don't go to meetings alone (bring witness, take notes, ask for everything in writing). 4. Know your rights (due process, right to see evidence, right to respond, right to appeal). 5. Get support (student union, faculty allies, other student groups, legal organizations).
+1. **Contact [Palestine Legal](https://palestinelegal.org/)** - They've supported thousands of students, free consultations
+2. **Document everything** - Save emails/letters/notices, screenshot social media, write down conversations with date/time/who, keep copies of flyers/permits
+3. **Don't go to meetings alone** - Bring witness, take notes, ask for everything in writing
+4. **Know your rights** - Due process, right to see evidence, right to respond, right to appeal
+5. **Get support** - Student union, faculty allies, other student groups, legal organizations
 
 **Red Flags - Contact Legal Support:** Accused of antisemitism for criticizing Israel, disciplinary action seems selective, process lacks due process, threats of suspension/expulsion, investigation seems biased.
 
@@ -60,11 +64,14 @@ You CANNOT: Block emergency vehicles, damage property, assault anyone, interfere
 
 **If You're Arrested:**
 
-1. Stay Silent: "I am exercising my right to remain silent". 2. Request Lawyer: "I want to speak to a lawyer". 3. Do Not Consent: "I do not consent to any searches". 4. Remember: Anything you say CAN and WILL be used against you.
+1. **Stay Silent:** "I am exercising my right to remain silent"
+2. **Request Lawyer:** "I want to speak to a lawyer"
+3. **Do Not Consent:** "I do not consent to any searches"
+4. **Remember:** Anything you say CAN and WILL be used against you
 
-You MUST Provide: Your name (once arrested), your address.
+**You MUST Provide:** Your name (once arrested), your address.
 
-You DO NOT Have to: Answer other questions, explain where you were going, say anything about the protest, sign anything, consent to searches.
+**You DO NOT Have to:** Answer other questions, explain where you were going, say anything about the protest, sign anything, consent to searches.
 
 Legal Support: [Palestine Legal](https://palestinelegal.org/contact), [Just Peace Advocates](https://www.justpeaceadvocates.ca/), [National Lawyers Guild](https://www.nlg.org/).
 
@@ -84,7 +91,12 @@ Legal Support: [Palestine Legal](https://palestinelegal.org/contact), [Just Peac
 
 **This sometimes happens to Palestine solidarity activists. DO NOT PANIC. You have rights.**
 
-**If They Contact You:** 1. Do Not Talk to Them - Politely decline: "I don't want to speak with you without a lawyer present", get their contact info (card), do not answer questions, even "friendly" small talk. 2. Contact Legal Support Immediately - [Palestine Legal](https://palestinelegal.org/), [National Lawyers Guild](https://www.nlg.org/), [Center for Constitutional Rights](https://ccrjustice.org/). 3. Get a Lawyer - Do not meet with law enforcement without lawyer, lawyer will guide you. 4. Tell Others - Warn your organizing community, they may be targeting multiple people.
+**If They Contact You:**
+
+1. **Do Not Talk to Them** - Politely decline: "I don't want to speak with you without a lawyer present", get their contact info (card), do not answer questions, even "friendly" small talk
+2. **Contact Legal Support Immediately** - [Palestine Legal](https://palestinelegal.org/), [National Lawyers Guild](https://www.nlg.org/), [Center for Constitutional Rights](https://ccrjustice.org/)
+3. **Get a Lawyer** - Do not meet with law enforcement without lawyer, lawyer will guide you
+4. **Tell Others** - Warn your organizing community, they may be targeting multiple people
 
 **What to Say:** "I am exercising my right to remain silent", "I want to speak to a lawyer", "I do not consent to any searches". **THEN STOP TALKING.**
 
@@ -96,7 +108,11 @@ Legal Support: [Palestine Legal](https://palestinelegal.org/contact), [Just Peac
 
 **[Palestine Legal: Interactive Guide on Antisemitism Redefinition](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)** - Timeline of distorted definitions, human impact stories, resources to combat smearing attacks, how to respond to false accusations.
 
-**Key Points:** 1. Criticism of Israel is NOT antisemitism (Israel is a state, states can and should be criticized, this is protected political speech). 2. Anti-Zionism is NOT antisemitism (Anti-Zionism = opposition to Zionist ideology, many Jews are anti-Zionist, political ideology vs. ethnic/religious identity). 3. We actively oppose antisemitism (antisemitism is hatred of Jewish people, we stand against all forms of racism, many Jewish students are part of our movement).
+**Key Points:**
+
+1. **Criticism of Israel is NOT antisemitism** - Israel is a state, states can and should be criticized, this is protected political speech
+2. **Anti-Zionism is NOT antisemitism** - Anti-Zionism = opposition to Zionist ideology, many Jews are anti-Zionist, political ideology vs. ethnic/religious identity
+3. **We actively oppose antisemitism** - Antisemitism is hatred of Jewish people, we stand against all forms of racism, many Jewish students are part of our movement
 
 **Response Template:** "We firmly oppose antisemitism in all its forms. Our movement is based on human rights and international law. Criticism of Israeli government policies is not antisemitism—it's a legitimate expression of political speech. Many Jewish students and allies are central to our organizing, including groups like Jewish Voice for Peace and Independent Jewish Voices Canada. We welcome anyone committed to Palestinian human rights and reject all forms of racism, including antisemitism."
 
