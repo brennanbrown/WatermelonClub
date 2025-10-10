@@ -12,7 +12,7 @@ description: Comprehensive resource hub for Canadian students to learn about Pal
 
 This resource hub has been compiled by students at Mount Royal University in Mohkínstsis, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are.
 
-**If any information or resources exist in contradiction to Palestinian calls to action,** please email us at [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca) or message us on Instagram at [@watermelonclub](https://www.instagram.com/watermelonclub/).
+**If any information or resources exist in contradiction to Palestinian calls to action,** please email us at [mail@berryhouse.ca](mailto:mail@berryhouse.ca) or message us on Instagram at [@watermelonclub](https://www.instagram.com/watermelonclub/).
 
 **Important distinction:** Watermelon Club acknowledges the critical difference between **antisemitism** and **anti-Zionism**. We do NOT support antisemitism in any way and encourage reporting any instances of antisemitism (online or in person). **Criticism of Israeli government policies is not antisemitism—it is legitimate political speech grounded in human rights and international law.**
 
@@ -220,8 +220,9 @@ Lead campaigns and create change:
 
 **[Watermelon Club 🍉](https://www.instagram.com/watermelonclub/)**
 - Campus organizing at MRU
-- Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+- Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - Website: [watermelonclub.org](https://watermelonclub.org)
+- A [Berry House](https://berryhouse.ca) project
 
 **[Calgary Palestinian Council](https://calgarypalestiniancouncil.ca/)**
 - Cultural events, advocacy, community support
@@ -361,12 +362,12 @@ Lead campaigns and create change:
 ### Watermelon Club 🍉 (Watermelon Club)
 
 **Contact:**
-- **Email:** [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+- **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
 
 ### Submit Resources
 Have resources to add? Found broken links? Want to share your campus organizing success?
-**Email us:** [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Email us:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 ---
 
@@ -398,7 +399,7 @@ Criticism of Israeli government policy is not antisemitism. Many Jewish students
 
 ## 🔄 Site Updates
 
-**Last Major Update:** January 2026
+**Last Major Update:** October 2025
 
 **Recent Additions:**
 - Campus organizing toolkit with role templates
@@ -448,4 +449,4 @@ Criticism of Israeli government policy is not antisemitism. Many Jewish students
 
 ---
 
-*This site is maintained by student volunteers. For questions, corrections, or contributions: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)*
+*This site is maintained by student volunteers. For questions, corrections, or contributions: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)*

@@ -905,7 +905,7 @@ FOR IMMEDIATE RELEASE
 ## 📧 Questions?
 
 **Need campaign strategy help?**  
-Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Want to connect with other campus organizers?**  
 We can help connect you with other Canadian campaigns.

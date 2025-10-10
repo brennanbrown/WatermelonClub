@@ -388,7 +388,7 @@ Sincerely,
 
 ---
 
-**Questions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Related:**
 - [Palestine 101 →](/education/palestine-101)

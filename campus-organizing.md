@@ -159,7 +159,7 @@ Don't reinvent the wheel:
 
 ## 📧 Need Help Starting Your Club?
 
-**Email:** [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)  
+**Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)  
 **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
 
 **We can help with:**

@@ -313,7 +313,7 @@ Centralized hub with resources including:
 
 ---
 
-**Questions or suggestions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions or suggestions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Related Pages:**
 - [Palestine 101 →](/education/palestine-101) - Start with basics

@@ -174,7 +174,7 @@ description: Follow and amplify Palestinian journalists, activists, and voices s
 
 **Watermelon Club 🍉 (Watermelon Club)**
 - **Instagram:** [@watermelonclub](https://www.instagram.com/mrusfp/)
-- **Email:** mail@brennanbrown.ca
+- **Email:** mail@berryhouse.ca
 - **Focus:** Campus organizing at MRU
 
 *Find more local chapters through [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/)*
@@ -390,7 +390,7 @@ description: Follow and amplify Palestinian journalists, activists, and voices s
 ## 📝 Suggest Additions
 
 **Know Palestinian voices we should add?**
-Email us: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Email us: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Criteria for inclusion:**
 - Palestinian-led or clear solidarity

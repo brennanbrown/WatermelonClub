@@ -314,6 +314,6 @@ Once you've learned the basics:
 
 ---
 
-**Questions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Ready to learn more?** → [Complete Education Resources](/education/resources)

@@ -459,7 +459,7 @@ Before organizing major action (protest, occupation, etc.), assess:
 
 ---
 
-**Questions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Related Pages:**
 - [Digital Security →](/support/digital-security) - Protect your online presence

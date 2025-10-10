@@ -628,7 +628,7 @@ description: Organizational role templates for building a sustainable Palestine 
 ## 📞 Questions?
 
 **Need help setting up roles?**  
-Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 ---
 

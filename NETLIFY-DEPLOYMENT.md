@@ -498,7 +498,7 @@ bundle update
 - [Jekyll Talk](https://talk.jekyllrb.com/)
 
 **Your Support:**
-- Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+- Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 ---
 
@@ -557,4 +557,4 @@ git push
 
 **Ready to launch? Let's go! 🚀**
 
-**Questions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)

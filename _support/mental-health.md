@@ -598,7 +598,7 @@ A: Check campus counseling (free), sliding scale therapists, community mental he
 ## 📧 Questions?
 
 **Need support or resources?**  
-Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **In crisis?**  
 Text HOME to 686868 or call 1-833-456-4566

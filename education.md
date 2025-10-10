@@ -151,7 +151,7 @@ description: Comprehensive educational resources about Palestine for Canadian st
 
 ## 📧 Questions or Suggestions?
 
-Email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 ---
 

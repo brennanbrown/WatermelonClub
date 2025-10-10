@@ -318,7 +318,7 @@ Consider adding (not currently implemented):
 We welcome contributions! Here's how you can help:
 
 ### Content Contributions
-- Submit new resources via email: [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+- Submit new resources via email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - Report broken links
 - Suggest new sections or improvements
 - Share campus organizing success stories
@@ -360,10 +360,12 @@ This project is dedicated to Palestinian liberation and justice. Content may be 
 
 **Watermelon Club 🍉**
 
-- **Email:** [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+- **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
 - **Website:** [watermelonclub.org](https://watermelonclub.org)
 - **Location:** Mohkínstsis (Calgary, Alberta, Canada)
+
+*A [Berry House](https://berryhouse.ca) project*
 
 ---
 
@@ -386,9 +388,9 @@ This project was built on the detailed research and specifications compiled from
 
 **Palestine will be free.**
 
-For questions, corrections, or contributions, please contact [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca).
+For questions, corrections, or contributions, please contact [mail@berryhouse.ca](mailto:mail@berryhouse.ca).
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** October 2025
 **Version:** 2.0 - Watermelon Club Rebrand 🍉

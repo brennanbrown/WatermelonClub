@@ -609,6 +609,6 @@ Have **5-7 prepared questions** to guide discussion:
 
 ---
 
-**Questions?** Email [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Ready for bigger campaigns?** → [Strategic Campaigns →](/campus-organizing/campaigns)

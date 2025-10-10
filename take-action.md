@@ -205,7 +205,7 @@ Palestinian-led Boycott, Divestment, Sanctions movement.
 ## 🆘 Need Support?
 
 ### Questions?
-**Email:** [mail@brennanbrown.ca](mailto:mail@brennanbrown.ca)
+**Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 ### Facing Backlash?
 - [Palestine Legal](https://palestinelegal.org/)
