@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary Meta Tags -->
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Watermelon Club 🍉 - Palestine Solidarity Resources</title>
+    <meta name="title" content="{% if page.title %}{{ page.title }} | {% endif %}Watermelon Club 🍉 - Palestine Solidarity Resources">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive resource hub for Canadian students to learn about Palestine, take action, and organize for justice. Templates, toolkits, and educational resources.{% endif %}">
+    <meta name="keywords" content="Palestine, solidarity, student organizing, Canada, BDS, divestment, campus activism, Palestinian rights, Gaza, West Bank, CJPME, humanitarian aid, activism resources">
+    <meta name="author" content="Watermelon Club 🍉 (Watermelon Club)">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Watermelon Club 🍉 - Palestine Solidarity">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Fun, accessible Palestine solidarity resources for students. Learn, organize, take action! 🍉{% endif %}">
+    <meta property="og:image" content="https://i.ibb.co/pyvtHk1/Students-For-Palestine.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="en_CA">
+    <meta property="og:site_name" content="Watermelon Club">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}Watermelon Club 🍉 - Palestine Solidarity">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Fun, accessible Palestine solidarity resources for students. Learn, organize, take action! 🍉{% endif %}">
+    <meta name="twitter:image" content="https://i.ibb.co/pyvtHk1/Students-For-Palestine.png">
+    
+    <!-- Additional Meta Tags -->
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    <meta name="theme-color" content="#4ECDC4">
+    
+    <!-- Favicon - Watermelon Emoji 🍉 -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍉</text></svg>">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍉</text></svg>">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+    <link rel="stylesheet" href="/assets/css/watermelon-animations.css">
+    
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Watermelon Club",
+      "alternateName": "watermelonclub.org",
+      "url": "{{ site.url }}",
+      "description": "Comprehensive resource hub for Canadian students to learn about Palestine, take action, and organize for justice.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Watermelon Club 🍉",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://i.ibb.co/pyvtHk1/Students-For-Palestine.png"
+        }
+      }
+    }
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header id="site-header" class="sticky-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="/" class="logo-link">
+                        <span class="watermelon-emoji">🍉</span>
+                        <span class="logo-text">Watermelon Club</span>
+                    </a>
+                </div>
+                
+                <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                
+                <nav class="main-nav" id="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/start-here">Start Here</a></li>
+                        <li class="has-dropdown">
+                            <a href="/campus-organizing">Organize</a>
+                            <ul class="dropdown">
+                                <li><a href="/campus-organizing/weekly-actions">Weekly Actions</a></li>
+                                <li><a href="/campus-organizing/roles">Role Templates</a></li>
+                                <li><a href="/campus-organizing/campaigns">Strategic Campaigns</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <a href="/take-action">Take Action</a>
+                            <ul class="dropdown">
+                                <li><a href="/take-action#quick-actions">Quick Actions (5 min)</a></li>
+                                <li><a href="/take-action#digital-actions">Digital Actions</a></li>
+                                <li><a href="/take-action#campus-actions">Campus Actions</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <a href="/education">Learn</a>
+                            <ul class="dropdown">
+                                <li><a href="/education/palestine-101">Palestine 101</a></li>
+                                <li><a href="/education/resources">Resources</a></li>
+                                <li><a href="/education/media-literacy">Media Literacy</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <a href="/support">Support</a>
+                            <ul class="dropdown">
+                                <li><a href="/support/legal">Know Your Rights</a></li>
+                                <li><a href="/support/digital-security">Digital Security</a></li>
+                                <li><a href="/support/mental-health">Mental Health</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/people-to-follow">Voices to Follow</a></li>
+                        <li>
+                            <button id="theme-toggle" aria-label="Toggle theme">☀️</button>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="main-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer id="site-footer">
+        <div class="container">
+            <div class="footer-compact">
+                <div class="footer-main">
+                    <span class="watermelon-emoji" style="font-size: 2em;">🍉</span>
+                    <div class="footer-info">
+                        <p><strong>Watermelon Club</strong> - Palestine solidarity resources for students</p>
+                        <p>
+                            <a href="mailto:mail@brennanbrown.ca">mail@brennanbrown.ca</a> • 
+                            <a href="https://www.instagram.com/watermelonclub/" target="_blank" rel="noopener">@watermelonclub</a> • 
+                            <a href="https://watermelonclub.org">watermelonclub.org</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <a href="/start-here">Start Here</a> • 
+                    <a href="/take-action">Take Action</a> • 
+                    <a href="/campus-organizing">Start a Club</a> • 
+                    <a href="/education">Learn</a> • 
+                    <a href="/support">Support</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025-2026 Watermelon Club 🍉 | Free Palestine 🇵🇸</p>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- Scripts -->
+    <script src="/assets/js/theme-toggle.js"></script>
+    <script src="/assets/js/collapsible.js"></script>
+    <script src="/assets/js/navigation.js"></script>
+    <script src="/assets/js/toc.js"></script>
+</body>
+</html>
