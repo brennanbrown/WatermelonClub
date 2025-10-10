@@ -1,646 +1,194 @@
 ---
 layout: base
 title: Role Templates - Campus Organizing
-description: Organizational role templates for building a sustainable Palestine solidarity campus group.
+description: Build a sustainable team with clear responsibilities.
 ---
 
 # 👥 Role Templates
 
-**Build a sustainable team with clear responsibilities.**
+Clear roles prevent burnout, confusion, and gaps. They enable skill development, accountability, and sustainable organizing that survives graduation cycles.
 
----
+## 5 Essential Roles
 
-## Why Define Roles?
+1. **Communications** - Social media, press, internal comms
+2. **Outreach** - Recruitment, coalitions, partnerships
+3. **Research** - Investigation, fact-checking, education
+4. **Events** - Planning, logistics, execution
+5. **Finance** - Budget, funding, grants
 
-**Clear roles prevent:**
-- Burnout (no one does everything)
-- Confusion (everyone knows their tasks)
-- Gaps (nothing falls through cracks)
-- Conflict (clear decision-making)
-
-**Clear roles enable:**
-- Skill development
-- Accountability
-- Succession planning
-- Sustainable organizing
-
----
-
-## 🎯 Core Coordinator Roles
-
-### 5 Essential Positions
-
-1. **Communications Coordinator** - Social media, press, internal comms
-2. **Outreach Coordinator** - Recruitment, coalitions, partnerships
-3. **Research Coordinator** - Investigation, fact-checking, education
-4. **Events Coordinator** - Planning, logistics, execution
-5. **Finance/Fundraising Coordinator** - Budget, funding, grants
-
-**Note:** One person can hold multiple roles in small groups. As you grow, split responsibilities.
+Start with 3-5 people. One person can hold multiple roles. As you grow, split responsibilities.
 
 ---
 
 ## 📱 Communications Coordinator
 
-### Responsibilities
+Manage social media (Instagram, Twitter/X, Facebook), write press releases, coordinate with campus media, design graphics, maintain email list.
 
-**Primary:**
-- Manage social media accounts (Instagram, Twitter/X, Facebook)
-- Write press releases for major actions
-- Coordinate with campus media
-- Design graphics and visual content
-- Maintain email list and send newsletters
+**Time:** 5-10 hours/week (1-2 hours daily for social media)
 
-**Time Commitment:** 5-10 hours/week (1-2 hours daily for social media)
+**Skills:** Social media literacy, basic graphic design (Canva works), writing, photography, strategic thinking, consistent availability.
 
-### Skills Needed
+**Set up:** Create press release template, social media caption templates, email newsletter template, graphics style guide, media contact spreadsheet.
 
-✅ Social media literacy  
-✅ Basic graphic design (Canva is sufficient)  
-✅ Writing and editing  
-✅ Photography  
-✅ Strategic thinking  
-✅ Consistent availability  
+**Daily:** Monitor social media (15-30 min), post scheduled content (minimum 1/day), respond to comments and messages.
 
-### Templates to Create
+**Weekly:** Schedule 7-10 posts (2 hours), send email update to membership (1 hour), coordinate with other coordinators (30 min), track analytics and adjust (30 min), plan next week's content (1 hour).
 
-☐ Press release template  
-☐ Social media caption templates  
-☐ Email newsletter template  
-☐ Graphics style guide  
-☐ Media contact spreadsheet  
+**As needed:** Write press releases, design event graphics, coordinate media interviews, live post from events.
 
-### Weekly Tasks
+**Tools:** Canva for design, Later/Buffer for scheduling, Mailchimp/Substack for email, platform insights for analytics, Google Drive for collaboration.
 
-**Daily:**
-- Monitor social media mentions and engagement (15-30 min)
-- Post scheduled content (1 post/day minimum)
-- Respond to comments and messages
-
-**Weekly:**
-- Schedule 7-10 posts across platforms (2 hours)
-- Send weekly email update to membership (1 hour)
-- Coordinate with other roles for content needs (30 min)
-- Track analytics and adjust strategy (30 min)
-- Plan next week's content (1 hour)
-
-**As Needed:**
-- Write press releases for actions/events
-- Design event graphics
-- Coordinate media interviews
-- Live tweet/post from events
-
-### Tools to Use
-
-- **Design:** Canva (free), Adobe Express
-- **Scheduling:** Later, Buffer, or native platform schedulers
-- **Email:** Mailchimp, Substack (free tiers)
-- **Analytics:** Platform insights
-- **Collaboration:** Google Drive, Notion
-
-### Tips for Success
-
-💡 **Batch create content** - Make week's worth at once  
-💡 **Build template library** - Reuse successful formats  
-💡 **Schedule in advance** - Don't post last minute  
-💡 **Center Palestinian voices** - Share, don't speak over  
-💡 **Track what works** - Analytics guide strategy  
-💡 **Have backup admin** - Don't lose account access  
+**Critical:** Batch create content. Build template library. Schedule in advance. Center Palestinian voices—share, don't speak over. Track what works. Have backup admin—don't lose account access.  
 
 ---
 
 ## 🤝 Outreach Coordinator
 
-### Responsibilities
+Build coalitions with other student groups, maintain relationships with faculty allies, coordinate co-sponsorships, represent the group at other organizations' events, recruit new members.
 
-**Primary:**
-- Build coalitions with other student groups
-- Maintain relationships with faculty allies
-- Coordinate co-sponsorships
-- Represent group at other organizations' events
-- Recruit new members
+**Time:** 5-8 hours/week
 
-**Time Commitment:** 5-8 hours/week
+**Skills:** Interpersonal communication, coalition building, public speaking, cultural sensitivity, relationship management, networking.
 
-### Skills Needed
+**Set up:** Coalition outreach email template, co-sponsorship proposal template, faculty ally contact list, event partnership agreement, new member onboarding checklist.
 
-✅ Interpersonal communication  
-✅ Coalition building  
-✅ Public speaking  
-✅ Cultural sensitivity  
-✅ Relationship management  
-✅ Networking  
+**Weekly:** Attend 1-2 meetings with coalition partners (2-4 hours), follow up on partnerships (1 hour), coordinate joint promotion (30 min), onboard new members (1-2 hours), maintain relationship database (30 min).
 
-### Templates to Create
+**As needed:** Reach out to new groups, present to student organizations, coordinate with faculty, recruit at events, build alumni network.
 
-☐ Coalition outreach email template  
-☐ Co-sponsorship proposal template  
-☐ Faculty ally contact list  
-☐ Event partnership agreement  
-☐ New member onboarding checklist  
+**Coalition partners on campus:** Climate justice orgs, Indigenous solidarity groups, anti-racism orgs, religious/cultural groups, labor solidarity, student government, grad student associations, faculty unions.
 
-### Weekly Tasks
+**Off campus:** Local Palestine solidarity groups, faith communities, labor unions, community orgs, alumni networks.
 
-**Regular:**
-- Attend 1-2 meetings with potential coalition partners (2-4 hours)
-- Follow up on partnership opportunities (1 hour)
-- Coordinate joint social media promotion (30 min)
-- Onboard new members - orientation sessions (1-2 hours)
-- Maintain relationship database (30 min)
-
-**As Needed:**
-- Reach out to new groups for partnerships
-- Present to student organizations
-- Coordinate with faculty for support
-- Recruit at events
-- Build alumni network
-
-### Potential Coalition Partners
-
-**On Campus:**
-- Climate justice organizations
-- Indigenous solidarity groups
-- Anti-racism organizations
-- Religious/cultural groups
-- Labor solidarity
-- Student government
-- Graduate student associations
-- Faculty unions
-
-**Off Campus:**
-- Local Palestine solidarity groups
-- Faith communities
-- Labor unions
-- Community organizations
-- Alumni networks
-
-### Tips for Success
-
-💡 **Build genuine relationships** - Not transactional  
-💡 **Find shared values** - Emphasize common ground  
-💡 **Be reliable** - Follow through on commitments  
-💡 **Share resources** - Support others' campaigns  
-💡 **Communicate regularly** - Stay in touch between asks  
-💡 **Celebrate partners** - Public thanks, cross-promotion  
+**Critical:** Build genuine relationships, not transactional ones. Find shared values. Be reliable—follow through. Support others' campaigns. Stay in touch between asks. Celebrate partners publicly.  
 
 ---
 
 ## 🔍 Research Coordinator
 
-### Responsibilities
+Track university investments and connections to genocide, create educational resources, fact-check claims and counter misinformation, prepare briefing documents, monitor news and policy developments.
 
-**Primary:**
-- Track university investments and connections to occupation
-- Create educational resources
-- Fact-check claims and counter misinformation
-- Prepare briefing documents
-- Monitor relevant news and policy developments
+**Time:** 5-10 hours/week
 
-**Time Commitment:** 5-10 hours/week
+**Skills:** Research methodology, data analysis, critical reading, source verification, report writing, attention to detail.
 
-### Skills Needed
+**Set up:** Research brief template, fact sheet template, investment tracking spreadsheet, source evaluation rubric, weekly news digest format.
 
-✅ Research methodology  
-✅ Data analysis  
-✅ Critical reading  
-✅ Source verification  
-✅ Report writing  
-✅ Attention to detail  
+**Weekly:** Monitor university board meetings/documents (2 hours), compile news roundup (1 hour), create 1-2 educational infographics (2 hours), respond to misinformation with sources (1-2 hours), update resource library (1 hour).
 
-### Templates to Create
+**For divestment campaigns:** File FOI requests for university investment information, analyze endowment reports, research companies using [Who Profits](https://www.whoprofits.org/) and [Investigate](https://investigate.afsc.org/), document connections to occupation, track precedents at other universities.
 
-☐ Research brief template  
-☐ Fact sheet template  
-☐ Investment tracking spreadsheet  
-☐ Source evaluation rubric  
-☐ Weekly news digest format  
+**Research areas:** University investments (endowment holdings, complicit companies, board member affiliations, research partnerships), educational content (historical context, international law, current updates, myth-busting), monitoring (campus policy changes, Canadian developments, media coverage, opposition tactics).
 
-### Weekly Tasks
+**News sources:** [Middle East Eye](https://www.middleeasteye.net/), [+972 Magazine](https://www.972mag.com/), [CJPME](https://www.cjpme.org/), Google Alerts for your university + Palestine.
 
-**Regular:**
-- Monitor university board meetings/documents (2 hours)
-- Compile weekly news roundup (1 hour)
-- Create 1-2 educational infographics (2 hours)
-- Respond to misinformation with sources (1-2 hours)
-- Update resource library (1 hour)
-
-**For Divestment Campaign:**
-- Request university investment information (FOI requests)
-- Analyze endowment reports
-- Research companies (Who Profits database, Investigate)
-- Document connections to occupation
-- Track precedents at other universities
-
-### Key Research Areas
-
-**University Investments:**
-- Endowment holdings
-- Companies with ties to occupation
-- Board members' affiliations
-- Research partnerships
-- Study abroad programs
-
-**Educational Content:**
-- Historical context
-- International law
-- Current situation updates
-- Myth-busting
-- Local organizing wins
-
-**Monitoring:**
-- Campus policy changes
-- Canadian political developments
-- Media coverage
-- Opposition tactics
-
-### Research Resources
-
-**Databases:**
-- [Who Profits](https://www.whoprofits.org/) - Companies profiting from occupation
-- [Investigate](https://investigate.afsc.org/) - Investment research
-- University endowment annual reports
-- Board meeting minutes
-
-**News Monitoring:**
-- [Middle East Eye](https://www.middleeasteye.net/)
-- [+972 Magazine](https://www.972mag.com/)
-- [CJPME](https://www.cjpme.org/)
-- Google Alerts for university name + Palestine
-
-### Tips for Success
-
-💡 **Cite everything** - Always provide sources  
-💡 **Track precedents** - Build database of wins  
-💡 **Stay organized** - Systematic filing system  
-💡 **Verify before sharing** - Accuracy is credibility  
-💡 **Translate research** - Make accessible to all  
-💡 **Build expertise** - Become the go-to resource  
+**Critical:** Cite everything. Track precedents—build database of wins. Stay organized with systematic filing. Verify before sharing—accuracy is credibility. Translate research into accessible language. Build expertise.  
 
 ---
 
 ## 🎉 Events Coordinator
 
-### Responsibilities
+Plan and execute events (speakers, vigils, actions), handle logistics (booking, permits, equipment), create timelines, coordinate volunteers, run post-event evaluation.
 
-**Primary:**
-- Plan and execute events (speakers, vigils, actions)
-- Handle logistics (booking, permits, equipment)
-- Create event timelines
-- Coordinate volunteers
-- Conduct post-event evaluation
+**Time:** 5-15 hours/week (varies by event schedule)
 
-**Time Commitment:** 5-15 hours/week (varies by event schedule)
+**Skills:** Project management, budget management, problem-solving, attention to detail, leadership, flexibility.
 
-### Skills Needed
+**Set up:** Event planning checklist (6 weeks, 4 weeks, 2 weeks, 1 week, day-of), budget template, volunteer role assignments, room booking request template, event evaluation form, risk assessment template.
 
-✅ Project management  
-✅ Budget management  
-✅ Problem-solving  
-✅ Attention to detail  
-✅ Leadership  
-✅ Flexibility  
+**Timeline:** 6 weeks before—confirm speaker/topic/format, book venue, submit publicity requests, create Facebook event, identify co-sponsors. 4 weeks—design promo materials, confirm co-sponsors, book equipment, prepare run sheet, apply for funding. 2 weeks—intensive promotion, confirm logistics, recruit volunteers, prep Q&A, security assessment. 1 week—final promo push, brief speaker, train volunteers, print materials, confirm equipment. Day of—set up 2 hours early, test all equipment, brief volunteers, run event, document (photos/video), collect feedback. After—thank yous within 24 hours, post recap, team debrief, update templates.
 
-### Templates to Create
+See detailed guide: [Weekly Actions - Film Screenings](/campus-organizing/weekly-actions#film-screenings)
 
-☐ Event planning checklist (6 weeks, 4 weeks, 2 weeks, 1 week, day-of)  
-☐ Budget template  
-☐ Volunteer role assignments  
-☐ Room booking request template  
-☐ Event evaluation form  
-☐ Risk assessment template  
+**Event types:** Educational (film screenings, speaker events, teach-ins, workshops), Solidarity (vigils, protests, day of action), Community (fundraisers, cultural events, socials), Organizing (planning meetings, training sessions, coalition meetings).
 
-### Event Planning Timeline
-
-**For detailed guide:** [Weekly Actions - Film Screenings](/campus-organizing/weekly-actions#film-screenings)
-
-**6 Weeks Before:**
-- Confirm speaker/topic/format
-- Book venue
-- Submit publicity requests
-- Create Facebook event
-- Identify co-sponsors
-
-**4 Weeks Before:**
-- Design promotional materials
-- Reach out to co-sponsors for confirmation
-- Book equipment (AV, sound)
-- Prepare event run sheet
-- Apply for funding if needed
-
-**2 Weeks Before:**
-- Intensive promotion begins
-- Confirm all logistics
-- Recruit volunteers
-- Prepare Q&A questions (if applicable)
-- Security assessment
-
-**1 Week Before:**
-- Final promotion push
-- Briefing call with speaker (if applicable)
-- Volunteer training/briefing
-- Print materials
-- Confirm equipment delivery
-
-**Day Of:**
-- Set up 2 hours early
-- Test all equipment
-- Brief volunteers
-- Run event per timeline
-- Document (photos/video)
-- Collect feedback
-
-**After:**
-- Thank yous within 24 hours (speaker, volunteers, partners)
-- Post event content/recap
-- Team debrief (what worked, what to improve)
-- Update templates for next time
-- File documents for future reference
-
-### Event Types
-
-**Educational:**
-- Film screenings
-- Speaker events
-- Teach-ins
-- Workshops
-
-**Solidarity:**
-- Vigils
-- Protests
-- Day of action
-
-**Community:**
-- Fundraisers
-- Cultural events
-- Socials
-
-**Organizing:**
-- Planning meetings
-- Training sessions
-- Coalition meetings
-
-### Tips for Success
-
-💡 **Start early** - 6+ weeks for major events  
-💡 **Build buffer time** - Things always take longer  
-💡 **Have backup plans** - Tech fails, speakers cancel  
-💡 **Over-communicate** - Confirm everything twice  
-💡 **Document process** - Templates for next time  
-💡 **Celebrate volunteers** - They make it happen  
+**Critical:** Start early (6+ weeks for major events). Build buffer time—things take longer than you think. Have backup plans—tech fails, speakers cancel. Over-communicate—confirm everything twice. Document process for next time. Celebrate volunteers.
 
 **Resource:** [Palestine Portal: Guide to Planning An Event](https://www.palestineportal.org/action-advocacy/guides-toolkits/)
 
 ---
 
-## 💰 Finance/Fundraising Coordinator
+## 💰 Finance Coordinator
 
-### Responsibilities
+Track budget and expenses, plan fundraisers, apply for student union funding, handle donations (if applicable), report finances.
 
-**Primary:**
-- Track budget and expenses
-- Plan fundraisers
-- Apply for student union funding
-- Handle donations (if applicable)
-- Financial reporting
+**Time:** 3-5 hours/week
 
-**Time Commitment:** 3-5 hours/week
+**Skills:** Basic accounting, fundraising strategy, grant writing, attention to detail, transparency, trustworthiness.
 
-### Skills Needed
+**Set up:** Budget tracking spreadsheet, fundraising event plan, donation tracking system (if applicable), grant application template, financial report template, expense reimbursement form.
 
-✅ Basic accounting  
-✅ Fundraising strategy  
-✅ Grant writing  
-✅ Attention to detail  
-✅ Transparency practices  
-✅ Trustworthiness  
+**Weekly:** Update budget tracker (30 min), process expenses/reimbursements (30 min), plan fundraiser (1-2 hours), research funding opportunities (1 hour), prepare financial updates for meetings (30 min).
 
-### Templates to Create
+**Periodic:** Apply for student union funding (quarterly/annually), prepare financial reports (monthly/semester), run fundraising events, track donations.
 
-☐ Budget tracking spreadsheet  
-☐ Fundraising event plan  
-☐ Donation tracking system (if applicable)  
-☐ Grant application template  
-☐ Financial report template  
-☐ Expense reimbursement form  
+**Funding sources:** Student union (club allocation, event grants, special project funding), Fundraising events (bake sales, merch sales—t-shirts, kuffiyehs, ticketed film screenings, book sales, art shows), External (community grants, alumni donations, crowdfunding).
 
-### Weekly Tasks
+Check university policies on accepting donations. Some groups must route through student unions.
 
-**Regular:**
-- Update budget tracker (30 min)
-- Process any expenses/reimbursements (30 min)
-- Plan upcoming fundraiser (1-2 hours)
-- Research funding opportunities (1 hour)
-- Prepare financial updates for meetings (30 min)
+**Typical expenses:** Event costs (venue, equipment, speaker honorarium), promotional materials (posters, flyers), supplies (tabling materials, signs), food for events, website/domain, memberships in larger networks.
 
-**Periodic:**
-- Apply for student union funding (quarterly/annually)
-- Prepare financial reports (monthly/semester)
-- Conduct fundraising events
-- Track donations if your group accepts them
-
-### Funding Sources
-
-**Student Union:**
-- Club funding allocation
-- Event-specific grants
-- Special project funding
-
-**Fundraising Events:**
-- Bake sales
-- Merchandise sales (t-shirts, kuffiyehs)
-- Ticketed events (film screenings, dinners)
-- Book sales
-- Art shows
-
-**External:**
-- Community organization grants
-- Alumni donations
-- Crowdfunding campaigns
-
-**Note:** Check university policies on accepting donations. Some groups route through student unions.
-
-### Budget Categories
-
-**Typical expenses:**
-- Event costs (venue, equipment, speaker honorarium)
-- Promotional materials (posters, flyers)
-- Supplies (tabling materials, signs)
-- Food for events
-- Website/domain costs
-- Memberships in larger networks
-
-### Tips for Success
-
-💡 **Track everything** - Every dollar in and out  
-💡 **Keep receipts** - Digital copies in cloud  
-💡 **Report regularly** - Transparency builds trust  
-💡 **Plan ahead** - Know costs before committing  
-💡 **Diversify funding** - Don't rely on one source  
-💡 **Build reserves** - Emergency fund for opportunities  
+**Critical:** Track everything—every dollar in and out. Keep receipts—digital copies in cloud. Report regularly—transparency builds trust. Plan ahead—know costs before committing. Diversify funding sources. Build reserves for emergencies and opportunities.  
 
 ---
 
 ## 🔄 Role Rotation & Succession
 
-### Why Rotate Roles
+Rotate roles to prevent burnout, build capacity across more people, ensure continuity beyond graduation cycles, and develop leaders.
 
-- **Prevents burnout** - Fresh energy
-- **Builds capacity** - More people with skills
-- **Ensures continuity** - Knowledge doesn't leave with graduates
-- **Develops leaders** - Everyone gets experience
+**How often:** Semester basis (good for trying roles), annual basis (builds deep expertise), or as needed when someone must step down.
 
-### How to Rotate
+**Transition process:** 1 month shadow period (new person learns from outgoing), 1 month transition period (new person leads, outgoing supports), then complete handoff with documentation.
 
-**Timeline:**
-- **Semester/term basis** - Good for trying roles
-- **Annual basis** - Builds deep expertise
-- **As needed basis** - When someone needs to step down
+**For each role, maintain:** Role description document, template library, contact lists, password/account access (stored securely), calendar of recurring tasks, lessons learned document.
 
-**Process:**
-1. **Shadow period** (1 month) - New person learns from outgoing
-2. **Transition period** (1 month) - New person leads, outgoing supports
-3. **Handoff** - Complete transfer with documentation
-
-### Succession Planning
-
-**For each role, maintain:**
-☐ Role description document  
-☐ Template library  
-☐ Contact lists  
-☐ Password/account access (stored securely)  
-☐ Calendar of recurring tasks  
-☐ Lessons learned document  
-
-**Recruit successors:**
-- Identify potential coordinators early
-- Offer co-coordinator positions
-- Mentor and train throughout
-- Make transition smooth
+Identify potential coordinators early. Offer co-coordinator positions. Mentor throughout. Make transitions smooth.
 
 ---
 
-## 🎯 Getting Started
+## Getting Started
 
-### Starting a New Group?
+**Starting a new group?** Minimum viable team: 3-5 people. 1-2 focus on communications/outreach, 1-2 on events/logistics, 1 handles admin/finance. As you grow, split roles more specifically, add coordinators, create working groups.
 
-**Minimum viable team:** 3-5 people
-- 1-2 focus on communications/outreach
-- 1-2 focus on events/logistics
-- 1 handles admin/finance
+**Have more people?** Add specialized roles (Media Coordinator for press, Legal/Safety Coordinator for Know Your Rights, Training Coordinator for onboarding, International Coordinator for global connections) or create working groups (divestment, education, action—each with own coordinator).
 
-**As you grow:**
-- Split roles more specifically
-- Add coordinators
-- Create working groups
+## Filling Roles
 
-### Have More People?
+Mix self-selection with needs assessment. Options: volunteer (people choose based on interest/skills), elections (larger orgs), appointments (existing coordinators recruit), applications (competitive groups).
 
-**Add roles:**
-- **Media Coordinator** - Separate from social media, focus on press
-- **Legal/Safety Coordinator** - Know Your Rights, risk assessment
-- **Training Coordinator** - Onboarding, skill development
-- **International Coordinator** - Connect with global movement
+Ask: What are your skills and interests? How much time can you commit? What do you want to learn? What support do you need? What does this role need right now? What skills are essential vs. nice-to-have? Can we provide training? Is there a mentor available?
 
-**Or create working groups:**
-- Divestment working group
-- Education working group
-- Action working group
-- Each with own coordinator
+## For Coordinators
 
----
+Understand your responsibilities clearly. Set up templates and tools. Have regular check-ins with the group. Ask for support when needed. You're allowed to ask for help. You can step back if overwhelmed.
 
-## 📋 Role Selection Process
+## For The Group
 
-### How to Fill Roles
+Fill all roles (or distribute responsibilities). Hold regular coordinator meetings. Build documentation system. Create succession plan. Foster appreciation and support culture.
 
-**Options:**
+## Working Together
 
-1. **Volunteer** - People choose roles based on interest/skills
-2. **Elections** - Group votes (for larger organizations)
-3. **Appointments** - Existing coordinators identify and ask
-4. **Applications** - For competitive groups
+Meet weekly or bi-weekly. Quick updates from each role (5 min each). Coordinate needs. Discuss upcoming priorities. Problem-solve.
 
-**Best practice:** Mix of self-selection and needs assessment
+Keep meetings efficient: set agenda beforehand, time-box discussions, assign action items with owners, share notes after.
 
-### Questions to Ask
-
-**For the person:**
-- What are your skills and interests?
-- How much time can you commit?
-- What do you want to learn?
-- What support do you need?
-
-**For the role:**
-- What does this role need right now?
-- What skills are essential vs. nice-to-have?
-- Can we provide training?
-- Is there a mentor available?
+**Communication:** Signal group for coordinators (secure), shared calendar (Google Calendar), task management (Notion, Trello, or spreadsheet), cloud storage (Google Drive).
 
 ---
 
-## ✅ Success Checklist
+## Questions?
 
-### For Coordinators
-
-☐ Clear understanding of responsibilities  
-☐ Templates and tools in place  
-☐ Regular check-ins with group  
-☐ Support when needed  
-☐ Permission to ask for help  
-☐ Ability to step back if overwhelmed  
-
-### For the Group
-
-☐ All roles filled (or responsibilities distributed)  
-☐ Regular coordinator meetings  
-☐ Documentation system  
-☐ Succession plan  
-☐ Appreciation and support culture  
-
----
-
-## 🤝 Working Together
-
-### Coordinator Meetings
-
-**Weekly or bi-weekly:**
-- Quick updates from each role (5 min each)
-- Coordination needs (who needs what from whom)
-- Upcoming priorities
-- Problem-solving
-
-**Keep it efficient:**
-- Set agenda beforehand
-- Time-box discussions
-- Action items with owners
-- Notes shared after
-
-### Communication
-
-**Use:**
-- Signal group for coordinators (secure)
-- Shared calendar (Google Calendar)
-- Task management (Notion, Trello, or simple spreadsheet)
-- Cloud storage (Google Drive) for documents
-
----
-
-## 📞 Questions?
-
-**Need help setting up roles?**  
 Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-
----
 
 ## Related Pages
 
-- **[Weekly Actions →](/campus-organizing/weekly-actions)** - Activities for each role to support
+- **[Weekly Actions →](/campus-organizing/weekly-actions)** - Activities for each role
 - **[Strategic Campaigns →](/campus-organizing/campaigns)** - Long-term work requiring all roles
-- **[Campus Organizing Hub →](/campus-organizing)** - Main organizing page
-- **[Support & Safety →](/support)** - Taking care of yourselves
+- **[Campus Organizing Hub →](/campus-organizing)** - Main page
+- **[Support & Safety →](/support)** - Take care of yourselves
 
 ---
 
-**Remember:** Roles exist to serve the movement, not the other way around. Be flexible, support each other, and adjust as needed. The goal is sustainable organizing that builds power over time.
+Roles serve the movement, not the other way around. Be flexible. Support each other. Adjust as needed. The goal is sustainable organizing that builds power over time.
 
-**Free Palestine. 🇵🇸**
+**From the river to the sea, Palestine will be free. 🇵🇸**

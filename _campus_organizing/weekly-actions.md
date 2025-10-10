@@ -1,614 +1,143 @@
 ---
 layout: base
 title: Weekly Actions - Sustainable Campus Organizing
-description: Weekly action templates for sustainable campus organizing including tabling, vigils, film screenings, and social media campaigns.
+description: Sustainable campus organizing actions: Tabling, vigils, film screenings, social media.
 ---
 
 # 📅 Weekly Actions
 
-**Sustainable activities you can do every week to build power and visibility on campus.**
-
----
-
-## Why Weekly Actions Matter
-
-Consistent, sustainable actions:
-- Build **visible presence** on campus
-- Create **regular touchpoints** for students
-- **Prevent burnout** (more sustainable than constant escalation)
-- **Build organizing skills** incrementally
-- **Recruit new members** through consistent engagement
+Consistent action builds visible presence, creates regular touchpoints, prevents burnout (more sustainable than constant escalation), develops skills incrementally, recruits new members.
 
 ---
 
 ## 🪧 Tabling
 
-**Time:** 2-hour shifts | **People:** 2-3 per shift | **Impact:** High visibility, direct recruitment
+2-hour shifts, 2-3 people, high visibility and direct recruitment.
 
-### What You Need
+**Materials:** Folding table + tablecloth, info pamphlets ([CJPME printables](https://www.cjpme.org/distribute)), sign-up sheet, QR codes (donations/petitions), eye-catching visuals ([Visualizing Palestine](https://visualizingpalestine.org/)). Optional: Palestinian kuffiyeh draped on table, watermelon imagery, laptop with videos.
 
-**Materials:**
-- Folding table + tablecloth
-- Info pamphlets/factsheets ([CJPME printables](https://www.cjpme.org/distribute))
-- Sign-up sheet for email list
-- QR codes (donations/petitions)
-- Eye-catching visuals (infographics, posters)
-- **[Visualizing Palestine](https://visualizingpalestine.org/)** printouts
+**Before:** Reserve space 2-3 weeks ahead through student union. Pick high-traffic location (student center, cafeteria, library entrance). Best times: lunch hours (11am-2pm), between classes. Print [CJPME factsheets](https://www.cjpme.org/factsheets). Create sign-up sheet (Name, Email, Phone, Interests). Generate QR codes. Prepare talking points. Create calendar, recruit volunteers (always pair experienced + new), send reminders 24 hours before.
 
-**Optional:**
-- Palestinian kuffiyeh draped on table
-- Watermelon imagery (symbol of solidarity)
-- Laptop with videos
+**During:** Set up 15 min before—arrange materials, test QR codes, brief partner. Engage passers-by—make eye contact, smile. Opening: "Hi! We're [group name], raising awareness about the genocide in Palestine. Do you have a minute?" Don't info-dump—ask questions: "Have you heard what's happening in Gaza?" "Interested in organizing?" Have specific asks: sign petition, join email list, attend next event. Keep [myth-busting resource](/education/palestine-101#myth-busting) handy. If you don't know something, be honest: "Great question, let me get your email and send you resources." Don't engage bad-faith actors—politely disengage.
 
-### Step-by-Step Guide
+**After:** Follow up within 48 hours. Email everyone who signed up. Thank them. Send promised resources. Invite to next event. Debrief: What went well? What questions came up? How many sign-ups? What to improve?
 
-**Before:**
+**Do:** Interactive elements (quizzes, art activities, map exercises). Pair experienced + new members. Keep it positive—solution-oriented, hopeful. Have clear asks. Protect privacy—keep sign-up sheets secure.
 
-1. **Reserve Space** (2-3 weeks ahead)
-   - Apply through student union
-   - Choose high-traffic location (student center, cafeteria, library entrance)
-   - Best times: lunch hours (11am-2pm), between classes
+**Don't:** Argue with trolls, info-dump, leave table unattended.
 
-2. **Prepare Materials**
-   - Print **[CJPME factsheets](https://www.cjpme.org/factsheets)**
-   - Create sign-up sheet (Name, Email, Phone, Interests)
-   - Generate QR codes
-   - Prepare talking points
-
-3. **Schedule Shifts**
-   - Create calendar
-   - Recruit volunteers (always pair experienced + new)
-   - Send reminders 24 hours before
-
-**During:**
-
-4. **Set Up** (15 min before)
-   - Arrange materials attractively
-   - Test QR codes
-   - Brief your partner on talking points
-
-5. **Engage Passers-By**
-   - Make eye contact and smile
-   - Opening: "Hi! We're [group name], raising awareness about Palestine. Do you have a minute?"
-   - **Don't info-dump** - ask questions:
-     - "Have you heard about the situation in Gaza?"
-     - "Are you interested in campus organizing?"
-   - Have **specific asks**: sign petition, join email list, attend next event
-
-6. **Handle Common Questions**
-   - Keep [myth-busting resource](/education/palestine-101#myth-busting) handy
-   - If you don't know, **be honest**: "Great question, let me get your email and send you resources"
-   - **Don't engage with bad-faith actors** - politely disengage
-
-**After:**
-
-7. **Follow Up** (within 48 hours)
-   - Email everyone who signed up
-   - Thank them
-   - Send promised resources
-   - Invite to next event
-
-8. **Debrief**
-   - What went well?
-   - What questions came up?
-   - How many sign-ups?
-   - What to improve?
-
-### Best Practices
-
-✅ **Interactive elements** - quizzes, art activities, map exercises  
-✅ **Pair experienced + new members** - skill transfer  
-✅ **Keep it positive** - solution-oriented, hopeful  
-✅ **Have clear asks** - don't just inform, mobilize  
-✅ **Protect people's privacy** - keep sign-up sheets secure  
-
-❌ **Don't:** Argue with trolls, info-dump, leave table unattended  
-
-### Resources
-
-- **[Protect Palestine: Campus Organizers Resources](https://www.protectpalestine.org/campus-organizers)** - Guidelines and safety
-- **[CJPME Printables](https://www.cjpme.org/distribute)** - Materials to hand out
+**Resources:** [Protect Palestine: Campus Organizers](https://www.protectpalestine.org/campus-organizers), [CJPME Printables](https://www.cjpme.org/distribute)
 
 ---
 
 ## 🕯️ Vigils
 
-**Time:** 30 min - 2 hours | **People:** 5-50+ | **Impact:** Visible solidarity, community building
+30 min - 2 hours, 5-50+ people, visible solidarity and community building.
 
-### Types of Vigils
+**Types:** Weekly standing vigil (same time/place builds routine), memorial vigil (honor specific victims or events), silent vigil (powerful statement without speeches), readings vigil (poetry, testimonies, names of victims).
 
-1. **Weekly Standing Vigil** - Same time/place each week (builds routine)
-2. **Memorial Vigil** - Honor specific victims or events
-3. **Silent Vigil** - Powerful statement without speeches
-4. **Readings Vigil** - Poetry, testimonies, names of victims
+**Timeline:** 6 weeks before—choose date, time, location, decide format. 4 weeks—apply for permits through campus/city, recruit legal observer ([Palestine Legal](https://palestinelegal.org/)), invite partner organizations. 2 weeks—create event page/flyer, invite speakers, gather materials. 1 week—promote heavily, email campus community, confirm speakers and legal observer, print materials. Day of—arrive 30 min early, brief organizers, welcome participants, run program, clean up.
 
-### Planning Process (Timeline)
+**Materials:** LED candles (safer than flames, check campus rules), signs, sound system (if speeches), program copies, contact info, [Protester Safety Infographic](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html).
 
-**6 Weeks Before:**
-- Choose date, time, location
-- Decide format (silent vs. speakers)
+**People:** MC/facilitator, speakers (if applicable), legal observer, photographer/videographer, clean-up crew.
 
-**4 Weeks Before:**
-- Apply for necessary **permits** through campus/city
-- Recruit **legal observer** ([Palestine Legal](https://palestinelegal.org/))
-- Invite partner organizations
+**Sample program (1 hour):** 0:00-0:05 Welcome & land acknowledgment, 0:05-0:10 Why we're here, 0:10-0:30 Silent reflection OR readings/speakers, 0:30-0:45 More speakers/testimonies, 0:45-0:55 Call to action, 0:55-1:00 Closing.
 
-**2 Weeks Before:**
-- Create event page/flyer
-- Invite speakers (if applicable)
-- Gather materials
+**Safety:** Legal observer present—know your rights. De-escalation plan if counter-protesters appear. Exit plan. Buddy system—no one alone. Communication plan—group chat, designated contact.
 
-**1 Week Before:**
-- Promote heavily on social media
-- Email campus community
-- Confirm speakers, legal observer
-- Print materials
+Before event, review: [Know your protest rights](/support/legal#protest-rights), [Ontario Federation of Labour: Safer Protesting Guide](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf), [Calgary protest rights](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html), [Canadian Civil Liberties Association: Protesting](https://ccla.org/know-your-rights-protesting/).
 
-**Day Of:**
-- Arrive 30 min early to set up
-- Briefing for organizers
-- Welcome participants
-- Execute program
-- Clean up
-
-### What You Need
-
-**Materials:**
-- LED candles (safer than real flames, check campus rules)
-- Signs (peaceful messages)
-- Sound system (if speeches/readings)
-- Copies of program for attendees
-- Contact info for organizers
-- **[Protester Safety Infographic](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)**
-
-**People:**
-- MC/facilitator
-- Speakers (if applicable)
-- Legal observer
-- Photographer/videographer
-- Clean-up crew
-
-### Sample Program (1 hour)
-
-**0:00-0:05** - Welcome & Land Acknowledgment  
-**0:05-0:10** - Why we're here (brief context)  
-**0:10-0:30** - Silent reflection OR readings/speakers  
-**0:30-0:45** - More speakers/testimonies  
-**0:45-0:55** - Call to action (specific next steps)  
-**0:55-1:00** - Closing, thank yous  
-
-### Safety Considerations
-
-- **Legal observer present** - Know your rights
-- **De-escalation plan** - If counter-protesters appear
-- **Exit plan** - Where to go if needed
-- **Buddy system** - No one alone
-- **Communication plan** - Group chat, designated contact
-
-**Before Event, Review:**
-- [Know your protest rights →](/support/legal#protest-rights)
-- **[Ontario Federation of Labour: Safer Protesting Guide](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf)** (PDF)
-- **[Know Your Protest Rights Calgary](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html)**
-- **[Canadian Civil Liberties Association: Protesting](https://ccla.org/know-your-rights-protesting/)**
-
-### Tips from Organizers
-
-💡 **"Regular time/place builds community"** - People know to come every Thursday at 5pm  
-💡 **"Silent vigils are powerful"** - Sometimes presence speaks louder  
-💡 **"Partner with faith groups"** - Vigils resonate with religious communities  
-💡 **"Have tissues available"** - This is emotional work  
+**From organizers:** Regular time/place builds community—people know to come every Thursday at 5pm. Silent vigils are powerful—sometimes presence speaks louder. Partner with faith groups—vigils resonate with religious communities. Have tissues available—this is emotional work.  
 
 ---
 
 ## 🎬 Film Screenings
 
-**Time:** 6-week planning timeline | **People:** 5-10 organizers | **Impact:** Education + recruitment
+6-week planning timeline, 5-10 organizers, education + recruitment.
 
-### Why Film Screenings Work
+Film screenings work because they're accessible for beginners, build understanding through storytelling, create empathy, start discussions that lead to organizing, and build community through shared experience.
 
-- **Low barrier to entry** - Accessible for beginners
-- **Educational** - Builds understanding through storytelling
-- **Emotional connection** - Film creates empathy
-- **Discussion starter** - Natural transition to organizing
-- **Community building** - Shared experience
+**Timeline:** Week 1—choose film (see [film recommendations](/education/resources#documentaries)), book venue, set date/time (weeknight evening works), assign roles. Week 2—secure film rights/streaming (many have free screening licenses, see [Just Vision Film Screening Toolkit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)), book A/V equipment, create budget, apply for funding. Week 3—create poster/flyer, Facebook event, Instagram promotion, email campus groups, post around campus, partner orgs promote. Week 4—daily social media, class announcements (ask profs), flyers in high-traffic areas, email reminders, finalize panel/Q&A. Week 5—intensify promotion, confirm logistics, print programs, prepare discussion questions, brief panel/facilitator, gather sign-up sheets. Week 6—daily reminders, tech check (24 hours before), set up (2 hours before), welcome attendees, run event, follow up.
 
-### 6-Week Planning Timeline
+**Event day checklist:** Tech (2 hours before)—test projector/screen, test audio, test film playback, have backup (offline copy), charge laptop. Room—arrange seating, set up sign-in table, directional signs, resource table, snacks/water. Materials—sign-in sheets, programs with discussion questions, resource handouts, QR codes, info about next event. People—door greeters (2), tech person, facilitator, panel (if applicable), photographer.
 
-**Week 1: Planning**
-- Choose film (see [film recommendations](/education/resources#documentaries))
-- Book venue (lecture hall, student center, theatre)
-- Set date/time (weeknight evening works well)
-- Assign roles (coordinator, promotion, tech, facilitator, etc.)
+**Sample program (2 hours):** 0:00-0:10 Welcome, introductions, land acknowledgment. 0:10-0:15 Film introduction (context, why this film). 0:15-1:30 Film screening. 1:30-1:50 Q&A/panel discussion. 1:50-2:00 Next steps, calls to action, closing.
 
-**Week 2: Logistics**
-- Secure film rights/streaming (many documentaries have free screening licenses)
-- **[Just Vision Film Screening Toolkit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)**
-- Book A/V equipment
-- Create budget (venue, promotion, snacks)
-- Apply for funding if needed
+**Discussion questions (5-7 prepared):** "What moment stood out to you most?" "What did you learn that you didn't know before?" "How does this connect to what's happening now?" "What can we do in response?" "How can we bring this to our campus?"
 
-**Week 3: Promotion Begins**
-- Create poster/flyer
-- Facebook event
-- Instagram promotion
-- Email campus groups
-- Post around campus
-- Partner orgs help promote
+**Film recommendations:** Introduction—[Five Broken Cameras](https://www.pbs.org/pov/films/5brokencameras/) (93 min, nonviolent resistance, very accessible), [Budrus](https://justvision.org/budrus/watch) (78 min, hopeful). Historical—[Al-Nakba](https://www.youtube.com/playlist?list=PLzGHKb8i9vTwtfuXxbuv-rr1z8iUOLuE-) (4 parts, ~60 min each, 1948 from Palestinian perspective). Current—[Occupation 101](https://occupation101.tv/) (90 min, root causes), [Little Palestine: Diary of a Siege](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria) (89 min, refugees in Syria). Israeli perspectives—[The Gatekeepers](https://www.documentary.org/online-feature/secret-sharers-gatekeepers-exposes-hidden-history) (97 min, former Shin Bet heads reflect). Lighter/inspirational—[Speed Sisters](https://speedsisters.tv/) (75 min, first all-female racing team), [Gaza Mon Amour](https://tiff.net/events/gaza-mon-amour) (87 min, romance in Gaza). [Complete list →](/education/resources#documentaries)
 
-**Week 4: Promotion Continues**
-- Daily social media posts
-- Class announcements (ask profs)
-- Flyers in high-traffic areas
-- Email reminders
-- Finalize discussion panel/Q&A
+**Critical:** Pair with Palestinian food—support local Palestinian restaurant for catering. Have tissues ready—these films are emotional. Keep lights slightly on during Q&A—people want to see each other. Record questions—document what people care about. Always have next step—join email list, come to meeting, take action.
 
-**Week 5: Final Push**
-- Intensify promotion
-- Confirm all logistics
-- Print programs
-- Prepare discussion questions
-- Brief panel/facilitator
-- Gather sign-up sheets
-
-**Week 6: Event Week**
-- Daily reminders on social
-- Tech check (24 hours before)
-- Set up space (2 hours before)
-- Welcome attendees
-- Run event
-- Follow up
-
-### Event Day Checklist
-
-**Tech Setup (2 hours before):**
-☐ Test projector/screen  
-☐ Test audio  
-☐ Test film playback  
-☐ Have backup plan (download offline copy)  
-☐ Charge laptop  
-
-**Room Setup:**
-☐ Arrange seating  
-☐ Set up sign-in table  
-☐ Place directional signs  
-☐ Set up resource table  
-☐ Prep snacks/water  
-
-**Materials:**
-☐ Sign-in sheets  
-☐ Programs with discussion questions  
-☐ Resource handouts  
-☐ Donation/petition QR codes  
-☐ Info about next event  
-
-**People:**
-☐ Door greeters (2)  
-☐ Tech person  
-☐ Facilitator  
-☐ Panel (if applicable)  
-☐ Photographer  
-
-### Sample Program (2 hours)
-
-**0:00-0:10** - Welcome, introductions, land acknowledgment  
-**0:10-0:15** - Film introduction (context, why this film)  
-**0:15-1:30** - Film screening  
-**1:30-1:50** - Q&A / Panel discussion  
-**1:50-2:00** - Next steps, calls to action, closing  
-
-### Discussion Questions
-
-Have **5-7 prepared questions** to guide discussion:
-
-1. **Emotional response:** "What moment stood out to you most?"
-2. **New learning:** "What did you learn that you didn't know before?"
-3. **Connections:** "How does this connect to what's happening now?"
-4. **Action:** "What can we do in response?"
-5. **Campus:** "How can we bring this to our campus?"
-
-### Film Recommendations by Theme
-
-**Introduction to Palestine:**
-- **[Five Broken Cameras](https://www.pbs.org/pov/films/5brokencameras/)** (93 min) - Non-violent resistance, very accessible
-- **[Budrus](https://justvision.org/budrus/watch)** (78 min) - Uniting for village, hopeful
-
-**Historical:**
-- **[Al-Nakba](https://www.youtube.com/playlist?list=PLzGHKb8i9vTwtfuXxbuv-rr1z8iUOLuE-)** (4 parts, ~60 min each) - 1948 from Palestinian perspective
-
-**Current Situation:**
-- **[Occupation 101](https://occupation101.tv/)** (90 min) - Root causes, comprehensive
-- **[Little Palestine: Diary of a Siege](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria)** (89 min) - Refugees in Syria
-
-**Israeli Perspectives:**
-- **[The Gatekeepers](https://www.documentary.org/online-feature/secret-sharers-gatekeepers-exposes-hidden-history)** (97 min) - Former Shin Bet heads reflect
-
-**Lighter/Inspirational:**
-- **[Speed Sisters](https://speedsisters.tv/)** (75 min) - First all-female racing team, fun + serious
-- **[Gaza Mon Amour](https://tiff.net/events/gaza-mon-amour)** (87 min) - Romance in Gaza
-
-[Complete film list with links →](/education/resources#documentaries)
-
-### Pro Tips
-
-💡 **Pair with Palestinian food** - Support local Palestinian restaurant for catering  
-💡 **Have tissues ready** - These films are emotional  
-💡 **Keep lights slightly on** during Q&A - People want to see each other  
-💡 **Record questions** - Document what people care about for future events  
-💡 **Always have next step** - Join email list, come to meeting, take action  
-
-### Resources
-
-- **[Just Vision: Plan a Film Screening Toolkit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)**
-- **[United Methodists: Guide to Planning An Event](https://www.palestineportal.org/action-advocacy/guides-toolkits/)**
+**Resources:** [Just Vision: Film Screening Toolkit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)
 
 ---
 
 ## 📱 Social Media Campaigns
 
-**Time:** 30 min - 2 hours/day | **People:** 1-3 | **Impact:** Broad reach, amplify Palestinian voices
+30 min - 2 hours/day, 1-3 people, broad reach and amplify Palestinian voices.
 
-### Weekly Content Calendar
+**Weekly content calendar:** Monday—educational (fact of the week, historical moment, international law explainer, CJPME factsheet). Tuesday—myth-busting (address misconception, share resources, quote credible sources). Wednesday—amplification (share Palestinian journalist posts, repost from organizations, quote Palestinian voices, [list of accounts →](/people-to-follow)). Thursday—call to action ("Email your MP," "Sign petition," "Donate," "Attend event"). Friday—campus update (what your group is doing, upcoming events, wins, join us). Saturday—media (articles, video clips, infographics, [Visualizing Palestine](https://visualizingpalestine.org/) graphics). Sunday—community/personal (member spotlights, why we organize, gratitude, rest reminder).
 
-**Monday: Educational**
-- Fact of the week
-- Historical moment
-- International law explainer
-- CJPME factsheet highlight
+**Content types that work:** Carousel posts (multi-slide educational, step-by-step guides, myth vs. reality, before/after land maps). Reels/short videos (quick facts 15-30 sec, event clips, testimonies, how-tos). Stories (daily updates, event reminders, polls/questions, behind-the-scenes). Static posts (quotes, infographics, event announcements, action callouts).
 
-**Tuesday: Myth-Busting**
-- Address common misconception
-- Share myth-busting resources
-- Quote credible sources
+**Increase reach:** Post when audience is active (check insights), use relevant hashtags (#FreePalestine #GazaUnderAttack #CdnPoli), tag related accounts (don't spam), engage with comments quickly, share to stories.
 
-**Wednesday: Amplification**
-- Share Palestinian journalist posts
-- Repost from organizations
-- Quote Palestinian voices
-- **[List of accounts to follow →](/people-to-follow)**
+**Build community:** Ask questions in captions, respond to every comment (first hour is crucial), share user content (with permission), host Instagram Lives, use polls in stories.
 
-**Thursday: Call to Action**
-- "Email your MP today"
-- "Sign this petition"
-- "Donate here"
-- "Attend this event"
+**Counter suppression:** Assume algorithm will suppress. Tell followers to turn on notifications. Cross-post to multiple platforms. Save content—people share later. Don't rely solely on social media.
 
-**Friday: Campus Update**
-- What your group is doing
-- Upcoming events
-- Wins and progress
-- Join us callout
+**Hashtags:** Always use #FreePalestine #GazaUnderAttack #PalestinianRights #EndTheOccupation. Canadian context: #CdnPoli #CanadianPolitics #[YourCity]. Specific campaigns: #BDS #Divestment #ArmEmbargoNow. Check trending tags. Avoid suppressed terms—some platforms suppress certain phrases, test different phrasings, monitor reach/engagement.
 
-**Saturday: Media**
-- Share articles
-- Video clips
-- Infographics
-- **[Visualizing Palestine](https://visualizingpalestine.org/)** graphics
+**Team roles:** Content creator (1-2 people, create graphics and captions), scheduler (1 person, plan calendar and schedule), engagement manager (1-2 people, respond to comments/messages), amplifier (everyone shares and boosts).
 
-**Sunday: Community/Personal**
-- Member spotlights
-- Why we organize
-- Gratitude posts
-- Rest and care reminder
+**Tools:** Planning—Google Calendar, Notion, Trello. Design—Canva (free), Adobe Express. Scheduling—Later, Buffer, native tools. Analytics—platform insights.
 
-### Content Types That Perform Well
+**Weekly meeting (30 min):** Review last week's performance, plan next week's content, assign creation tasks, flag issues.
 
-**Carousel Posts:**
-- Multi-slide educational content
-- Step-by-step guides
-- Myth vs. Reality
-- Before/After (land maps, etc.)
+**Do:** Center Palestinian voices—share, don't speak over. Fact-check everything—misinformation hurts the movement. Content warnings for graphic content. Credit sources. Accessibility—alt text, captions, clear fonts. Consistent branding.
 
-**Reels/Short Videos:**
-- Quick facts (15-30 sec)
-- Clips from events
-- Testimonies
-- How-to guides
+**Don't:** Share unverified content, engage with trolls, burn out from constant posting.
 
-**Stories:**
-- Daily updates
-- Event reminders
-- Polls/questions
-- Behind-the-scenes
+**If shadowbanned:** Don't panic, vary content, engage more (comment on others' posts), use fewer hashtags temporarily, appeal if possible.
 
-**Static Posts:**
-- Quotes
-- Infographics
-- Event announcements
-- Action callouts
+**If getting hate:** Don't feed trolls, block/mute freely, document serious threats, report to [Palestine Legal](https://palestinelegal.org/) if needed, [support resources →](/support/digital-security).
 
-### Engagement Tactics
+**If account suspended:** Appeal immediately, have backup account, save content elsewhere, build email list (platform-independent).
 
-**Increase Reach:**
-- Post when your audience is active (check insights)
-- Use relevant hashtags (#FreePalestine #GazaUnderAttack #CdnPoli)
-- Tag related accounts (but don't spam)
-- Engage with comments quickly
-- Share to stories
-
-**Build Community:**
-- Ask questions in captions
-- Respond to every comment (first hour is crucial)
-- Share user content (with permission)
-- Host Instagram Lives
-- Use polls in stories
-
-**Counter Suppression:**
-- Assume algorithm will suppress
-- Tell followers to turn on notifications
-- Cross-post to multiple platforms
-- Save content (people share later)
-- Don't rely solely on social media
-
-### Hashtag Strategy
-
-**Always Use:**
-- #FreePalestine
-- #GazaUnderAttack
-- #PalestinianRights
-- #EndTheOccupation
-
-**Canadian Context:**
-- #CdnPoli
-- #CanadianPolitics
-- #[YourCity] (e.g., #Calgary, #Toronto)
-
-**Specific Campaigns:**
-- #BDS
-- #Divestment
-- #ArmEmbargoNow
-- Check current trending tags
-
-**Avoid Suppressed Terms:**
-- Some platforms suppress certain terms
-- Test different phrasings
-- Monitor reach/engagement
-
-### Managing Social Media as a Team
-
-**Roles:**
-- **Content Creator** (1-2 people) - Create graphics, write captions
-- **Scheduler** (1 person) - Plan calendar, schedule posts
-- **Engagement Manager** (1-2 people) - Respond to comments, messages
-- **Amplifier** (everyone) - Share, engage, boost posts
-
-**Tools:**
-- **Planning:** Google Calendar, Notion, Trello
-- **Design:** Canva (free), Adobe Express
-- **Scheduling:** Later, Buffer, or native platform tools
-- **Analytics:** Platform insights
-
-**Weekly Meeting (30 min):**
-- Review last week's performance
-- Plan next week's content
-- Assign creation tasks
-- Flag any issues
-
-### Best Practices
-
-✅ **Center Palestinian voices** - Share, don't speak over  
-✅ **Fact-check everything** - Misinformation hurts the movement  
-✅ **Content warnings** - For graphic content  
-✅ **Credit sources** - Always attribute  
-✅ **Accessibility** - Alt text, captions, clear fonts  
-✅ **Consistent branding** - Recognizable style  
-
-❌ **Don't:** Share unverified content, engage with trolls, burn out from constant posting  
-
-### Dealing with Suppression & Attacks
-
-**If Shadowbanned:**
-- Don't panic
-- Vary your content
-- Engage more (comments on others' posts)
-- Use fewer hashtags temporarily
-- Appeal if possible
-
-**If Getting Hate:**
-- Don't feed trolls
-- Block/mute freely
-- Document serious threats
-- Report to [Palestine Legal](https://palestinelegal.org/) if needed
-- **[Support resources →](/support/digital-security)**
-
-**If Account Suspended:**
-- Appeal immediately
-- Have backup account
-- Save content elsewhere
-- Build email list (platform-independent)
-
-### Resources
-
-- **[American Muslims for Palestine: Art of Public Demonstrations](https://www.palestineportal.org/action-advocacy/guides-toolkits/)** - Includes social media tactics
-- **[Jewish Voice for Peace: Media Kit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)** - 18 pages, social media tips
-- **[Protect Palestine: Social Media Support Tactics](https://www.protectpalestine.org/campus-organizers)**
+**Resources:** [American Muslims for Palestine: Art of Public Demonstrations](https://www.palestineportal.org/action-advocacy/guides-toolkits/), [Jewish Voice for Peace: Media Kit](https://www.palestineportal.org/action-advocacy/guides-toolkits/), [Protect Palestine: Social Media Tactics](https://www.protectpalestine.org/campus-organizers)
 
 ---
 
 ## Building Your Weekly Routine
 
-### Sample Week for Campus Group
+**Sample week:** Monday—social media (educational), check in with team. Tuesday—social media (myth-busting), tabling (2-hour shift). Wednesday—social media (amplification), planning meeting (1 hour). Thursday—social media (action), vigil (if weekly). Friday—social media (update), tabling OR classroom presentation. Saturday—social media (media). Sunday—social media (community), rest!
 
-**Monday:**
-- Social media post (educational)
-- Check in with team
+**Start small, build up:** Week 1—just social media (daily posts). Week 2—add one tabling shift. Week 3—add planning meeting. Week 4—add one more action (vigil or second tabling). Month 2—you have sustainable routine.
 
-**Tuesday:**
-- Social media post (myth-busting)
-- Tabling (2-hour shift)
-
-**Wednesday:**
-- Social media post (amplification)
-- Planning meeting (1 hour)
-
-**Thursday:**
-- Social media post (action)
-- Vigil (if doing weekly vigil)
-
-**Friday:**
-- Social media post (update)
-- Tabling OR classroom presentation
-
-**Saturday:**
-- Social media post (media)
-
-**Sunday:**
-- Social media post (community)
-- Rest!
-
-### Start Small, Build Up
-
-**Week 1:** Just social media (daily posts)  
-**Week 2:** Add one tabling shift  
-**Week 3:** Add planning meeting  
-**Week 4:** Add one more action (vigil or second tabling)  
-**Month 2:** Now you have sustainable routine  
-
-### Prevent Burnout
-
-- **Rotate responsibilities** - Don't let one person do everything
-- **Take breaks** - Skip a week if needed
-- **Celebrate wins** - Acknowledge progress
-- **Support each other** - Check in on wellbeing
-- **[Mental health resources →](/support/mental-health)**
+**Prevent burnout:** Rotate responsibilities—don't let one person do everything. Take breaks—skip a week if needed. Celebrate wins. Support each other—check in on wellbeing. [Mental health resources →](/support/mental-health)
 
 ---
 
-## ✅ Get Started
+## Get Started
 
-**This Week:**
+**This week:** Choose ONE action to start with. Recruit 2-3 people to help. Pick date/time. Gather materials. Promote. Do it! Debrief and improve.
 
-☐ Choose ONE action to start with  
-☐ Recruit 2-3 people to help  
-☐ Pick a date/time  
-☐ Gather materials  
-☐ Promote  
-☐ Do it!  
-☐ Debrief and improve  
-
-**Next Week:**
-
-☐ Do it again (consistency!)  
-☐ Consider adding second weekly action  
-☐ Keep building  
+**Next week:** Do it again (consistency!). Consider adding second weekly action. Keep building.
 
 ---
 
 ## Resources
 
-**Planning Guides:**
-- [Protect Palestine: Campus Organizers](https://www.protectpalestine.org/campus-organizers)
-- [Palestine Portal: Guides & Toolkits](https://www.palestineportal.org/action-advocacy/guides-toolkits/)
+**Planning:** [Protect Palestine: Campus Organizers](https://www.protectpalestine.org/campus-organizers), [Palestine Portal: Guides & Toolkits](https://www.palestineportal.org/action-advocacy/guides-toolkits/)
 
-**Safety:**
-- [Know Your Rights →](/support/legal)
-- [Digital Security →](/support/digital-security)
+**Safety:** [Know Your Rights →](/support/legal), [Digital Security →](/support/digital-security)
 
-**More Actions:**
-- [Strategic Campaigns →](/campus-organizing/campaigns) - Divestment, speakers, media
-- [Role Templates →](/campus-organizing/roles) - Build your team
-
----
+**More:** [Strategic Campaigns →](/campus-organizing/campaigns) - Divestment, speakers, media. [Role Templates →](/campus-organizing/roles) - Build your team.
 
 **Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
 **Ready for bigger campaigns?** → [Strategic Campaigns →](/campus-organizing/campaigns)
+
+**From the river to the sea, Palestine will be free. 🇵🇸**

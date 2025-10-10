@@ -185,25 +185,7 @@ pre code {
     background: transparent;
 }
 
-/* External links get arrow suffix */
-a[href^="http"]::after {
-    content: '↗';
-    font-size: 0.7em;
-    opacity: 0.5;
-    margin-left: 0.15em;
-    vertical-align: text-top;
-    line-height: 1;
-}
-
-a[href^="http"]:hover::after {
-    opacity: 0.8;
-}
-
-/* Remove arrow from navigation and footer links */
-.main-nav a[href^="http"]::after,
-.footer-compact a[href^="http"]::after {
-    content: none;
-}
+/* External links - no arrow (removed for cleaner look) */
 
 /* ==========================================
    Sticky Header - Watermelon Fresh! 🍉
@@ -470,6 +452,7 @@ a[href^="http"]:hover::after {
         padding-left: 20px;
         margin-top: 5px;
         border: none;
+        background: var(--card-bg);
     }
     
     .main-nav .has-dropdown .dropdown {

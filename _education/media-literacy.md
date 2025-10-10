@@ -35,7 +35,7 @@ Western media coverage of Palestine is **systematically biased** in ways that:
 ### 2. "Conflict" Framing
 
 **Biased:** "Israeli-Palestinian conflict"  
-**More Accurate:** "Israeli military occupation" or "Israel's system of apartheid"
+**More Accurate:** "Israeli military occupation" or "Israel's system of apartheid" or "Genocide"
 
 **Why it matters:** "Conflict" implies two equal sides fighting, obscuring the massive **power imbalance** and the reality of military occupation.
 
@@ -81,7 +81,7 @@ Western media coverage of Palestine is **systematically biased** in ways that:
 
 ### [CfMM Report on Media Bias: Gaza 2023-24](https://cfmm.org.uk/resources/publication/cfmm-report-media-bias-gaza-2023-24/)
 
-**Centre for Media Monitoring's latest report** exposes significant biases:
+**Centre for Media Monitoring's report** exposes significant biases:
 - Disparity in language and framing
 - Israeli narratives favored over Palestinian
 - Dehumanizing language for Palestinians
