@@ -188,12 +188,11 @@ pre code {
 /* External links get arrow suffix */
 a[href^="http"]::after {
     content: '↗';
-    font-size: 0.75em;
+    font-size: 0.7em;
     opacity: 0.5;
-    margin-left: 0.2em;
-    display: inline-block;
-    vertical-align: super;
-    line-height: 0;
+    margin-left: 0.15em;
+    vertical-align: text-top;
+    line-height: 1;
 }
 
 a[href^="http"]:hover::after {
