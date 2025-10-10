@@ -50,307 +50,106 @@ description: Legal rights, protest information, support resources for Canadian s
 
 **Safety Planning:** Buddy system, communication plan, exit routes, meeting point if separated, what to do if arrested.
 
-### During a Protest
+**During a Protest:**
 
-**Your Rights:**
+You CAN: Peacefully protest without permit in many cases, chant, hold signs, hand out literature, record police (but don't interfere), leave at any time (unless lawfully detained), refuse to show ID (unless arrested).
 
-✅ **You CAN:**
-- Peacefully protest without permit in many cases
-- Chant, hold signs, hand out literature
-- Record police (but don't interfere)
-- Leave at any time (unless lawfully detained)
-- Refuse to show ID (unless arrested)
+You CANNOT: Block emergency vehicles, damage property, assault anyone, interfere with police duties, trespass (depends on property type).
 
-❌ **You CANNOT:**
-- Block emergency vehicles
-- Damage property
-- Assault anyone
-- Interfere with police duties
-- Trespass (depends on property type)
+**If Police Approach:** Stay calm (don't run unless immediate danger, keep hands visible). Ask questions: "Am I free to go?" (if yes, leave), "Am I being detained?" (if yes, why?), "Am I under arrest?" (if yes, stay silent). Do NOT: resist physically (even if arrest is unlawful), consent to searches, answer questions beyond identifying yourself if arrested. Assert your rights: "I am exercising my right to remain silent", "I want to speak to a lawyer", "I do not consent to any searches".
 
-**If Police Approach:**
+**If You're Arrested:**
 
-1. **Stay Calm**
-   - Don't run unless in immediate danger
-   - Keep hands visible
+1. Stay Silent: "I am exercising my right to remain silent". 2. Request Lawyer: "I want to speak to a lawyer". 3. Do Not Consent: "I do not consent to any searches". 4. Remember: Anything you say CAN and WILL be used against you.
 
-2. **Ask Questions:**
-   - "Am I free to go?" (If yes, leave)
-   - "Am I being detained?" (If yes, why?)
-   - "Am I under arrest?" (If yes, stay silent)
+You MUST Provide: Your name (once arrested), your address.
 
-3. **Do Not:**
-   - Resist physically (even if arrest is unlawful)
-   - Consent to searches
-   - Answer questions beyond identifying yourself if arrested
+You DO NOT Have to: Answer other questions, explain where you were going, say anything about the protest, sign anything, consent to searches.
 
-4. **Assert Your Rights:**
-   - "I am exercising my right to remain silent"
-   - "I want to speak to a lawyer"
-   - "I do not consent to any searches"
-
-### If You're Arrested
-
-**Immediately:**
-
-1. **Stay Silent:** "I am exercising my right to remain silent"
-2. **Request Lawyer:** "I want to speak to a lawyer"
-3. **Do Not Consent:** "I do not consent to any searches"
-4. **Remember:** Anything you say CAN and WILL be used against you
-
-**You Must Provide:**
-- Your name (once arrested)
-- Your address
-
-**You DO NOT Have to:**
-- Answer other questions
-- Explain where you were going
-- Say anything about the protest
-- Sign anything
-- Consent to searches
-
-**Legal Support to Call:**
-- Palestine Legal: [Contact form](https://palestinelegal.org/contact)
-- Just Peace Advocates: [www.justpeaceadvocates.ca](https://www.justpeaceadvocates.ca/)
-- National Lawyers Guild: [www.nlg.org](https://www.nlg.org/)
+Legal Support: [Palestine Legal](https://palestinelegal.org/contact), [Just Peace Advocates](https://www.justpeaceadvocates.ca/), [National Lawyers Guild](https://www.nlg.org/).
 
 ---
 
 ## Province-Specific Resources
 
-### Alberta
+**Alberta:** [Alberta Civil Liberties Research Centre (ACLRC)](https://www.aclrc.com/) - [Dissent & Disobedience](https://www.aclrc.com/dissentdisobedience), [Right to Be Free from Arbitrary Arrest](https://www.aclrc.com/section-9-arbitrary-arrest), [Rights Around Arrest and Detention](https://www.aclrc.com/section-10). Calgary: [Know Your Protest Rights, Calgary](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html), Calgary Police Service resources.
 
-**[Alberta Civil Liberties Research Centre (ACLRC)](https://www.aclrc.com/)**
-- [Dissent & Disobedience Overview](https://www.aclrc.com/dissentdisobedience)
-- [Right to Be Free from Arbitrary Arrest](https://www.aclrc.com/section-9-arbitrary-arrest)
-- [Rights Around Arrest and Detention](https://www.aclrc.com/section-10)
+**Ontario:** [Ontario Federation of Labour: Activist's Guide to Safer Protesting (PDF)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf) - Comprehensive guide, your rights, safety tips, what to do if arrested.
 
-**Calgary-Specific:**
-- [Know Your Protest Rights, Calgary](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html)
-- Calgary Police Service resources
-
-### Ontario
-
-**[Ontario Federation of Labour: Activist's Guide to Safer Protesting (PDF)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf)**
-- Comprehensive guide
-- Your rights
-- Safety tips
-- What to do if arrested
-
-### Other Provinces
-
-**General Resources:**
-- [Canadian Civil Liberties Association: Protesting](https://ccla.org/know-your-rights-protesting/)
-- Contact local civil liberties organizations
+**Other Provinces:** [Canadian Civil Liberties Association: Protesting](https://ccla.org/know-your-rights-protesting/), contact local civil liberties organizations.
 
 ---
 
 ## Law Enforcement Contact
 
-### If FBI or Police Contact You
+**This sometimes happens to Palestine solidarity activists. DO NOT PANIC. You have rights.**
 
-**This sometimes happens to Palestine solidarity activists.**
+**If They Contact You:** 1. Do Not Talk to Them - Politely decline: "I don't want to speak with you without a lawyer present", get their contact info (card), do not answer questions, even "friendly" small talk. 2. Contact Legal Support Immediately - [Palestine Legal](https://palestinelegal.org/), [National Lawyers Guild](https://www.nlg.org/), [Center for Constitutional Rights](https://ccrjustice.org/). 3. Get a Lawyer - Do not meet with law enforcement without lawyer, lawyer will guide you. 4. Tell Others - Warn your organizing community, they may be targeting multiple people.
 
-**DO NOT PANIC. You have rights.**
+**What to Say:** "I am exercising my right to remain silent", "I want to speak to a lawyer", "I do not consent to any searches". **THEN STOP TALKING.**
 
-**If They Contact You:**
-
-1. **Do Not Talk to Them**
-   - Politely decline: "I don't want to speak with you without a lawyer present"
-   - Get their contact info (card)
-   - Do not answer questions, even "friendly" small talk
-
-2. **Contact Legal Support Immediately**
-   - [Palestine Legal](https://palestinelegal.org/)
-   - [National Lawyers Guild](https://www.nlg.org/)
-   - [Center for Constitutional Rights](https://ccrjustice.org/)
-
-3. **Get a Lawyer**
-   - Do not meet with law enforcement without lawyer
-   - Lawyer will guide you
-
-4. **Tell Others**
-   - Warn your organizing community
-   - They may be targeting multiple people
-
-**What to Say:**
-- "I am exercising my right to remain silent"
-- "I want to speak to a lawyer"
-- "I do not consent to any searches"
-- **THEN STOP TALKING**
-
-**Resources:**
-- **[Palestine Legal: Advisory on Law Enforcement Visits](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)**
-- **[National Lawyers Guild Materials](https://www.nlg.org/)**
-- **[Center for Constitutional Rights](https://ccrjustice.org/)**
-
-**Palestine Legal Video:**
-- **["What to Do If You are Contacted or Visited by the FBI" (with Radhika Sainath)](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)**
+**Resources:** [Palestine Legal: Advisory on Law Enforcement Visits](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine), [National Lawyers Guild Materials](https://www.nlg.org/), [Center for Constitutional Rights](https://ccrjustice.org/), ["What to Do If You are Contacted or Visited by the FBI" (with Radhika Sainath)](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine).
 
 ---
 
-## Interactive Guide: Efforts to Redefine Antisemitism
+## Responding to Accusations of Antisemitism
 
-**[Palestine Legal: Interactive Guide on Antisemitism Redefinition](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)**
+**[Palestine Legal: Interactive Guide on Antisemitism Redefinition](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)** - Timeline of distorted definitions, human impact stories, resources to combat smearing attacks, how to respond to false accusations.
 
-This guide documents:
-- Timeline of distorted definitions
-- Human impact stories
-- Resources to combat smearing attacks
-- How to respond to false accusations
+**Key Points:** 1. Criticism of Israel is NOT antisemitism (Israel is a state, states can and should be criticized, this is protected political speech). 2. Anti-Zionism is NOT antisemitism (Anti-Zionism = opposition to Zionist ideology, many Jews are anti-Zionist, political ideology vs. ethnic/religious identity). 3. We actively oppose antisemitism (antisemitism is hatred of Jewish people, we stand against all forms of racism, many Jewish students are part of our movement).
 
-### Responding to Accusations of Antisemitism
+**Response Template:** "We firmly oppose antisemitism in all its forms. Our movement is based on human rights and international law. Criticism of Israeli government policies is not antisemitism—it's a legitimate expression of political speech. Many Jewish students and allies are central to our organizing, including groups like Jewish Voice for Peace and Independent Jewish Voices Canada. We welcome anyone committed to Palestinian human rights and reject all forms of racism, including antisemitism."
 
-**Key Points:**
-
-1. **Criticism of Israel is NOT antisemitism**
-   - Israel is a state
-   - States can and should be criticized
-   - This is protected political speech
-
-2. **Anti-Zionism is NOT antisemitism**
-   - Anti-Zionism = opposition to Zionist ideology
-   - Many Jews are anti-Zionist
-   - Political ideology vs. ethnic/religious identity
-
-3. **We actively oppose antisemitism**
-   - Antisemitism is hatred of Jewish people
-   - We stand against all forms of racism
-   - Many Jewish students are part of our movement
-
-**Response Template:**
-
-"We firmly oppose antisemitism in all its forms. Our movement is based on human rights and international law. Criticism of Israeli government policies is not antisemitism—it's a legitimate expression of political speech. Many Jewish students and allies are central to our organizing, including groups like Jewish Voice for Peace and Independent Jewish Voices Canada. We welcome anyone committed to Palestinian human rights and reject all forms of racism, including antisemitism."
-
-**Jewish Allies:**
-- [Jewish Voice for Peace (JVP)](https://jewishvoiceforpeace.org/)
-- [Independent Jewish Voices Canada (IJV)](https://www.ijvcanada.org/)
+**Jewish Allies:** [Jewish Voice for Peace (JVP)](https://jewishvoiceforpeace.org/), [Independent Jewish Voices Canada (IJV)](https://www.ijvcanada.org/).
 
 ---
 
-## Before Major Actions
-
-### Risk Assessment Checklist
+## Before Major Actions - Risk Assessment
 
 Before organizing major action (protest, occupation, etc.), assess:
 
-**Legal Risks:**
-☐ What laws might we be accused of breaking?  
-☐ What are potential consequences?  
-☐ Do we have legal support lined up?  
-☐ Have we consulted with lawyer if high-risk?  
+**Legal Risks:** What laws might we be accused of breaking? What are potential consequences? Do we have legal support lined up? Have we consulted with lawyer if high-risk?
 
-**Safety Risks:**
-☐ Potential for counter-protesters?  
-☐ University discipline possible?  
-☐ Police response anticipated?  
-☐ Are people prepared for these risks?  
+**Safety Risks:** Potential for counter-protesters? University discipline possible? Police response anticipated? Are people prepared for these risks?
 
-**Support Systems:**
-☐ Legal observer present?  
-☐ De-escalation plan?  
-☐ Medical support if needed?  
-☐ Communication plan?  
-☐ Bail fund if arrests possible?  
+**Support Systems:** Legal observer present? De-escalation plan? Medical support if needed? Communication plan? Bail fund if arrests possible?
 
-**Informed Consent:**
-☐ Have participants been briefed on risks?  
-☐ Does everyone understand potential consequences?  
-☐ Is participation voluntary?  
-☐ Can people opt out without pressure?  
+**Informed Consent:** Have participants been briefed on risks? Does everyone understand potential consequences? Is participation voluntary? Can people opt out without pressure?  
 
 ---
 
 ## Palestine Legal Video Series
 
-**[Know Your Rights Video Series](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)**
-
-1. **"Protecting Your Rights on Campus"** (with Zoha Khalili)
-   - Student organizing rights
-   - What to do if facing discipline
-   - Due process
-
-2. **"What to Do If You are Contacted or Visited by the FBI"** (with Radhika Sainath)
-   - Your rights
-   - What to say (and not say)
-   - When to contact legal support
-
-3. **"Israeli Apartheid Week"** (with Liz Jackson)
-   - Organizing education campaigns
-   - Responding to opposition
-   - Legal considerations
-
----
+**[Know Your Rights Video Series](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine):** "Protecting Your Rights on Campus" (with Zoha Khalili, student organizing rights, what to do if facing discipline, due process), "What to Do If You are Contacted or Visited by the FBI" (with Radhika Sainath, your rights, what to say and not say, when to contact legal support), "Israeli Apartheid Week" (with Liz Jackson, organizing education campaigns, responding to opposition, legal considerations).
 
 ## Virtual Workshops
 
-**Palestine Legal offers workshops tailored to your group:**
-- Virtual workshops available
-- In-person depending on location
-- Topics customized to your needs
-
-**Request a Workshop:**
-- Contact through [palestinelegal.org](https://palestinelegal.org/contact)
-- Explain your situation
-- They'll work with you
-
----
+Palestine Legal offers workshops tailored to your group: virtual workshops available, in-person depending on location, topics customized to your needs. Request a workshop: contact through [palestinelegal.org](https://palestinelegal.org/contact), explain your situation, they'll work with you.
 
 ## Additional Safety Resources
 
-- **[Protester Safety Tips (HRC)](https://www.hrc.org/news/tips-for-protesting-peacefully-and-safely)** - Hydration, supplies, emergencies
-- **[Protesters' Rights (ACLU)](https://www.aclu.org/know-your-rights/protesters-rights)** - Public spaces, permits, violations
-- **[Protest Rights and Safety (ACLU of Washington)](https://www.aclu-wa.org/pages/protest-rights-and-safety)** - Planning, health, privacy
-- **[Right to Protest (Amnesty International)](https://www.amnesty.org/en/latest/news/2024/05/right-to-protest)** - Discrimination, police militarization, safety
-- **[Protester Safety Infographic (Meshkov & Breslin)](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)** - Visual guide
+[Protester Safety Tips (HRC)](https://www.hrc.org/news/tips-for-protesting-peacefully-and-safely) (hydration, supplies, emergencies), [Protesters' Rights (ACLU)](https://www.aclu.org/know-your-rights/protesters-rights) (public spaces, permits, violations), [Protest Rights and Safety (ACLU of Washington)](https://www.aclu-wa.org/pages/protest-rights-and-safety) (planning, health, privacy), [Right to Protest (Amnesty International)](https://www.amnesty.org/en/latest/news/2024/05/right-to-protest) (discrimination, police militarization, safety), [Protester Safety Infographic (Meshkov & Breslin)](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html) (visual guide).
 
----
+## Action Steps
 
-## ✅ Action Steps
+**Right Now:** Save Palestine Legal number in phone, download [Know Your Rights card](https://ccla.org/know-your-rights-protesting/), read relevant guides for your province, share with your organizing group.
 
-**Right Now:**
+**Before Next Action:** Review protest rights, have legal observer, brief participants on rights, create safety plan.
 
-☐ Save Palestine Legal number in phone  
-☐ Download [Know Your Rights card](https://ccla.org/know-your-rights-protesting/)  
-☐ Read relevant guides for your province  
-☐ Share with your organizing group  
-
-**Before Next Action:**
-
-☐ Review protest rights  
-☐ Have legal observer  
-☐ Brief participants on rights  
-☐ Create safety plan  
-
-**If Issues Arise:**
-
-☐ Contact legal support immediately  
-☐ Document everything  
-☐ Don't face it alone  
-
----
+**If Issues Arise:** Contact legal support immediately, document everything, don't face it alone.
 
 ## Resources Summary
 
-**Legal Support:**
-- [Palestine Legal](https://palestinelegal.org/) - Primary resource for students
-- [Just Peace Advocates](https://www.justpeaceadvocates.ca/) - Canadian support
-- [Legal Centre for Palestine](https://www.lcpal.ca/) - Canadian legal advice
+**Legal Support:** [Palestine Legal](https://palestinelegal.org/) (primary resource for students), [Just Peace Advocates](https://www.justpeaceadvocates.ca/) (Canadian support), [Legal Centre for Palestine](https://www.lcpal.ca/) (Canadian legal advice).
 
-**Know Your Rights:**
-- [CCLA: Protesting](https://ccla.org/know-your-rights-protesting/)
-- [Canadian Charter of Rights](https://laws-lois.justice.gc.ca/eng/Const/page-12.html)
-- [Palestine Legal: Student Organizing Resources](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine)
+**Know Your Rights:** [CCLA: Protesting](https://ccla.org/know-your-rights-protesting/), [Canadian Charter of Rights](https://laws-lois.justice.gc.ca/eng/Const/page-12.html), [Palestine Legal: Student Organizing Resources](https://palestinelegal.org/news/2021/9/20/legal-resources-for-student-organizing-for-palestine).
 
-**Province-Specific:**
-- [Alberta Civil Liberties Research Centre](https://www.aclrc.com/)
-- [Ontario Federation of Labour Guide (PDF)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf)
+**Province-Specific:** [Alberta Civil Liberties Research Centre](https://www.aclrc.com/), [Ontario Federation of Labour Guide (PDF)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf).
 
 ---
 
 **Questions?** Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 
-**Related Pages:**
-- [Digital Security →](/support/digital-security) - Protect your online presence
-- [Mental Health →](/support/mental-health) - Sustain yourself in this work
-- [Campus Organizing →](/campus-organizing) - How to organize safely
+**Related:** [Digital Security →](/support/digital-security), [Mental Health →](/support/mental-health), [Campus Organizing →](/campus-organizing).
+
+**From the river to the sea, Palestine will be free. 🇵🇸**
