@@ -1,141 +1,65 @@
 ---
 layout: base
 title: Support & Safety
-description: Legal resources, digital security, mental health support for Palestine solidarity activists in Canada.
+description: Legal resources, digital security, mental health support.
 ---
 
 # 🛡️ Support & Safety
 
-**Protect yourself legally, digitally, and mentally while organizing. 🍉**
+Organizing for Palestine involves legal challenges, digital harassment, and emotional strain. You don't have to face these alone.
 
 ---
 
-## Why This Matters
+## Know Your Rights
 
-Organizing for Palestine can involve legal challenges, digital harassment, and emotional strain. **You don't have to face these alone.** We've compiled comprehensive guides to keep you safe.
+**[Complete Legal Support Guide](/support/legal)** - Legal support organizations (Palestine Legal, Just Peace Advocates), student rights on campus, protest rights in Canada, what to do if police contact you, responding to antisemitism accusations. 15-20 minutes.
 
----
+## Digital Security
 
-## 🔐 Know Your Rights
+**[Complete Digital Security Guide](/support/digital-security)** - Why digital security matters for activists, essential practices (Signal, 2FA, passwords, privacy settings), advanced security (VPNs, encrypted email, secure browsing), what to do if you're doxxed or harassed, organizational security for groups. 20-25 minutes.
 
-**→ [Complete Legal Support Guide](/support/legal)**
+## Mental Health & Burnout
 
-**What you'll find:**
-- Legal support organizations (Palestine Legal, Just Peace Advocates)
-- Student rights on campus
-- Protest rights in Canada
-- What to do if police contact you
-- Responding to antisemitism accusations
-
-**Time to read:** 15-20 minutes
+**[Complete Mental Health Guide](/support/mental-health)** - Recognizing burnout and vicarious trauma, prevention strategies (individual and group), crisis resources (Canada-wide and by province), campus counseling and therapy options, coping strategies and self-care, supporting your comrades. 20-25 minutes.
 
 ---
 
-## 💻 Digital Security
+## If Crisis Happens
 
-**→ [Complete Digital Security Guide](/support/digital-security)**
+**Group faces challenge:** Don't panic, contact [Palestine Legal](https://palestinelegal.org/), document everything, get support.
 
-**What you'll find:**
-- Why digital security matters for activists
-- Essential practices (Signal, 2FA, passwords, privacy settings)
-- Advanced security (VPNs, encrypted email, secure browsing)
-- What to do if you're doxxed or harassed
-- Organizational security for groups
+**Individual is targeted:** Contact Palestine Legal immediately, don't face meetings alone, review [legal rights](/support/legal), build support network.
 
-**Time to read:** 20-25 minutes
+## Quick Contacts
 
----
+**Legal Emergency:** [Palestine Legal](https://palestinelegal.org/contact), [Just Peace Advocates](https://www.justpeaceadvocates.ca/).
 
-## 🧠 Mental Health & Burnout
+**Mental Health Crisis:** Crisis Text Line (text HOME to 686868), Talk Suicide Canada (1-833-456-4566).
 
-**→ [Complete Mental Health Guide](/support/mental-health)**
-
-**What you'll find:**
-- Recognizing burnout and vicarious trauma
-- Prevention strategies (individual and group)
-- Crisis resources (Canada-wide and by province)
-- Campus counseling and therapy options
-- Coping strategies and self-care
-- Supporting your comrades
-
-**Time to read:** 20-25 minutes
+**Digital Security Emergency:** If doxxed—contact Palestine Legal. If hacked—[follow our guide](/support/digital-security).
 
 ---
 
-## 🚨 If Crisis Happens
+## Safety Checklist
 
-### Group Faces Challenge
-1. Don't panic
-2. Contact [Palestine Legal](https://palestinelegal.org/)
-3. Document everything
-4. Get support
+**Before organizing:** Know your legal rights, set up secure communications, enable 2FA on accounts, establish support system.
 
-### Individual Is Targeted
-1. Contact Palestine Legal immediately
-2. Don't face meetings alone
-3. Review [legal rights](/support/legal)
-4. Build support network
+**While organizing:** Document everything, have legal observer at events, check in on team, take breaks.
 
----
+**If issues arise:** Contact legal support immediately, don't face challenges alone, reach out to allies, prioritize wellbeing.
 
-## 📞 Quick Contacts
+## Key Principles
 
-**Legal Emergency:**
-- [Palestine Legal](https://palestinelegal.org/contact)
-- [Just Peace Advocates](https://www.justpeaceadvocates.ca/)
+You have rights—know them. You have support—use it. You matter—take care of yourself. You're not alone—lean on community.
 
-**Mental Health Crisis:**
-- Crisis Text Line: Text HOME to 686868
-- Talk Suicide Canada: 1-833-456-4566
-
-**Digital Security Emergency:**
-- If doxxed: Contact Palestine Legal
-- If hacked: [Follow our guide](/support/digital-security)
+Your wellbeing enables sustainable organizing.
 
 ---
 
-## ✅ Safety Checklist
-
-### Before Organizing
-☐ Know your legal rights  
-☐ Set up secure communications  
-☐ Enable 2FA on accounts  
-☐ Establish support system  
-
-### While Organizing
-☐ Document everything  
-☐ Have legal observer at events  
-☐ Check in on team  
-☐ Take breaks  
-
-### If Issues Arise
-☐ Contact legal support immediately  
-☐ Don't face challenges alone  
-☐ Reach out to allies  
-☐ Prioritize wellbeing  
+**Related:** [Know Your Rights →](/support/legal), [Digital Security →](/support/digital-security), [Mental Health →](/support/mental-health), [Campus Organizing →](/campus-organizing), [Take Action →](/take-action).
 
 ---
 
-## 💡 Key Principles
+Stay safe. Take care. Organize sustainably.
 
-**Remember:**
-- You have rights - know them
-- You have support - use it
-- You matter - take care of yourself
-- You're not alone - lean on community
-
-**Your wellbeing enables sustainable organizing.**
-
----
-
-## Related Pages
-
-- **[Know Your Rights →](/support/legal)** - Comprehensive legal guide
-- **[Digital Security →](/support/digital-security)** - Protect yourself online
-- **[Mental Health →](/support/mental-health)** - Prevent burnout
-- **[Campus Organizing →](/campus-organizing)** - Organize safely
-- **[Take Action →](/take-action)** - Put knowledge into action
-
----
-
-**Stay safe. Take care. Organize sustainably. 🍉🇵🇸**
+**From the river to the sea, Palestine will be free. 🇵🇸**

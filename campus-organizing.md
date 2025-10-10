@@ -1,186 +1,85 @@
 ---
 layout: base
 title: Start Your Own Watermelon Club
-description: How to start a Watermelon Club on your campus - organize, build power, and create change.
+description: Organize, build power, create change on your campus.
 ---
 
 # 🍉 Start Your Own Watermelon Club
 
-**Bring Palestine solidarity organizing to your campus. Build community, take action, create change.**
+Bring Palestine solidarity organizing to your campus. Build community, take action, create change.
+
+## Why Start a Watermelon Club?
+
+Build a community of students who care. Take meaningful action together. Create lasting change at your institution. Connect with a growing movement across Canada.
 
 ---
 
-## 🍉 Why Start a Watermelon Club?
+## Getting Started
 
-**Make Palestine solidarity fun, accessible, and sustainable on your campus.**
+**Want to start a club?** Three steps: Find 3-5 interested students (you don't need a crowd), [Know Your Rights](/support/legal) (essential before organizing), Pick 1-2 [Weekly Actions](/campus-organizing/weekly-actions) (start small). Key principle: start small, build sustainably, center Palestinian voices.
 
-- Build a community of students who care
-- Take meaningful action together
-- Create lasting change at your institution
-- Connect with a growing movement across Canada
+**Already have a group?** Level up: [Weekly Actions](/campus-organizing/weekly-actions) (sustainable activities), [Role Templates](/campus-organizing/roles) (structure your team), [Strategic Campaigns](/campus-organizing/campaigns) (long-term change).
 
 ---
 
-## 🚀 Getting Started
+## Complete Guides
 
-### Want to Start a Club?
+**[Weekly Actions](/campus-organizing/weekly-actions)** - Sustainable activities to build power: Tabling (visibility & recruitment), Vigils (solidarity events), Film Screenings (education + recruitment), Social Media (digital organizing). 15-20 minutes to read.
 
-**Three steps to launch your Watermelon Club:**
+**[Role Templates](/campus-organizing/roles)** - 5 essential coordinator roles: Communications (social media, press), Outreach (coalitions, recruitment), Research (investigations, fact-checking), Events (planning, logistics), Finance (budget, fundraising). 20-25 minutes to read.
 
-1. 🌟 **Find 3-5 interested students** - You don't need a crowd to start
-2. 📚 **[Know Your Rights](/support/legal)** - Essential before organizing
-3. 🔥 **Pick 1-2 [Weekly Actions](/campus-organizing/weekly-actions)** - Start small
-
-**Key principle:** Start small, build sustainably, center Palestinian voices.
+**[Strategic Campaigns](/campus-organizing/campaigns)** - Long-term organizing for structural change: Divestment (4-phase process, 1-3 years), Speakers (bringing Palestinian voices to campus), Media (challenging bias, shifting narratives). 25-30 minutes to read.
 
 ---
 
-### Already Have a Group?
+## Your Watermelon Club Journey
 
-**Level up your Watermelon Club:**
-- **[Weekly Actions](/campus-organizing/weekly-actions)** - Sustainable activities
-- **[Role Templates](/campus-organizing/roles)** - Structure your team
-- **[Strategic Campaigns](/campus-organizing/campaigns)** - Long-term change
+**Just you? (1-2 hours/week):** Launch a [social media account](/campus-organizing/weekly-actions#social-media), table weekly with watermelon imagery to find others, form your first Watermelon Club meeting.
 
----
+**Small Club (5-10 people):** Register as official student club (use "Watermelon Club"!), assign [roles](/campus-organizing/roles), pick 2 [weekly actions](/campus-organizing/weekly-actions), plan one event per month.
 
-## 📚 Complete Guides
-
-### 🗓️ Weekly Actions
-
-**→ [Complete Weekly Actions Guide](/campus-organizing/weekly-actions)**
-
-Sustainable activities to build power:
-- **Tabling** - Visibility & recruitment
-- **Vigils** - Solidarity events
-- **Film Screenings** - Education + recruitment
-- **Social Media** - Digital organizing
-
-**Time to read:** 15-20 minutes
+**Established Club (10+ people):** Fill all [coordinator roles](/campus-organizing/roles), maintain consistent [weekly actions](/campus-organizing/weekly-actions), launch [strategic campaigns](/campus-organizing/campaigns) (divestment, speakers), help others start Watermelon Clubs at nearby schools.
 
 ---
 
-### 👥 Role Templates
+## Stay Safe
 
-**→ [Complete Role Templates Guide](/campus-organizing/roles)**
+**Before you start:** [Know your rights](/support/legal), [Secure your organizing](/support/digital-security), [Prevent burnout](/support/mental-health).
 
-5 essential coordinator roles:
-1. **Communications** - Social media, press
-2. **Outreach** - Coalitions, recruitment
-3. **Research** - Investigations, fact-checking
-4. **Events** - Planning, logistics
-5. **Finance** - Budget, fundraising
+**While organizing:** Document everything, have legal observer at actions, support each other, celebrate wins.
 
-**Time to read:** 20-25 minutes
+[Support Hub](/support)
 
 ---
 
-### 🎯 Strategic Campaigns
+## Watermelon Clubs & Partner Organizations
 
-**→ [Complete Strategic Campaigns Guide](/campus-organizing/campaigns)**
+**Watermelon Clubs:** Calgary—[Watermelon Club](https://berryhouse.ca) (the original! Instagram coming soon). Your campus? Be the first to start one!
 
-Long-term organizing for structural change:
-- **Divestment** - 4-phase process (1-3 years)
-- **Speakers** - Bringing Palestinian voices to campus
-- **Media** - Challenging bias, shifting narratives
+**Partner with existing groups:** [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/), SPHR chapters across Canada, local Justice for Palestine groups.
 
-**Time to read:** 25-30 minutes
+**Check your campus:** Student union club listings, search "[Your University] Palestine", or start the first Watermelon Club!
 
 ---
 
-## 🎯 Your Watermelon Club Journey
+## External Toolkits
 
-### Just You? (1-2 hours/week)
-**Start solo, build community:**
-1. Launch a [social media account](/campus-organizing/weekly-actions#social-media)
-2. Table weekly with watermelon imagery to find others
-3. Form your first Watermelon Club meeting
-
-### Small Club (5-10 people)
-**Make it official:**
-1. Register as official student club (use "Watermelon Club"!)
-2. Assign [roles](/campus-organizing/roles)
-3. Pick 2 [weekly actions](/campus-organizing/weekly-actions)
-4. Plan one event per month
-
-### Established Club (10+ people)
-**Scale your impact:**
-1. Fill all [coordinator roles](/campus-organizing/roles)
-2. Maintain consistent [weekly actions](/campus-organizing/weekly-actions)
-3. Launch [strategic campaigns](/campus-organizing/campaigns) (divestment, speakers)
-4. Help others start Watermelon Clubs at nearby schools
+Don't reinvent the wheel: [Palestine Portal: Guides & Toolkits](https://www.palestineportal.org/action-advocacy/guides-toolkits/), [Protect Palestine: Campus Organizers](https://www.protectpalestine.org/campus-organizers), [Palestine Legal: Student Organizing](https://palestinelegal.org/), [CJPME](https://www.cjpme.org/) (Canadian resources).
 
 ---
 
-## 🛡️ Stay Safe
+## Need Help Starting Your Club?
 
-### Before You Start
-☐ [Know your rights](/support/legal)  
-☐ [Secure your organizing](/support/digital-security)  
-☐ [Prevent burnout](/support/mental-health)  
+Email [mail@berryhouse.ca](mailto:mail@berryhouse.ca), Website [Berry House](https://berryhouse.ca), Instagram coming soon.
 
-### While Organizing
-☐ Document everything  
-☐ Have legal observer at actions  
-☐ Support each other  
-☐ Celebrate wins  
-
-**Full safety resources:** [Support Hub](/support)
+We can help with: starting your Watermelon Club, registering as official student org, strategy and action planning, connecting with other Watermelon Clubs, branding and social media tips.
 
 ---
 
-## 🌍 Watermelon Clubs & Partner Organizations
-
-**Watermelon Clubs:**
-- **Calgary:** [Watermelon Club](https://berryhouse.ca) - The original! *(Instagram coming soon)*
-- **Your campus?** Be the first to start one!
-
-**Partner with existing groups:**
-- [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/)
-- SPHR chapters across Canada
-- Local Justice for Palestine groups
-
-**Check your campus:**
-- Student union club listings
-- Search "[Your University] Palestine"
-- Or start the first Watermelon Club!
+**Related:** [Weekly Actions →](/campus-organizing/weekly-actions), [Role Templates →](/campus-organizing/roles), [Strategic Campaigns →](/campus-organizing/campaigns), [Support & Safety →](/support), [Take Action →](/take-action), [Education →](/education).
 
 ---
 
-## 📦 External Toolkits
+Every major movement started with students organizing on campuses. Start your Watermelon Club today.
 
-Don't reinvent the wheel:
-- [Palestine Portal: Guides & Toolkits](https://www.palestineportal.org/action-advocacy/guides-toolkits/)
-- [Protect Palestine: Campus Organizers](https://www.protectpalestine.org/campus-organizers)
-- [Palestine Legal: Student Organizing](https://palestinelegal.org/)
-- [CJPME](https://www.cjpme.org/) - Canadian resources
-
----
-
-## 📧 Need Help Starting Your Club?
-
-**Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)  
-**Website:** [Berry House](https://berryhouse.ca)  
-*Instagram coming soon*
-
-**We can help with:**
-- Starting your Watermelon Club
-- Registering as official student org
-- Strategy and action planning
-- Connecting with other Watermelon Clubs
-- Branding and social media tips
-
----
-
-## Related Pages
-
-- **[Weekly Actions →](/campus-organizing/weekly-actions)** - Start organizing
-- **[Role Templates →](/campus-organizing/roles)** - Structure your team
-- **[Strategic Campaigns →](/campus-organizing/campaigns)** - Long-term change
-- **[Support & Safety →](/support)** - Stay safe
-- **[Take Action →](/take-action)** - Individual actions
-- **[Education →](/education)** - Learn more
-
----
-
-**Every major movement started with students organizing on campuses. Start your Watermelon Club today. 🍉🇵🇸**
+**From the river to the sea, Palestine will be free. 🇵🇸**
