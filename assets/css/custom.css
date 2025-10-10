@@ -1,0 +1,1070 @@
+/* ==========================================
+   Custom Styles for Watermelon Club 🍉
+   Built on top of water.css
+   ========================================== */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+/* ==========================================
+   Variables - Watermelon Vibes!
+   ========================================== */
+:root {
+    /* Watermelon colors - Red, Green, Black, White */
+    --watermelon-red: #FF6B6B;
+    --watermelon-pink: #FFE5E5;
+    --watermelon-green: #4ECDC4;
+    --watermelon-dark-green: #2D8B85;
+    --watermelon-black: #2C3E50;
+    --watermelon-white: #FFFFFF;
+    
+    /* Light theme colors (default) */
+    --primary-color: var(--watermelon-green);
+    --secondary-color: var(--watermelon-red);
+    --accent-color: var(--watermelon-black);
+    --text-color: #2C3E50;
+    --bg-color: #FFFFFF;
+    --border-color: #E8F8F7;
+    --hover-color: var(--watermelon-dark-green);
+    --light-bg: var(--watermelon-pink);
+    --card-bg: #FFFFFF;
+    --header-bg: #FFFFFF;
+    
+    /* Layout */
+    --shadow: 0 4px 12px rgba(78, 205, 196, 0.15);
+    --hover-shadow: 0 8px 24px rgba(78, 205, 196, 0.25);
+    --max-width: 1200px;
+    --header-height: 70px;
+    
+    /* Animations */
+    --transition-speed: 0.3s;
+}
+
+/* Dark theme colors 🌙 */
+[data-theme="dark"] {
+    /* Override watermelon colors for dark mode */
+    --watermelon-red: #FF8787;
+    --watermelon-pink: #3a2a2a;
+    --watermelon-green: #5FE3D8;
+    --watermelon-dark-green: #7FEBE1;
+    --watermelon-black: #E8F1F0;
+    
+    /* Dark theme colors */
+    --primary-color: #5FE3D8;
+    --secondary-color: #FF8787;
+    --accent-color: #E8F1F0;
+    --text-color: #E8F1F0;
+    --bg-color: #1a1a1a;
+    --border-color: #2a4a48;
+    --hover-color: #7FEBE1;
+    --light-bg: #2a2a2a;
+    --card-bg: #242424;
+    --header-bg: #1f1f1f;
+    
+    /* Adjust shadows for dark theme */
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    --hover-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+/* Dark mode footer fix */
+[data-theme="dark"] #site-footer {
+    background: linear-gradient(135deg, #1f2a29 0%, #2a3534 100%);
+}
+
+[data-theme="dark"] .footer-compact a,
+[data-theme="dark"] .footer-info strong,
+[data-theme="dark"] .footer-bottom p {
+    color: var(--text-color);
+}
+
+/* ==========================================
+   Global Adjustments
+   ========================================== */
+body {
+    padding-top: var(--header-height);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg-color);
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Light theme gradient */
+:root body {
+    background: linear-gradient(135deg, #FFFFFF 0%, #F0FFFE 100%);
+}
+
+/* Dark theme gradient */
+[data-theme="dark"] body {
+    background: linear-gradient(135deg, #1a1a1a 0%, #1f2a29 100%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka', 'Inter', sans-serif;
+    color: var(--watermelon-black);
+}
+
+h1 {
+    color: var(--primary-color);
+}
+
+.container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Fun link animations 🍉 */
+a {
+    color: var(--watermelon-dark-green);
+    text-decoration: none;
+    position: relative;
+    transition: all var(--transition-speed) ease;
+    font-weight: 500;
+}
+
+a:hover {
+    color: var(--watermelon-green);
+    transform: translateY(-1px);
+}
+
+a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px;
+    left: 50%;
+    background: linear-gradient(90deg, var(--watermelon-red), var(--watermelon-green));
+    transition: all var(--transition-speed) ease;
+    transform: translateX(-50%);
+}
+
+a:hover::after {
+    width: 100%;
+}
+
+/* Make sure paragraph text is readable */
+p, li, td, th {
+    color: var(--watermelon-black);
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+strong, b {
+    color: var(--watermelon-black);
+    font-weight: 700;
+}
+
+/* Ensure readable backgrounds in both themes */
+blockquote {
+    background: var(--light-bg);
+    border-left: 4px solid var(--primary-color);
+    padding: 15px 20px;
+    margin: 20px 0;
+    color: var(--text-color);
+}
+
+code {
+    background: var(--light-bg);
+    color: var(--text-color);
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+pre {
+    background: var(--light-bg);
+    color: var(--text-color);
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+pre code {
+    background: transparent;
+}
+
+/* External links get arrow suffix */
+a[href^="http"]::after {
+    content: ' ↗';
+    font-size: 0.85em;
+    opacity: 0.6;
+    transition: opacity var(--transition-speed) ease;
+}
+
+a[href^="http"]:hover::after {
+    opacity: 1;
+}
+
+/* Remove arrow from navigation and footer links */
+.main-nav a[href^="http"]::after,
+.footer-compact a[href^="http"]::after {
+    content: none;
+}
+
+/* ==========================================
+   Sticky Header - Watermelon Fresh! 🍉
+   ========================================== */
+.sticky-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: var(--header-bg);
+    box-shadow: var(--shadow);
+    z-index: 1000;
+    border-bottom: 4px solid;
+    border-image: linear-gradient(90deg, var(--watermelon-red), var(--watermelon-green), var(--watermelon-red)) 1;
+    transition: all var(--transition-speed) ease;
+}
+
+.sticky-header:hover {
+    box-shadow: var(--hover-shadow);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    gap: 15px;
+}
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.watermelon-emoji {
+    font-size: 2em;
+    line-height: 1;
+}
+
+@media (min-width: 768px) {
+    .watermelon-emoji {
+        font-size: 2.5em;
+    }
+}
+
+.logo-text {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 1.1em;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--watermelon-green), var(--watermelon-red));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: inline;
+}
+
+@media (min-width: 768px) {
+    .logo-text {
+        font-size: 1.5em;
+    }
+}
+
+/* ==========================================
+   Navigation
+   ========================================== */
+.main-nav ul {
+    display: flex;
+    gap: 5px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: var(--watermelon-black);
+    font-weight: 600;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-size: 15px;
+}
+
+.main-nav a:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Theme Toggle Button 🍉 */
+#theme-toggle {
+    background: transparent;
+    border: none;
+    width: 32px;
+    height: 32px;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.2s ease;
+    padding: 4px;
+    margin-left: 5px;
+}
+
+#theme-toggle:hover {
+    opacity: 0.7;
+}
+
+#theme-toggle:active {
+    transform: scale(0.95);
+}
+
+/* Dropdown Navigation */
+.has-dropdown {
+    position: relative;
+}
+
+.main-nav .dropdown {
+    display: none !important;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--card-bg);
+    box-shadow: var(--shadow);
+    border-radius: 8px;
+    min-width: 220px;
+    padding: 10px 0;
+    margin-top: 5px;
+    z-index: 1000;
+    border: 2px solid var(--primary-color);
+    transition: background-color 0.3s ease;
+}
+
+.main-nav .dropdown li {
+    display: block;
+    margin: 0;
+}
+
+.main-nav .dropdown a {
+    display: block;
+    padding: 12px 20px;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.main-nav .dropdown a:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.main-nav .has-dropdown:hover > .dropdown,
+.main-nav .has-dropdown:focus-within > .dropdown {
+    display: block !important;
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    gap: 4px;
+}
+
+.mobile-menu-toggle span {
+    width: 24px;
+    height: 2px;
+    background-color: var(--text-color);
+    transition: all 0.3s ease;
+    display: block;
+}
+
+/* Hamburger animation when active */
+.mobile-menu-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translateY(7px);
+}
+
+.mobile-menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.mobile-menu-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translateY(-7px);
+}
+
+/* Tablet view - better spacing */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .main-nav ul {
+        gap: 2px;
+    }
+    
+    .main-nav a {
+        padding: 5px 7px;
+        font-size: 13px;
+    }
+    
+    #theme-toggle {
+        width: 28px;
+        height: 28px;
+        font-size: 16px;
+        margin-left: 2px;
+    }
+    
+    .logo-text {
+        font-size: 1.2em;
+    }
+    
+    .header-content {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: flex;
+    }
+    
+    .main-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--bg-color);
+        box-shadow: var(--shadow);
+        padding: 20px;
+        border-bottom: 2px solid var(--border-color);
+    }
+    
+    .main-nav.active {
+        display: block;
+    }
+    
+    .main-nav ul {
+        flex-direction: column;
+        gap: 10px;
+        align-items: stretch;
+    }
+    
+    .main-nav a {
+        padding: 10px 15px;
+        display: block;
+    }
+    
+    #theme-toggle {
+        width: 100%;
+        justify-content: flex-start;
+        padding: 10px 15px;
+        font-size: 20px;
+        margin-left: 0;
+    }
+    
+    .dropdown {
+        position: static;
+        box-shadow: none;
+        padding-left: 20px;
+        margin-top: 5px;
+        border: none;
+    }
+    
+    .main-nav .has-dropdown .dropdown {
+        display: none;
+        background: transparent;
+    }
+    
+    .main-nav .has-dropdown.active .dropdown {
+        display: block !important;
+    }
+    
+    .main-nav .dropdown a {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    
+    .header-content {
+        padding: 8px 0;
+    }
+    
+    .logo a {
+        font-size: 1rem;
+    }
+    
+    .logo-text {
+        font-size: 1em;
+    }
+}
+
+/* ==========================================
+   Collapsible Sections
+   ========================================== */
+.collapsible-section {
+    margin: 30px 0;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.collapsible-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: var(--card-bg);
+    border: 2px solid var(--primary-color);
+    color: var(--text-color);
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.3s ease;
+}
+
+.collapsible-header:hover {
+    background: var(--light-bg);
+    border-color: var(--hover-color);
+}
+
+.collapsible-header h2,
+.collapsible-header h3,
+.collapsible-header h4 {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 1.3rem;
+}
+
+.collapsible-toggle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+    margin-left: 15px;
+    color: var(--primary-color);
+}
+
+.collapsible-section.active .collapsible-toggle {
+    transform: rotate(180deg);
+}
+
+.collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.collapsible-section.active .collapsible-content {
+    max-height: 10000px; /* Large enough for any content */
+}
+
+.collapsible-content-inner {
+    padding: 20px;
+}
+
+/* Default closed state for all collapsibles */
+.collapsible-section:not(.active) .collapsible-content {
+    display: none;
+}
+
+/* ==========================================
+   Main Content
+   ========================================== */
+#main-content {
+    min-height: calc(100vh - var(--header-height) - 200px);
+    padding: 40px 0;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--hover-color) 100%);
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+.hero h1 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto 30px;
+}
+
+.hero .cta-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background: white;
+    color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: 2px solid white;
+}
+
+.btn:hover {
+    background: transparent;
+    color: white;
+}
+
+.btn-secondary {
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+.btn-secondary:hover {
+    background: white;
+    color: var(--primary-color);
+}
+
+/* Card Grid */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin: 40px 0;
+}
+
+.card {
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card h3 {
+    color: var(--primary-color);
+    margin-top: 0;
+}
+
+.card ul {
+    padding-left: 20px;
+}
+
+/* Alert Boxes */
+.alert {
+    padding: 20px;
+    border-radius: 6px;
+    margin: 20px 0;
+    border-left: 4px solid;
+}
+
+.alert-urgent {
+    background: #fff3cd;
+    border-color: #ff9800;
+}
+
+.alert-info {
+    background: #d1ecf1;
+    border-color: #0c5460;
+}
+
+.alert-success {
+    background: #d4edda;
+    border-color: #155724;
+}
+
+.alert-warning {
+    background: #f8d7da;
+    border-color: #721c24;
+}
+
+/* Checklist */
+.checklist {
+    list-style: none;
+    padding: 0;
+}
+
+.checklist li {
+    padding: 10px 0 10px 35px;
+    position: relative;
+}
+
+.checklist li:before {
+    content: "☐";
+    position: absolute;
+    left: 0;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+/* Quick Actions */
+.quick-actions {
+    background: var(--primary-color);
+    color: white;
+    padding: 30px;
+    border-radius: 8px;
+    margin: 30px 0;
+}
+
+.quick-actions h2 {
+    color: white;
+    margin-top: 0;
+}
+
+.quick-actions a {
+    color: white;
+    text-decoration: underline;
+}
+
+/* ==========================================
+   Footer - Compact Design 🍉
+   ========================================== */
+#site-footer {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--hover-color) 100%);
+    color: white;
+    padding: 30px 0 15px;
+    margin-top: 60px;
+}
+
+.footer-compact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.footer-main {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer-info p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: white;
+}
+
+.footer-info strong {
+    font-size: 18px;
+    color: white;
+}
+
+.footer-links {
+    font-size: 14px;
+}
+
+.footer-compact {
+    font-family: 'Fredoka', 'Inter', sans-serif;
+}
+
+.footer-info strong {
+    font-family: 'Fredoka', 'Inter', sans-serif;
+}
+
+.footer-compact a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.footer-compact a:hover {
+    opacity: 0.8;
+}
+
+.footer-compact a::after {
+    display: none;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 14px;
+    font-family: 'Fredoka', 'Inter', sans-serif;
+}
+
+.footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .footer-compact {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .footer-main {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+/* ==========================================
+   Utility Classes
+   ========================================== */
+.text-center {
+    text-align: center;
+}
+
+.mt-1 { margin-top: 10px; }
+.mt-2 { margin-top: 20px; }
+.mt-3 { margin-top: 30px; }
+.mt-4 { margin-top: 40px; }
+
+.mb-1 { margin-bottom: 10px; }
+.mb-2 { margin-bottom: 20px; }
+.mb-3 { margin-bottom: 30px; }
+.mb-4 { margin-bottom: 40px; }
+
+.p-1 { padding: 10px; }
+.p-2 { padding: 20px; }
+.p-3 { padding: 30px; }
+.p-4 { padding: 40px; }
+
+/* ==========================================
+   Responsive Adjustments
+   ========================================== */
+@media (max-width: 768px) {
+    .hero {
+        padding: 40px 15px;
+    }
+    
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+    
+    .hero p {
+        font-size: 1rem;
+    }
+    
+    .card-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+}
+
+/* ==========================================
+   Print Styles
+   ========================================== */
+@media print {
+    .sticky-header,
+    #site-footer,
+    .mobile-menu-toggle,
+    .collapsible-toggle {
+        display: none;
+    }
+    
+    .collapsible-content {
+        max-height: none !important;
+        display: block !important;
+    }
+    
+    body {
+        padding-top: 0;
+    }
+}
+
+/* ==========================================
+   Accessibility
+   ========================================== */
+/* Skip to main content link */
+.skip-to-content {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--primary-color);
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    z-index: 10000;
+}
+
+.skip-to-content:focus {
+    top: 0;
+}
+
+/* Focus states */
+a:focus,
+button:focus {
+    outline: 2px solid var(--primary-color);
+    outline-offset: 2px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* ==========================================
+   Table of Contents
+   ========================================== */
+.table-of-contents {
+    background: var(--card-bg);
+    border: 2px solid var(--primary-color);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 30px 0;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+.toc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.toc-header h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+
+.toc-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    transition: transform 0.3s ease;
+}
+
+.toc-toggle span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: var(--text-color);
+    transition: all 0.3s ease;
+}
+
+.table-of-contents.collapsed .toc-toggle {
+    transform: rotate(180deg);
+}
+
+.table-of-contents.collapsed .toc-list {
+    display: none;
+}
+
+.toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.toc-list li {
+    margin: 8px 0;
+}
+
+.toc-list a {
+    text-decoration: none;
+    color: var(--text-color);
+    display: block;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-size: 0.95rem;
+}
+
+.toc-list a:hover {
+    background: var(--primary-color);
+    color: white;
+    padding-left: 15px;
+}
+
+.toc-list a.active {
+    background: var(--primary-color);
+    color: white;
+    font-weight: 600;
+}
+
+/* H2 items - main sections */
+.toc-h2 > a {
+    font-weight: 600;
+}
+
+/* H3 items - subsections */
+.toc-sublist {
+    list-style: none;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
+.toc-h3 > a {
+    font-size: 0.9rem;
+    font-weight: normal;
+    color: var(--text-color);
+    opacity: 0.8;
+}
+
+.toc-h3 > a:hover {
+    color: white;
+    opacity: 1;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .table-of-contents {
+        padding: 15px;
+        margin: 20px 0;
+    }
+
+    .toc-header h2 {
+        font-size: 1.1rem;
+    }
+
+    .toc-list a {
+        font-size: 0.9rem;
+        padding: 4px 8px;
+    }
+
+    .toc-sublist {
+        padding-left: 15px;
+    }
+}
+
+/* Sticky TOC option (can be enabled with JS) */
+.table-of-contents.sticky-toc {
+    position: sticky;
+    top: calc(var(--header-height) + 20px);
+    max-width: 300px;
+    float: right;
+    margin-left: 20px;
+    max-height: calc(100vh - var(--header-height) - 40px);
+    overflow-y: auto;
+}
+
+@media (max-width: 992px) {
+    .table-of-contents.sticky-toc {
+        position: static;
+        float: none;
+        max-width: 100%;
+        margin-left: 0;
+    }
+}

@@ -1,0 +1,346 @@
+/* ==========================================
+   Watermelon Club 🍉 - Fun Animations!
+   ========================================== */
+
+/* Floating watermelon animation */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+        transform: translateY(-10px) rotate(5deg);
+    }
+}
+
+/* Bounce animation */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+/* Pulse animation */
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+/* Wiggle animation */
+@keyframes wiggle {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(-3deg);
+    }
+    75% {
+        transform: rotate(3deg);
+    }
+}
+
+/* Shine effect */
+@keyframes shine {
+    0% {
+        left: -100%;
+    }
+    100% {
+        left: 100%;
+    }
+}
+
+/* Gradient shift */
+@keyframes gradient-shift {
+    0%, 100% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+/* Watermelon emoji floaters */
+.watermelon-emoji {
+    display: inline-block;
+    animation: float 3s ease-in-out infinite;
+}
+
+.watermelon-emoji:hover {
+    animation: wiggle 0.5s ease-in-out;
+}
+
+/* Animated buttons */
+.btn-watermelon {
+    background: linear-gradient(135deg, var(--watermelon-red), var(--watermelon-green));
+    background-size: 200% 200%;
+    animation: gradient-shift 3s ease infinite;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+}
+
+.btn-watermelon:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+}
+
+.btn-watermelon::before {
+    content: '🍉';
+    position: absolute;
+    left: -30px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2em;
+    transition: all 0.3s ease;
+}
+
+.btn-watermelon:hover::before {
+    left: 10px;
+}
+
+/* Card hover effects */
+.card-watermelon {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    border: 2px solid var(--watermelon-green);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-watermelon::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(78, 205, 196, 0.1), transparent);
+    transition: left 0.5s ease;
+}
+
+.card-watermelon:hover {
+    transform: translateY(-5px) rotate(1deg);
+    box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+    border-color: var(--watermelon-red);
+}
+
+.card-watermelon:hover::before {
+    left: 100%;
+}
+
+/* Section headers with watermelon decoration */
+h2.watermelon-header::before {
+    content: '🍉 ';
+    display: inline-block;
+    animation: bounce 2s ease-in-out infinite;
+}
+
+h2.watermelon-header::after {
+    content: ' 🍉';
+    display: inline-block;
+    animation: bounce 2s ease-in-out infinite 1s;
+}
+
+/* Alert boxes with watermelon theme */
+.alert-watermelon {
+    background: linear-gradient(135deg, var(--watermelon-pink), white);
+    border-left: 5px solid var(--watermelon-red);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.alert-watermelon::before {
+    content: '🍉';
+    position: absolute;
+    font-size: 3em;
+    opacity: 0.1;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Progress bar watermelon style */
+.progress-watermelon {
+    background: var(--watermelon-pink);
+    height: 10px;
+    border-radius: 50px;
+    overflow: hidden;
+    position: relative;
+}
+
+.progress-watermelon::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 70%;
+    background: linear-gradient(90deg, var(--watermelon-red), var(--watermelon-green));
+    border-radius: 50px;
+    animation: gradient-shift 2s ease infinite;
+}
+
+/* Checkbox watermelon style */
+input[type="checkbox"]:checked::before {
+    content: '🍉';
+    font-size: 0.8em;
+}
+
+/* Fun scrollbar */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--watermelon-pink);
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, var(--watermelon-red), var(--watermelon-green));
+    border-radius: 10px;
+    border: 2px solid var(--watermelon-pink);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, var(--watermelon-green), var(--watermelon-dark-green));
+}
+
+/* Loading animation watermelon */
+.loading-watermelon {
+    display: inline-block;
+    animation: bounce 1s ease-in-out infinite;
+}
+
+.loading-watermelon::after {
+    content: '🍉';
+    font-size: 2em;
+}
+
+/* Tooltip watermelon style */
+.tooltip-watermelon {
+    position: relative;
+    cursor: help;
+}
+
+.tooltip-watermelon::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+    background: var(--watermelon-black);
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 0.85em;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+.tooltip-watermelon::before {
+    content: '🍉';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+.tooltip-watermelon:hover::after,
+.tooltip-watermelon:hover::before {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* Tags/badges watermelon style */
+.tag-watermelon {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--watermelon-green), var(--watermelon-dark-green));
+    color: white;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin: 4px;
+    transition: all 0.3s ease;
+}
+
+.tag-watermelon:hover {
+    transform: scale(1.1) rotate(-2deg);
+    box-shadow: 0 4px 12px rgba(78, 205, 196, 0.3);
+}
+
+.tag-watermelon::before {
+    content: '🍉 ';
+}
+
+/* Fun navigation arrows */
+.arrow-watermelon {
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.arrow-watermelon:hover {
+    transform: translateX(5px);
+    color: var(--watermelon-red);
+}
+
+/* Watermelon divider */
+.divider-watermelon {
+    text-align: center;
+    margin: 40px 0;
+    position: relative;
+}
+
+.divider-watermelon::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--watermelon-green), var(--watermelon-red), transparent);
+}
+
+.divider-watermelon span {
+    background: white;
+    padding: 0 15px;
+    position: relative;
+    z-index: 1;
+    font-size: 1.5em;
+}
+
+/* Add watermelon to section icons */
+section[id]::before {
+    content: '🍉';
+    opacity: 0.05;
+    font-size: 10em;
+    position: absolute;
+    right: -50px;
+    top: 50%;
+    transform: translateY(-50%) rotate(-15deg);
+    pointer-events: none;
+    z-index: -1;
+}
