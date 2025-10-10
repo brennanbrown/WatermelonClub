@@ -307,8 +307,9 @@ Start with these foundational resources:
 ## 🤝 Connect With Community
 
 - **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-- **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
+- **Website:** [Berry House](https://berryhouse.ca)
 - **Find local groups:** [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/)
+- *Instagram coming soon*
 
 ---
 

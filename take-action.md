@@ -100,7 +100,7 @@ Palestinian-led Boycott, Divestment, Sanctions movement.
 **Find current petitions:**
 - [CJPME Campaigns](https://www.cjpme.org/campaigns)
 - [Avaaz Palestine](https://www.avaaz.org)
-- Check [@watermelonclub](https://www.instagram.com/watermelonclub/) for latest
+- Check [Watermelon Club](https://berryhouse.ca) for latest *(Instagram coming soon)*
 
 **Tip:** Add a personal comment for more impact
 

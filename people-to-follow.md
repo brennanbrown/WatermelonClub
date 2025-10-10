@@ -173,10 +173,10 @@ description: Follow and amplify Palestinian journalists, activists, and voices s
 - **Focus:** Calgary protests, events, community organizing
 
 **Watermelon Club 🍉**
-- **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
+- **Website:** [Berry House](https://berryhouse.ca)
 - **Email:** mail@berryhouse.ca
 - **Focus:** Student solidarity organizing in Calgary
-- A [Berry House](https://berryhouse.ca) project
+- *Instagram coming soon*
 
 *Find more local chapters through [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/)*
 

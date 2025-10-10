@@ -12,7 +12,7 @@ description: Comprehensive resource hub for Canadian students to learn about Pal
 
 This resource hub was originally created by students in Mohkínstsis (Calgary) and is now maintained by Berry House, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are.
 
-**If any information or resources exist in contradiction to Palestinian calls to action,** please email us at [mail@berryhouse.ca](mailto:mail@berryhouse.ca) or message us on Instagram at [@watermelonclub](https://www.instagram.com/watermelonclub/).
+**If any information or resources exist in contradiction to Palestinian calls to action,** please email us at [mail@berryhouse.ca](mailto:mail@berryhouse.ca).
 
 **Important distinction:** Watermelon Club acknowledges the critical difference between **antisemitism** and **anti-Zionism**. We do NOT support antisemitism in any way and encourage reporting any instances of antisemitism (online or in person). **Criticism of Israeli government policies is not antisemitism—it is legitimate political speech grounded in human rights and international law.**
 
@@ -218,11 +218,12 @@ Lead campaigns and create change:
 - Protests, events, community organizing
 - [Facebook](https://www.facebook.com/JFPCalgary/) | [Instagram](https://www.instagram.com/jfpcalgary)
 
-**[Watermelon Club 🍉](https://www.instagram.com/watermelonclub/)**
+**[Watermelon Club 🍉](https://berryhouse.ca)**
 - Student solidarity organizing in Calgary
 - Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - Website: [watermelonclub.org](https://watermelonclub.org)
 - A [Berry House](https://berryhouse.ca) project
+- *Instagram coming soon*
 
 **[Calgary Palestinian Council](https://calgarypalestiniancouncil.ca/)**
 - Cultural events, advocacy, community support
@@ -363,7 +364,8 @@ Lead campaigns and create change:
 
 **Contact:**
 - **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-- **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
+- **Website:** [Berry House](https://berryhouse.ca)
+- *Instagram coming soon*
 
 ### Submit Resources
 Have resources to add? Found broken links? Want to share your campus organizing success?

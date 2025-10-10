@@ -132,7 +132,7 @@ Long-term organizing for structural change:
 ## 🌍 Watermelon Clubs & Partner Organizations
 
 **Watermelon Clubs:**
-- **Calgary:** [Watermelon Club](https://www.instagram.com/watermelonclub/) - The original!
+- **Calgary:** [Watermelon Club](https://berryhouse.ca) - The original! *(Instagram coming soon)*
 - **Your campus?** Be the first to start one!
 
 **Partner with existing groups:**
@@ -160,7 +160,8 @@ Don't reinvent the wheel:
 ## 📧 Need Help Starting Your Club?
 
 **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)  
-**Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
+**Website:** [Berry House](https://berryhouse.ca)  
+*Instagram coming soon*
 
 **We can help with:**
 - Starting your Watermelon Club

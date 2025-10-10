@@ -13,7 +13,6 @@ baseurl: ""
 author:
   name: Watermelon Club
   email: mail@berryhouse.ca
-  instagram: watermelonclub
   location: Mohkínstsis (Calgary, AB, Canada)
   project_by: Berry House
 
@@ -86,8 +85,8 @@ plugins:
 social:
   name: Watermelon Club
   links:
-    - https://www.instagram.com/watermelonclub/
     - https://watermelonclub.org
+    - https://berryhouse.ca
 
 # Feed Settings
 feed:

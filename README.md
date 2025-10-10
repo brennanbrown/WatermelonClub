@@ -361,9 +361,9 @@ This project is dedicated to Palestinian liberation and justice. Content may be 
 **Watermelon Club 🍉**
 
 - **Email:** [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
-- **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
 - **Website:** [watermelonclub.org](https://watermelonclub.org)
 - **Location:** Mohkínstsis (Calgary, Alberta, Canada)
+- *Instagram coming soon*
 
 *A [Berry House](https://berryhouse.ca) project*
 
