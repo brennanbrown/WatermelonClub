@@ -14,7 +14,13 @@ Consistent action builds visible presence, creates regular touchpoints, prevents
 
 2-hour shifts, 2-3 people, high visibility and direct recruitment.
 
-**Materials:** Folding table + tablecloth, info pamphlets ([CJPME printables](https://www.cjpme.org/distribute)), sign-up sheet, QR codes (donations/petitions), eye-catching visuals ([Visualizing Palestine](https://visualizingpalestine.org/)). Optional: Palestinian kuffiyeh draped on table, watermelon imagery, laptop with videos.
+**Materials:**
+- Folding table + tablecloth
+- Info pamphlets ([CJPME printables](https://www.cjpme.org/distribute))
+- Sign-up sheet
+- QR codes (donations/petitions)
+- Eye-catching visuals ([Visualizing Palestine](https://visualizingpalestine.org/))
+- Optional: Palestinian kuffiyeh draped on table, watermelon imagery, laptop with videos
 
 **Before:** Reserve space 2-3 weeks ahead through student union. Pick high-traffic location (student center, cafeteria, library entrance). Best times: lunch hours (11am-2pm), between classes. Print [CJPME factsheets](https://www.cjpme.org/factsheets). Create sign-up sheet (Name, Email, Phone, Interests). Generate QR codes. Prepare talking points. Create calendar, recruit volunteers (always pair experienced + new), send reminders 24 hours before.
 
@@ -38,9 +44,20 @@ Consistent action builds visible presence, creates regular touchpoints, prevents
 
 **Timeline:** 6 weeks before—choose date, time, location, decide format. 4 weeks—apply for permits through campus/city, recruit legal observer ([Palestine Legal](https://palestinelegal.org/)), invite partner organizations. 2 weeks—create event page/flyer, invite speakers, gather materials. 1 week—promote heavily, email campus community, confirm speakers and legal observer, print materials. Day of—arrive 30 min early, brief organizers, welcome participants, run program, clean up.
 
-**Materials:** LED candles (safer than flames, check campus rules), signs, sound system (if speeches), program copies, contact info, [Protester Safety Infographic](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html).
+**Materials:**
+- LED candles (safer than flames, check campus rules)
+- Signs
+- Sound system (if speeches)
+- Program copies
+- Contact info
+- [Protester Safety Infographic](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)
 
-**People:** MC/facilitator, speakers (if applicable), legal observer, photographer/videographer, clean-up crew.
+**People:**
+- MC/facilitator
+- Speakers (if applicable)
+- Legal observer
+- Photographer/videographer
+- Clean-up crew
 
 **Sample program (1 hour):** 0:00-0:05 Welcome & land acknowledgment, 0:05-0:10 Why we're here, 0:10-0:30 Silent reflection OR readings/speakers, 0:30-0:45 More speakers/testimonies, 0:45-0:55 Call to action, 0:55-1:00 Closing.
 
@@ -60,7 +77,35 @@ Film screenings work because they're accessible for beginners, build understandi
 
 **Timeline:** Week 1—choose film (see [film recommendations](/education/resources#documentaries)), book venue, set date/time (weeknight evening works), assign roles. Week 2—secure film rights/streaming (many have free screening licenses, see [Just Vision Film Screening Toolkit](https://www.palestineportal.org/action-advocacy/guides-toolkits/)), book A/V equipment, create budget, apply for funding. Week 3—create poster/flyer, Facebook event, Instagram promotion, email campus groups, post around campus, partner orgs promote. Week 4—daily social media, class announcements (ask profs), flyers in high-traffic areas, email reminders, finalize panel/Q&A. Week 5—intensify promotion, confirm logistics, print programs, prepare discussion questions, brief panel/facilitator, gather sign-up sheets. Week 6—daily reminders, tech check (24 hours before), set up (2 hours before), welcome attendees, run event, follow up.
 
-**Event day checklist:** Tech (2 hours before)—test projector/screen, test audio, test film playback, have backup (offline copy), charge laptop. Room—arrange seating, set up sign-in table, directional signs, resource table, snacks/water. Materials—sign-in sheets, programs with discussion questions, resource handouts, QR codes, info about next event. People—door greeters (2), tech person, facilitator, panel (if applicable), photographer.
+**Event day checklist:**
+
+**Tech (2 hours before):**
+- Test projector/screen
+- Test audio
+- Test film playback
+- Have backup (offline copy)
+- Charge laptop
+
+**Room:**
+- Arrange seating
+- Set up sign-in table
+- Directional signs
+- Resource table
+- Snacks/water
+
+**Materials:**
+- Sign-in sheets
+- Programs with discussion questions
+- Resource handouts
+- QR codes
+- Info about next event
+
+**People:**
+- Door greeters (2)
+- Tech person
+- Facilitator
+- Panel (if applicable)
+- Photographer
 
 **Sample program (2 hours):** 0:00-0:10 Welcome, introductions, land acknowledgment. 0:10-0:15 Film introduction (context, why this film). 0:15-1:30 Film screening. 1:30-1:50 Q&A/panel discussion. 1:50-2:00 Next steps, calls to action, closing.
 

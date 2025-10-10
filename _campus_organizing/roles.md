@@ -22,7 +22,12 @@ Start with 3-5 people. One person can hold multiple roles. As you grow, split re
 
 ## 📱 Communications Coordinator
 
-Manage social media (Instagram, Twitter/X, Facebook), write press releases, coordinate with campus media, design graphics, maintain email list.
+**Responsibilities:**
+- Manage social media (Instagram, Twitter/X, Facebook)
+- Write press releases
+- Coordinate with campus media
+- Design graphics
+- Maintain email list
 
 **Time:** 5-10 hours/week (1-2 hours daily for social media)
 
@@ -44,7 +49,12 @@ Manage social media (Instagram, Twitter/X, Facebook), write press releases, coor
 
 ## 🤝 Outreach Coordinator
 
-Build coalitions with other student groups, maintain relationships with faculty allies, coordinate co-sponsorships, represent the group at other organizations' events, recruit new members.
+**Responsibilities:**
+- Build coalitions with other student groups
+- Maintain relationships with faculty allies
+- Coordinate co-sponsorships
+- Represent the group at other organizations' events
+- Recruit new members
 
 **Time:** 5-8 hours/week
 
