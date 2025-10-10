@@ -172,10 +172,11 @@ description: Follow and amplify Palestinian journalists, activists, and voices s
 - **Facebook:** [JFPCalgary](https://www.facebook.com/JFPCalgary/)
 - **Focus:** Calgary protests, events, community organizing
 
-**Watermelon Club 🍉 (Watermelon Club)**
-- **Instagram:** [@watermelonclub](https://www.instagram.com/mrusfp/)
+**Watermelon Club 🍉**
+- **Instagram:** [@watermelonclub](https://www.instagram.com/watermelonclub/)
 - **Email:** mail@berryhouse.ca
-- **Focus:** Campus organizing at MRU
+- **Focus:** Student solidarity organizing in Calgary
+- A [Berry House](https://berryhouse.ca) project
 
 *Find more local chapters through [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/)*
 

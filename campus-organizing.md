@@ -132,7 +132,7 @@ Long-term organizing for structural change:
 ## 🌍 Watermelon Clubs & Partner Organizations
 
 **Watermelon Clubs:**
-- **Calgary:** [Mount Royal University](https://www.instagram.com/watermelonclub/) - The original!
+- **Calgary:** [Watermelon Club](https://www.instagram.com/watermelonclub/) - The original!
 - **Your campus?** Be the first to start one!
 
 **Partner with existing groups:**

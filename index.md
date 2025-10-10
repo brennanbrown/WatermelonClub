@@ -10,7 +10,7 @@ description: Comprehensive resource hub for Canadian students to learn about Pal
 
 > **A comprehensive platform for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.**
 
-This resource hub has been compiled by students at Mount Royal University in Mohkínstsis, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are.
+This resource hub was originally created by students in Mohkínstsis (Calgary) and is now maintained by Berry House, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are.
 
 **If any information or resources exist in contradiction to Palestinian calls to action,** please email us at [mail@berryhouse.ca](mailto:mail@berryhouse.ca) or message us on Instagram at [@watermelonclub](https://www.instagram.com/watermelonclub/).
 
@@ -219,7 +219,7 @@ Lead campaigns and create change:
 - [Facebook](https://www.facebook.com/JFPCalgary/) | [Instagram](https://www.instagram.com/jfpcalgary)
 
 **[Watermelon Club 🍉](https://www.instagram.com/watermelonclub/)**
-- Campus organizing at MRU
+- Student solidarity organizing in Calgary
 - Email: [mail@berryhouse.ca](mailto:mail@berryhouse.ca)
 - Website: [watermelonclub.org](https://watermelonclub.org)
 - A [Berry House](https://berryhouse.ca) project
@@ -375,7 +375,7 @@ Have resources to add? Found broken links? Want to share your campus organizing 
 
 ### Who We Are
 
-This resource hub is compiled by students at Mount Royal University in Mohkínstsis (Calgary), building on work started by Watermelon Club. We are none of us Palestinian, Arab, or Muslim ourselves, and we have made every effort to center and amplify Palestinian voices.
+This resource hub was created by student organizers in Mohkínstsis (Calgary) and is now maintained by Berry House. We are none of us Palestinian, Arab, or Muslim ourselves, and we have made every effort to center and amplify Palestinian voices.
 
 **Our Commitment:**
 - Center Palestinian voices and leadership
