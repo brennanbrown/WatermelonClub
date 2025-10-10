@@ -1,0 +1,131 @@
+# Netlify Configuration for Students for Palestine
+
+[build]
+  # Build command - Jekyll builds to _site by default
+  command = "bundle exec jekyll build"
+  
+  # Publish directory
+  publish = "_site"
+
+[build.environment]
+  # Ruby version (adjust if needed)
+  RUBY_VERSION = "2.7.2"
+  
+  # Jekyll environment
+  JEKYLL_ENV = "production"
+
+# Redirect rules
+[[redirects]]
+  from = "/index-old.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/index-OLD-BACKUP.html"
+  to = "/"
+  status = 301
+
+# Redirect for legacy URLs if you had any
+[[redirects]]
+  from = "/resources"
+  to = "/start-here"
+  status = 301
+
+# 404 page
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # Security headers
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    
+    # Content Security Policy
+    Content-Security-Policy = """
+      default-src 'self';
+      script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;
+      style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com;
+      img-src 'self' data: https: http:;
+      font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net;
+      connect-src 'self';
+      frame-ancestors 'none';
+      base-uri 'self';
+      form-action 'self';
+    """
+    
+    # Permissions Policy
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Cache static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Don't cache HTML
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Enable pretty URLs (remove .html extension)
+[[redirects]]
+  from = "/:path.html"
+  to = "/:path"
+  status = 301
+
+# Plugin configuration (optional, but useful)
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+  
+  [plugins.inputs]
+    buildDir = "_site"
+    exclude = [
+      "**/404.html"
+    ]
+
+# Context-specific settings
+[context.production]
+  environment = { JEKYLL_ENV = "production" }
+
+[context.deploy-preview]
+  command = "bundle exec jekyll build --drafts"
+
+[context.branch-deploy]
+  command = "bundle exec jekyll build --drafts"
+
+# Forms (if you add contact forms later)
+# Netlify automatically handles form submissions with the netlify attribute
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+[build.processing.images]
+  compress = true

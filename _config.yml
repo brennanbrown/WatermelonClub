@@ -1,0 +1,134 @@
+# Jekyll Configuration for Watermelon Club 🍉
+
+# Site Settings
+title: Watermelon Club
+tagline: Palestine Solidarity Resources for Students
+description: >-
+  Fun, accessible Palestine solidarity resources for Canadian students.
+  Learn, organize, take action. Start your own Watermelon Club today!
+url: "https://watermelonclub.org"
+baseurl: ""
+
+# Author/Organization
+author:
+  name: Watermelon Club
+  email: mail@brennanbrown.ca
+  instagram: watermelonclub
+  location: Mohkínstsis (Calgary, AB, Canada)
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: America/Edmonton
+
+# Kramdown Settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
+  toc_levels: 1..3
+
+# Collections
+collections:
+  campus_organizing:
+    output: true
+    permalink: /campus-organizing/:name
+  education:
+    output: true
+    permalink: /education/:name
+  support:
+    output: true
+    permalink: /support/:name
+  take_action:
+    output: true
+    permalink: /take-action/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: base
+  - scope:
+      path: ""
+      type: "campus_organizing"
+    values:
+      layout: base
+      parent: "Campus Organizing"
+  - scope:
+      path: ""
+      type: "education"
+    values:
+      layout: base
+      parent: "Education"
+  - scope:
+      path: ""
+      type: "support"
+    values:
+      layout: base
+      parent: "Support & Safety"
+  - scope:
+      path: ""
+      type: "take_action"
+    values:
+      layout: base
+      parent: "Take Action"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO Tag Settings
+social:
+  name: Watermelon Club
+  links:
+    - https://www.instagram.com/watermelonclub/
+    - https://watermelonclub.org
+
+# Feed Settings
+feed:
+  path: feed.xml
+
+# Include/Exclude
+include:
+  - _pages
+  - assets
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - IMPLEMENTATION-GUIDE.md
+  - DEPLOY-CHECKLIST.md
+  - docs/
+  - archive/
+  - .git
+  - .gitignore
+  - .sass-cache
+  - .jekyll-cache
+
+# Sass Settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+# Misc Settings
+encoding: utf-8
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
