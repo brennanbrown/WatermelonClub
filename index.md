@@ -4,14 +4,11 @@ title: Students for Palestine - Canadian Resource Hub
 description: Comprehensive resource hub for Canadian students to learn about Palestine, take action, and organize for justice. Built by student organizers, centering Palestinian voices.
 ---
 
-# 🇵🇸 Students for Palestine
-## **Canadian Resource Hub for Student Organizing & Education**
-
-> **A comprehensive platform for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.**
-
----
+# 🇵🇸 We are Students for Palestine
 
 ## 📝 About This Platform
+
+> **A comprehensive platform for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.**
 
 This resource hub has been compiled by students at Mount Royal University in Mohkínstsis, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are.
 
