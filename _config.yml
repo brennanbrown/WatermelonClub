@@ -12,9 +12,10 @@ baseurl: ""
 # Author/Organization
 author:
   name: Watermelon Club
-  email: mail@brennanbrown.ca
+  email: mail@berryhouse.ca
   instagram: watermelonclub
   location: Mohkínstsis (Calgary, AB, Canada)
+  project_by: Berry House
 
 # Build Settings
 markdown: kramdown
