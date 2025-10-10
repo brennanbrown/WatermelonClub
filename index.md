@@ -206,7 +206,7 @@ Lead campaigns and create change:
 
 **Students for Justice in Palestine (SJP)**
 - 350+ chapters across US/Canada
-- [Find or start a chapter →](/campus-organizing/starting-a-group)
+- [Find or start a chapter →](/campus-organizing)
 
 ---
 
@@ -328,7 +328,7 @@ Lead campaigns and create change:
 - **"Al-Nakba"** - 4-part series on 1948
 - **"1948: Creation & Catastrophe"** - Historical context
 
-**[Film screening toolkit →](/campus-organizing/film-screenings)**
+**[Film screening toolkit →](/campus-organizing/weekly-actions#film-screenings)**
 
 ---
 
@@ -351,10 +351,10 @@ Lead campaigns and create change:
 **Start here:** Read [Palestine 101](/education#palestine-101), then pick [one 5-minute action](/start-here#i-have-5-minutes)
 
 ### Have some knowledge?
-**Next step:** [Join or start a campus group](/campus-organizing/starting-a-group), attend a local meeting
+**Next step:** [Join or start a campus group](/campus-organizing), attend a local meeting
 
 ### Ready to lead?
-**Dive in:** Launch a [divestment campaign](/campus-organizing/divestment) or take on a [coordinator role](/campus-organizing/roles)
+**Dive in:** Launch a [divestment campaign](/campus-organizing/campaigns#divestment) or take on a [coordinator role](/campus-organizing/roles)
 
 ---
 
@@ -431,7 +431,7 @@ Criticism of Israeli government policy is not antisemitism. Many Jewish students
 - [Email your MP](/take-action#email-templates)
 - [Find groups near you](#find-groups-near-you)
 - [Download organizing toolkits](#download-toolkits)
-- [Join campus group](/campus-organizing/starting-a-group)
+- [Join campus group](/campus-organizing)
 
 ---
 

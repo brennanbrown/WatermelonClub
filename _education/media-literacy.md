@@ -292,7 +292,7 @@ Sincerely,
 3. Submit to opinion editor
 4. Follow up after 1 week
 
-[Full media engagement guide →](/campus-organizing/media)
+[Full media engagement guide →](/campus-organizing/campaigns#media)
 
 ---
 
@@ -383,8 +383,8 @@ Sincerely,
 
 **Take Action:**
 - [Challenge specific outlets →](https://www.cjpmemap.ca/alerts)
-- [Campus media engagement guide →](/campus-organizing/media)
-- [Op-ed strategy →](/campus-organizing/media#op-ed-strategy)
+- [Campus media engagement guide →](/campus-organizing/campaigns#media)
+- [Op-ed strategy →](/campus-organizing/campaigns#media)
 
 ---
 

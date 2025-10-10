@@ -88,7 +88,7 @@ Post one of these resources to your social media:
 4. Create sustainable structure
 5. Build faculty/staff relationships
 
-[Full guide to starting a group →](/campus-organizing/starting-a-group)
+[Full guide to starting a group →](/campus-organizing)
 
 ### Take on a Weekly Action
 
@@ -97,20 +97,20 @@ Post one of these resources to your social media:
 - Create info pamphlets/QR codes
 - Sign-up sheet for email list
 - Schedule 2-3 people per shift
-- [Tabling toolkit →](/campus-organizing/tabling)
+- [Tabling toolkit →](/campus-organizing/weekly-actions#tabling)
 
 **Weekly Vigils**:
 - Choose symbolic location
 - Obtain permits
 - 30 min - 2 hours duration
 - LED candles, signs, readings
-- [Vigil planning guide →](/campus-organizing/vigils)
+- [Vigil planning guide →](/campus-organizing/weekly-actions#vigils)
 
 **Social Media Management**:
 - Manage accounts 1-2 hours daily
 - Weekly content calendar
 - Educational + action posts
-- [Social media toolkit →](/campus-organizing/social-media)
+- [Social media toolkit →](/campus-organizing/weekly-actions#social-media)
 
 ### Attend Local Organizing Meetings
 
@@ -160,31 +160,31 @@ Post one of these resources to your social media:
 - File Freedom of Information requests
 - Identify problematic companies
 - Document connections
-- [Research toolkit →](/campus-organizing/divestment/research)
+- [Research toolkit →](/campus-organizing/campaigns#divestment)
 
 **Phase 2: Coalition Building (Ongoing)**
 - Build core team (10-15 committed)
 - Engage faculty unions
 - Partner with other student groups
 - Connect with community orgs
-- [Coalition building guide →](/campus-organizing/divestment/coalitions)
+- [Coalition building guide →](/campus-organizing/campaigns#divestment)
 
 **Phase 3: Public Launch (1-2 months)**
 - Launch petition (goal: 1000+ signatures)
 - Educational campaign
 - Meet with administration
 - Media coverage
-- [Launch guide →](/campus-organizing/divestment/launch)
+- [Launch guide →](/campus-organizing/campaigns#divestment)
 
 **Phase 4: Escalation (As needed)**
 - Public demonstrations
 - Coordinated walkouts
 - Encampments (last resort, high risk)
-- [Escalation tactics →](/campus-organizing/divestment/escalation)
+- [Escalation tactics →](/campus-organizing/campaigns#divestment)
 
 **⚠️ Know Your Rights:** Before major actions, understand risks. [Palestine Legal](https://palestinelegal.org/) provides Know Your Rights workshops.
 
-[Complete divestment campaign guide →](/campus-organizing/divestment)
+[Complete divestment campaign guide →](/campus-organizing/campaigns#divestment)
 
 ### Organize Educational Events
 
@@ -193,7 +193,7 @@ Post one of these resources to your social media:
 - Book room with AV equipment
 - Invite speaker/facilitator
 - Prepare discussion questions
-- [Film screening toolkit →](/campus-organizing/film-screenings)
+- [Film screening toolkit →](/campus-organizing/weekly-actions#film-screenings)
 
 **Recommended Films:**
 - "Five Broken Cameras" - Non-violent resistance in Bil'in
@@ -204,7 +204,7 @@ Post one of these resources to your social media:
 - Palestinian academics and activists
 - International law scholars
 - Canadian MPs/policy experts
-- [Bringing speakers to campus guide →](/campus-organizing/speakers)
+- [Bringing speakers to campus guide →](/campus-organizing/campaigns#speakers)
 
 ### Build Coalitions
 
@@ -220,7 +220,7 @@ Post one of these resources to your social media:
 - Co-sponsor events
 - Joint social media campaigns
 - Shared resources
-- [Coalition building toolkit →](/campus-organizing/coalitions)
+- [Coalition building toolkit →](/campus-organizing/campaigns#coalition-building)
 
 ### Take on Leadership Role
 
@@ -230,31 +230,31 @@ Post one of these resources to your social media:
 - Manage social media (1-2 hours daily)
 - Write press releases
 - Design graphics
-- [Role description & templates →](/campus-organizing/roles/communications)
+- [Role description & templates →](/campus-organizing/roles)
 
 **Outreach Coordinator:**
 - Build coalitions
 - Recruit new members
 - Faculty/staff relationships
-- [Role description & templates →](/campus-organizing/roles/outreach)
+- [Role description & templates →](/campus-organizing/roles)
 
 **Research Coordinator:**
 - Track university investments
 - Create educational resources
 - Fact-check claims
-- [Role description & templates →](/campus-organizing/roles/research)
+- [Role description & templates →](/campus-organizing/roles)
 
 **Events Coordinator:**
 - Plan speakers, vigils, actions
 - Handle logistics
 - Coordinate volunteers
-- [Role description & templates →](/campus-organizing/roles/events)
+- [Role description & templates →](/campus-organizing/roles)
 
 **Finance Coordinator:**
 - Track budget
 - Plan fundraisers
 - Apply for funding
-- [Role description & templates →](/campus-organizing/roles/finance)
+- [Role description & templates →](/campus-organizing/roles)
 
 [View all role templates →](/campus-organizing/roles)
 
