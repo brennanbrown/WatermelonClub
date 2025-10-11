@@ -8,18 +8,18 @@ description: Learn about Palestine, take action, organize for justice. Built by 
 
 <div class="urgent-cta">
   <div class="urgent-cta-content">
-    <h2>🚨 Take Action Right Now</h2>
+    <h2 class="no-collapse">🚨 Take Action Right Now</h2>
     <p>The genocide in Gaza continues. Here's what you can do in the next 5 minutes:</p>
     <div class="urgent-cta-actions">
-      <a href="/take-action#email-templates" class="urgent-cta-btn">📧 Email Your MP</a>
-      <a href="/take-action#donate" class="urgent-cta-btn">💰 Donate</a>
-      <a href="/people-to-follow" class="urgent-cta-btn">📱 Amplify Voices</a>
+      <a href="https://www.cjpme.org/campaigns" target="_blank" class="urgent-cta-btn">📧 Email Your MP</a>
+      <a href="https://www.islamicreliefcanada.org/emergencies/palestine/" target="_blank" class="urgent-cta-btn">💰 Donate Now</a>
+      <a href="https://www.instagram.com/eye.on.palestine/" target="_blank" class="urgent-cta-btn">📱 Follow @eye.on.palestine</a>
       <a href="/campus-organizing" class="urgent-cta-btn">🍉 Start a Club</a>
     </div>
   </div>
 </div>
 
-## About This Platform
+## About This Platform {:.no-collapse}
 
 Resource hub for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.
 

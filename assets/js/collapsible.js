@@ -78,12 +78,21 @@ function wrapInCollapsible(heading, content) {
     const section = document.createElement('div');
     section.className = 'collapsible-section';
     
+    // IMPORTANT: Preserve the heading's ID on the section wrapper
+    const headingId = heading.id;
+    if (headingId) {
+        section.id = headingId;
+        section.setAttribute('data-heading-id', headingId);
+    }
+    
     // Create header
     const header = document.createElement('div');
     header.className = 'collapsible-header';
     
     // Move heading content to header
     const headingClone = heading.cloneNode(true);
+    // Remove ID from clone to avoid duplicates (ID is now on section)
+    headingClone.removeAttribute('id');
     header.appendChild(headingClone);
     
     // Add toggle icon
@@ -113,11 +122,6 @@ function wrapInCollapsible(heading, content) {
     
     // Replace original heading
     heading.parentNode.replaceChild(section, heading);
-    
-    // Store ID if heading had one
-    if (headingClone.id) {
-        section.id = headingClone.id;
-    }
 }
 
 function toggleCollapsible(section) {
@@ -146,48 +150,28 @@ function handleHashNavigation() {
     // Remove the # to get the ID
     const targetId = hash.substring(1);
     
-    // Try multiple strategies to find the target
+    // Find target - first try direct ID lookup
     let targetElement = document.getElementById(targetId);
     
-    // If not found directly, try finding a heading with this ID inside collapsible sections
     if (!targetElement) {
-        const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
-        for (const heading of headings) {
-            if (heading.id === targetId) {
-                targetElement = heading;
-                break;
-            }
-        }
-    }
-    
-    // Still not found? Try slugified versions
-    if (!targetElement) {
-        const slugified = targetId.toLowerCase().replace(/[^\w-]/g, '-');
-        targetElement = document.getElementById(slugified);
-    }
-    
-    if (!targetElement) {
-        console.warn(`Hash target not found: ${targetId}`);
+        console.warn(`Hash target not found: #${targetId}`);
         return;
     }
     
-    // Find the collapsible section containing this element
-    let collapsibleSection = targetElement.closest('.collapsible-section');
-    
-    // If the element itself is a collapsible section
+    // If the target is a collapsible section, open it
     if (targetElement.classList.contains('collapsible-section')) {
-        collapsibleSection = targetElement;
-    }
-    
-    // Also check if target is inside a collapsible-header
-    if (!collapsibleSection && targetElement.closest('.collapsible-header')) {
-        collapsibleSection = targetElement.closest('.collapsible-header').parentElement;
-    }
-    
-    if (collapsibleSection) {
-        // Open ALL parent collapsible sections (for nested sections)
-        let parent = collapsibleSection;
-        while (parent) {
+        // Open this section
+        if (!targetElement.classList.contains('active')) {
+            targetElement.classList.add('active');
+            const header = targetElement.querySelector('.collapsible-header');
+            if (header) {
+                header.setAttribute('aria-expanded', 'true');
+            }
+        }
+        
+        // Open all parent collapsible sections
+        let parent = targetElement.parentElement;
+        while (parent && parent !== document.body) {
             if (parent.classList && parent.classList.contains('collapsible-section')) {
                 if (!parent.classList.contains('active')) {
                     parent.classList.add('active');
@@ -199,26 +183,19 @@ function handleHashNavigation() {
             }
             parent = parent.parentElement;
         }
-        
-        // Scroll to it after a brief delay to allow expansion
-        setTimeout(() => {
-            // Scroll to the actual target element, not the section wrapper
-            const scrollTarget = targetElement.classList.contains('collapsible-section') 
-                ? targetElement 
-                : (targetElement.closest('.collapsible-header') || targetElement);
-            
-            scrollTarget.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            
-            // Add a visual highlight
-            scrollTarget.style.outline = '3px solid var(--watermelon-red)';
-            setTimeout(() => {
-                scrollTarget.style.outline = '';
-            }, 2000);
-        }, 150);
-    } else {
-        // Not in a collapsible section, just scroll
-        targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
+    
+    // Scroll after a delay to allow expansion
+    setTimeout(() => {
+        targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        
+        // Add a visual highlight flash
+        const originalOutline = targetElement.style.outline;
+        targetElement.style.outline = '3px solid var(--watermelon-red)';
+        setTimeout(() => {
+            targetElement.style.outline = originalOutline;
+        }, 2000);
+    }, 200);
 }
 
 // Export functions for use in other scripts if needed

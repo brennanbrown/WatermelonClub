@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Fun
+title: Creative Activism - Fun Ways to Organize
 description: Zines, stickers, posters, aesthetic letters - make organizing fun and accessible!
 ---
 
