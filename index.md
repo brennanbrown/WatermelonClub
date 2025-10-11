@@ -19,7 +19,8 @@ description: Learn about Palestine, take action, organize for justice. Built by 
   </div>
 </div>
 
-## About This Platform {:.no-collapse}
+## About This Platform
+{:.no-collapse}
 
 Resource hub for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.
 
