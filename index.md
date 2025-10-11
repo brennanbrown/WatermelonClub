@@ -22,13 +22,13 @@ description: Learn about Palestine, take action, organize for justice. Built by 
 ## What is Watermelon Club?
 {:.no-collapse}
 
-**Watermelon Club** is a student organizing movement making Palestine solidarity accessible, sustainable, and—importantly—fun. The watermelon (🍉) became a symbol of Palestinian resistance when displaying the Palestinian flag was criminalized. We reclaim it as a symbol of joyful, creative activism.
+**Watermelon Club** is a student organizing movement making Palestine solidarity accessible and sustainable. Our mission is to centre Palestinian joy and creative activism! The watermelon (🍉) became a symbol of Palestinian resistance when displaying the Palestinian flag was criminalized. We reclaim it as a symbol of joyful resistance.
 
-**Why this still matters:** Canada recognized Palestinian statehood on September 21, 2025, and a tentative ceasefire was reached October 10, 2025. This is progress—but recognition without action is hollow, and ceasefires without justice are temporary. The occupation continues. Settlements expand. Apartheid persists. Our work isn't done until Palestinians have full liberation, right of return, and self-determination.
+**Why this still matters:** Canada recognized Palestinian statehood on September 21, 2025, and a tentative ceasefire was reached October 10, 2025. This is progress, but recognition without action is hollow, and ceasefires without justice are temporary. The occupation continues. Settlements expand. Apartheid persists. Our work isn't done until Palestinians have full liberation, right of return, and self-determination.
 
 **What you'll find here:** Palestine 101 (history, facts, myth-busting), Campus organizing toolkit (how to start your own Watermelon Club, weekly actions, creative activism), Take action resources (email your MP, donate, BDS campaigns), Support & safety (legal rights, digital security, mental health for organizers).
 
-**How to help:** Start a Watermelon Club on your campus. Share this site with friends. Contribute resources or corrections to [mail@berryhouse.ca](mailto:mail@berryhouse.ca). Most importantly: keep organizing. Liberation isn't a moment—it's a movement.
+**How to help:** Start a Watermelon Club on your campus. Share this site with friends. Contribute resources or corrections to [mail@berryhouse.ca](mailto:mail@berryhouse.ca). Most importantly: keep organizing.
 
 **Who we are:** Created by students in Mohkínstsis (Calgary), maintained by Berry House. None of us are Palestinian, Arab, or Muslim—we center and amplify Palestinian voices, follow Palestinian-led movements like BDS, and build solidarity across communities. Jewish students and allies are central to this movement, including [Jewish Voice for Peace](https://jewishvoiceforpeace.org/) and [Independent Jewish Voices Canada](https://www.ijvcanada.org/).
 
