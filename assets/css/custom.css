@@ -78,6 +78,118 @@
 }
 
 /* ==========================================
+   Urgent CTA Box - Bright & Animated!
+   ========================================== */
+.urgent-cta {
+    background: linear-gradient(135deg, #FF6B6B 0%, #FF8787 100%);
+    border: 3px solid var(--watermelon-red);
+    border-radius: 20px;
+    padding: 2rem;
+    margin: 2rem 0;
+    box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3);
+    animation: pulse-glow 3s ease-in-out infinite;
+    position: relative;
+    overflow: hidden;
+}
+
+.urgent-cta::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 70%);
+    animation: rotate-gradient 8s linear infinite;
+}
+
+.urgent-cta-content {
+    position: relative;
+    z-index: 1;
+}
+
+.urgent-cta h2 {
+    color: #FFFFFF;
+    margin-top: 0;
+    font-size: 1.8rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.urgent-cta p {
+    color: #FFFFFF;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.urgent-cta-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+}
+
+.urgent-cta-btn {
+    display: inline-block;
+    background: #FFFFFF;
+    color: var(--watermelon-red);
+    padding: 0.8rem 1.5rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    border: 2px solid transparent;
+}
+
+.urgent-cta-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    background: var(--watermelon-green);
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.urgent-cta-btn:active {
+    transform: translateY(-1px);
+}
+
+@keyframes pulse-glow {
+    0%, 100% {
+        box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3), 0 0 0 0 rgba(255, 107, 107, 0.4);
+    }
+    50% {
+        box-shadow: 0 8px 32px rgba(255, 107, 107, 0.5), 0 0 20px 10px rgba(255, 107, 107, 0.2);
+    }
+}
+
+@keyframes rotate-gradient {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .urgent-cta {
+    background: linear-gradient(135deg, #D64545 0%, #E05555 100%);
+    border-color: #D64545;
+}
+
+[data-theme="dark"] .urgent-cta-btn {
+    background: #242424;
+    color: var(--watermelon-red);
+}
+
+[data-theme="dark"] .urgent-cta-btn:hover {
+    background: var(--watermelon-green);
+    color: #1a1a1a;
+}
+
+/* ==========================================
    Global Adjustments
    ========================================== */
 body {

@@ -145,9 +145,31 @@ function handleHashNavigation() {
     
     // Remove the # to get the ID
     const targetId = hash.substring(1);
-    const targetElement = document.getElementById(targetId);
     
-    if (!targetElement) return;
+    // Try multiple strategies to find the target
+    let targetElement = document.getElementById(targetId);
+    
+    // If not found directly, try finding a heading with this ID inside collapsible sections
+    if (!targetElement) {
+        const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        for (const heading of headings) {
+            if (heading.id === targetId) {
+                targetElement = heading;
+                break;
+            }
+        }
+    }
+    
+    // Still not found? Try slugified versions
+    if (!targetElement) {
+        const slugified = targetId.toLowerCase().replace(/[^\w-]/g, '-');
+        targetElement = document.getElementById(slugified);
+    }
+    
+    if (!targetElement) {
+        console.warn(`Hash target not found: ${targetId}`);
+        return;
+    }
     
     // Find the collapsible section containing this element
     let collapsibleSection = targetElement.closest('.collapsible-section');
@@ -157,17 +179,44 @@ function handleHashNavigation() {
         collapsibleSection = targetElement;
     }
     
-    if (collapsibleSection && !collapsibleSection.classList.contains('active')) {
-        // Open the section
-        collapsibleSection.classList.add('active');
-        collapsibleSection.querySelector('.collapsible-header').setAttribute('aria-expanded', 'true');
+    // Also check if target is inside a collapsible-header
+    if (!collapsibleSection && targetElement.closest('.collapsible-header')) {
+        collapsibleSection = targetElement.closest('.collapsible-header').parentElement;
+    }
+    
+    if (collapsibleSection) {
+        // Open ALL parent collapsible sections (for nested sections)
+        let parent = collapsibleSection;
+        while (parent) {
+            if (parent.classList && parent.classList.contains('collapsible-section')) {
+                if (!parent.classList.contains('active')) {
+                    parent.classList.add('active');
+                    const header = parent.querySelector('.collapsible-header');
+                    if (header) {
+                        header.setAttribute('aria-expanded', 'true');
+                    }
+                }
+            }
+            parent = parent.parentElement;
+        }
         
         // Scroll to it after a brief delay to allow expansion
         setTimeout(() => {
-            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 100);
+            // Scroll to the actual target element, not the section wrapper
+            const scrollTarget = targetElement.classList.contains('collapsible-section') 
+                ? targetElement 
+                : (targetElement.closest('.collapsible-header') || targetElement);
+            
+            scrollTarget.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            
+            // Add a visual highlight
+            scrollTarget.style.outline = '3px solid var(--watermelon-red)';
+            setTimeout(() => {
+                scrollTarget.style.outline = '';
+            }, 2000);
+        }, 150);
     } else {
-        // Just scroll to it
+        // Not in a collapsible section, just scroll
         targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 }

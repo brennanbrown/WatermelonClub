@@ -26,6 +26,8 @@ Build a community of students who care. Take meaningful action together. Create 
 
 **[Weekly Actions](/campus-organizing/weekly-actions)** - Sustainable activities to build power: Tabling (visibility & recruitment), Vigils (solidarity events), Film Screenings (education + recruitment), Social Media (digital organizing). 15-20 minutes to read.
 
+**[Creative Activism](/campus-organizing/creative-activism)** 🎨 - Make organizing fun! Zines, stickers, posters, aesthetic letters, crafting parties, guerrilla art. Turn activism into art, art into action. 20-25 minutes to read.
+
 **[Role Templates](/campus-organizing/roles)** - 5 essential coordinator roles: Communications (social media, press), Outreach (coalitions, recruitment), Research (investigations, fact-checking), Events (planning, logistics), Finance (budget, fundraising). 20-25 minutes to read.
 
 **[Strategic Campaigns](/campus-organizing/campaigns)** - Long-term organizing for structural change: Divestment (4-phase process, 1-3 years), Speakers (bringing Palestinian voices to campus), Media (challenging bias, shifting narratives). 25-30 minutes to read.
