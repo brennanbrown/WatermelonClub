@@ -10,27 +10,29 @@ description: Learn about Palestine, take action, organize for justice. Built by 
   <div class="urgent-cta-content">
     <h2 class="no-collapse">🚨 Take Action Right Now</h2>
     <p>The genocide in Gaza continues. Here's what you can do in the next 5 minutes:</p>
-    <div class="urgent-cta-actions">
+    <div class="urgent-cta-actions" style="justify-content: center;">
       <a href="https://www.cjpme.org/campaigns" target="_blank" class="urgent-cta-btn">📧 Email Your MP</a>
       <a href="https://www.islamicreliefcanada.org/emergencies/palestine/" target="_blank" class="urgent-cta-btn">💰 Donate Now</a>
-      <a href="https://www.instagram.com/eye.on.palestine/" target="_blank" class="urgent-cta-btn">📱 Follow @eye.on.palestine</a>
+      <a href="https://www.middleeasteye.net/" target="_blank" class="urgent-cta-btn">📰 Read Middle East Eye</a>
       <a href="/campus-organizing" class="urgent-cta-btn">🍉 Start a Club</a>
     </div>
   </div>
 </div>
 
-## About This Platform
+## What is Watermelon Club?
 {:.no-collapse}
 
-Resource hub for Canadian students (ages 16-24) to learn about Palestine, take action, and organize for justice.
+**Watermelon Club** is a student organizing movement making Palestine solidarity accessible, sustainable, and—importantly—fun. The watermelon (🍉) became a symbol of Palestinian resistance when displaying the Palestinian flag was criminalized. We reclaim it as a symbol of joyful, creative activism.
 
-Created by students in Mohkínstsis (Calgary), now maintained by Berry House. None of us are Palestinian, Arab, or Muslim—we center and amplify the voices, perspectives, goals, and calls to action of those who are.
+**Why this still matters:** Canada recognized Palestinian statehood on September 21, 2025, and a tentative ceasefire was reached October 10, 2025. This is progress—but recognition without action is hollow, and ceasefires without justice are temporary. The occupation continues. Settlements expand. Apartheid persists. Our work isn't done until Palestinians have full liberation, right of return, and self-determination.
 
-**If any information contradicts Palestinian calls to action,** email [mail@berryhouse.ca](mailto:mail@berryhouse.ca).
+**What you'll find here:** Palestine 101 (history, facts, myth-busting), Campus organizing toolkit (how to start your own Watermelon Club, weekly actions, creative activism), Take action resources (email your MP, donate, BDS campaigns), Support & safety (legal rights, digital security, mental health for organizers).
 
-**Critical distinction:** Antisemitism and anti-Zionism are NOT the same. We oppose antisemitism. Criticism of Israeli government policies is not antisemitism—it is legitimate political speech grounded in human rights and international law.
+**How to help:** Start a Watermelon Club on your campus. Share this site with friends. Contribute resources or corrections to [mail@berryhouse.ca](mailto:mail@berryhouse.ca). Most importantly: keep organizing. Liberation isn't a moment—it's a movement.
 
-Many Jewish students and allies are central to the Palestinian solidarity movement, including [Jewish Voice for Peace](https://jewishvoiceforpeace.org/) and [Independent Jewish Voices Canada](https://www.ijvcanada.org/).
+**Who we are:** Created by students in Mohkínstsis (Calgary), maintained by Berry House. None of us are Palestinian, Arab, or Muslim—we center and amplify Palestinian voices, follow Palestinian-led movements like BDS, and build solidarity across communities. Jewish students and allies are central to this movement, including [Jewish Voice for Peace](https://jewishvoiceforpeace.org/) and [Independent Jewish Voices Canada](https://www.ijvcanada.org/).
+
+**Note:** Criticism of Israeli government policies is not antisemitism—it is legitimate political speech grounded in human rights and international law. We oppose all forms of racism, including antisemitism.
 
 ---
 
